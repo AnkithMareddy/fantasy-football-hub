@@ -4,8 +4,8 @@
  "week": 5,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-10-11T09:33:20Z",
- "live_fetched_at": "2026-10-11T09:31:02Z",
+ "generated_at": "2026-10-11T09:35:44Z",
+ "live_fetched_at": "2026-10-11T09:33:27Z",
  "live_games": {
   "final": [
    "DAL",
@@ -3820,6 +3820,18 @@
    "source": "Jeremy Fowler (ESPN) via ESPN Fantasy inactives column, Sleeper status"
   },
   {
+   "name": "Caleb Douglas",
+   "team": "Ulyssesbo",
+   "pos": "WR",
+   "nfl_team": "MIA",
+   "pid": "13296",
+   "current_status": "Out",
+   "expected_games_missed": 3.1,
+   "return_week": 7,
+   "note": "Ankle, hurt Week 2; missed Weeks 3-4, did not practice Wed/Thu of Week 5 and shown as Out on Sleeper (third straight miss). Hafley has called him day-to-day; official Week 5 designation not confirmed in what I could read. Dolphins bye is Week 6, so Week 7 is the next game - unconfirmed.",
+   "source": "Jeff Hafley via RotoBaller, Sleeper status (10/11)"
+  },
+  {
    "name": "Jonah Coleman",
    "team": "KamarasNuts",
    "pos": "RB",
@@ -3926,18 +3938,6 @@
    "return_week": null,
    "note": null,
    "source": null
-  },
-  {
-   "name": "Caleb Douglas",
-   "team": "Ulyssesbo",
-   "pos": "WR",
-   "nfl_team": "MIA",
-   "pid": "13296",
-   "current_status": "Out",
-   "expected_games_missed": 2.1,
-   "return_week": 6,
-   "note": "Ankle, hurt Week 2; missed Weeks 3-4, did not practice Wed/Thu of Week 5 and shown as Out on Sleeper (third straight miss). Hafley has called him day-to-day; official Week 5 designation not confirmed in what I could read. Week 6 unconfirmed.",
-   "source": "Jeff Hafley via RotoBaller, Sleeper status (10/11)"
   },
   {
    "name": "Stefon Diggs",
