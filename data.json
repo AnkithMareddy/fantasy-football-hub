@@ -4,8 +4,8 @@
  "week": 6,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-10-13T14:32:32Z",
- "live_fetched_at": "2026-10-13T14:30:24Z",
+ "generated_at": "2026-10-14T01:23:46Z",
+ "live_fetched_at": "2026-10-14T01:21:42Z",
  "live_games": {
   "final": [],
   "live": []
@@ -78,11 +78,11 @@
   {
    "team": "ak81",
    "rank": 1,
-   "proj_w": 8.9,
-   "proj_l": 5.1,
-   "playoff_pct": 89.9,
-   "bye_pct": 58.0,
-   "title_pct": 20.7,
+   "proj_w": 9.0,
+   "proj_l": 5.0,
+   "playoff_pct": 89.8,
+   "bye_pct": 57.5,
+   "title_pct": 20.8,
    "is_user": false,
    "actual_w": 4,
    "actual_l": 1,
@@ -92,11 +92,11 @@
   {
    "team": "kisiluv",
    "rank": 2,
-   "proj_w": 7.7,
-   "proj_l": 6.3,
-   "playoff_pct": 75.5,
-   "bye_pct": 30.9,
-   "title_pct": 19.6,
+   "proj_w": 7.9,
+   "proj_l": 6.1,
+   "playoff_pct": 79.0,
+   "bye_pct": 33.8,
+   "title_pct": 21.4,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 3,
@@ -106,11 +106,11 @@
   {
    "team": "ryancrabbe",
    "rank": 3,
-   "proj_w": 8.2,
-   "proj_l": 5.8,
-   "playoff_pct": 71.7,
-   "bye_pct": 27.7,
-   "title_pct": 9.2,
+   "proj_w": 8.4,
+   "proj_l": 5.6,
+   "playoff_pct": 75.1,
+   "bye_pct": 29.3,
+   "title_pct": 9.9,
    "is_user": false,
    "actual_w": 4,
    "actual_l": 1,
@@ -120,11 +120,11 @@
   {
    "team": "uaintgotjuicehoeido",
    "rank": 4,
-   "proj_w": 7.6,
-   "proj_l": 6.4,
-   "playoff_pct": 61.6,
-   "bye_pct": 17.9,
-   "title_pct": 10.4,
+   "proj_w": 7.9,
+   "proj_l": 6.1,
+   "playoff_pct": 69.1,
+   "bye_pct": 21.0,
+   "title_pct": 12.3,
    "is_user": true,
    "actual_w": 3,
    "actual_l": 2,
@@ -134,11 +134,11 @@
   {
    "team": "joshsandorra",
    "rank": 5,
-   "proj_w": 7.4,
-   "proj_l": 6.6,
-   "playoff_pct": 53.1,
-   "bye_pct": 12.7,
-   "title_pct": 5.6,
+   "proj_w": 7.5,
+   "proj_l": 6.5,
+   "playoff_pct": 56.5,
+   "bye_pct": 13.7,
+   "title_pct": 6.0,
    "is_user": false,
    "actual_w": 3,
    "actual_l": 2,
@@ -148,11 +148,11 @@
   {
    "team": "Gujju8",
    "rank": 6,
-   "proj_w": 7.1,
-   "proj_l": 6.9,
-   "playoff_pct": 52.3,
-   "bye_pct": 14.0,
-   "title_pct": 6.1,
+   "proj_w": 7.2,
+   "proj_l": 6.8,
+   "playoff_pct": 55.7,
+   "bye_pct": 14.4,
+   "title_pct": 7.0,
    "is_user": false,
    "actual_w": 3,
    "actual_l": 2,
@@ -160,27 +160,13 @@
    "faab": 64
   },
   {
-   "team": "arabdhab",
-   "rank": 7,
-   "proj_w": 7.1,
-   "proj_l": 6.9,
-   "playoff_pct": 50.8,
-   "bye_pct": 11.6,
-   "title_pct": 8.2,
-   "is_user": false,
-   "actual_w": 2,
-   "actual_l": 3,
-   "pf": 511.8,
-   "faab": 67
-  },
-  {
    "team": "zachschumann",
-   "rank": 8,
-   "proj_w": 6.9,
-   "proj_l": 7.1,
-   "playoff_pct": 49.0,
-   "bye_pct": 11.3,
-   "title_pct": 9.2,
+   "rank": 7,
+   "proj_w": 6.8,
+   "proj_l": 7.2,
+   "playoff_pct": 48.9,
+   "bye_pct": 10.4,
+   "title_pct": 9.0,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 3,
@@ -189,12 +175,12 @@
   },
   {
    "team": "raymondfeltons",
-   "rank": 9,
-   "proj_w": 6.4,
-   "proj_l": 7.6,
-   "playoff_pct": 42.1,
-   "bye_pct": 8.1,
-   "title_pct": 5.8,
+   "rank": 8,
+   "proj_w": 6.5,
+   "proj_l": 7.5,
+   "playoff_pct": 45.0,
+   "bye_pct": 8.7,
+   "title_pct": 6.3,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 3,
@@ -203,12 +189,12 @@
   },
   {
    "team": "KamarasNuts",
-   "rank": 10,
+   "rank": 9,
    "proj_w": 6.8,
    "proj_l": 7.2,
-   "playoff_pct": 37.5,
-   "bye_pct": 6.3,
-   "title_pct": 4.3,
+   "playoff_pct": 38.5,
+   "bye_pct": 6.7,
+   "title_pct": 4.2,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 3,
@@ -216,13 +202,27 @@
    "faab": 83
   },
   {
+   "team": "arabdhab",
+   "rank": 10,
+   "proj_w": 6.2,
+   "proj_l": 7.8,
+   "playoff_pct": 26.2,
+   "bye_pct": 3.3,
+   "title_pct": 2.1,
+   "is_user": false,
+   "actual_w": 2,
+   "actual_l": 3,
+   "pf": 511.8,
+   "faab": 67
+  },
+  {
    "team": "Ulyssesbo",
    "rank": 11,
    "proj_w": 5.8,
    "proj_l": 8.2,
-   "playoff_pct": 14.5,
-   "bye_pct": 1.3,
-   "title_pct": 0.8,
+   "playoff_pct": 13.7,
+   "bye_pct": 1.1,
+   "title_pct": 0.9,
    "is_user": false,
    "actual_w": 2,
    "actual_l": 3,
@@ -232,10 +232,10 @@
   {
    "team": "J2Money",
    "rank": 12,
-   "proj_w": 4.1,
-   "proj_l": 9.9,
-   "playoff_pct": 2.0,
-   "bye_pct": 0.0,
+   "proj_w": 4.2,
+   "proj_l": 9.8,
+   "playoff_pct": 2.5,
+   "bye_pct": 0.1,
    "title_pct": 0.1,
    "is_user": false,
    "actual_w": 1,
@@ -248,7 +248,7 @@
   {
    "a": "J2Money",
    "a_winpct": 18,
-   "a_pts": 65.2,
+   "a_pts": 65.1,
    "b": "ryancrabbe",
    "b_winpct": 82,
    "b_pts": 86.5,
@@ -306,26 +306,6 @@
       "inj_type": null
      },
      {
-      "pid": "5844",
-      "name": "T.J. Hockenson",
-      "pos": "TE",
-      "nfl": "MIN",
-      "pts": 0.0,
-      "state": "bye",
-      "inj": "Questionable",
-      "inj_type": "Concussion"
-     },
-     {
-      "pid": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "nfl": "LAC",
-      "pts": 0.0,
-      "state": "todo",
-      "inj": "Doubtful",
-      "inj_type": "Hamstring"
-     },
-     {
       "pid": "12185",
       "name": "Spencer Shrader",
       "pos": "K",
@@ -348,29 +328,8 @@
     ],
     "done": 0,
     "in_play": 0,
-    "to_play": 8,
-    "alerts": [
-     {
-      "pid": "5844",
-      "name": "T.J. Hockenson",
-      "pos": "TE",
-      "nfl": "MIN",
-      "pts": 0.0,
-      "state": "bye",
-      "inj": "Questionable",
-      "inj_type": "Concussion"
-     },
-     {
-      "pid": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "nfl": "LAC",
-      "pts": 0.0,
-      "state": "todo",
-      "inj": "Doubtful",
-      "inj_type": "Hamstring"
-     }
-    ]
+    "to_play": 7,
+    "alerts": []
    },
    "b_side": {
     "live": 0,
@@ -422,7 +381,7 @@
       "nfl": "PHI",
       "pts": 0.0,
       "state": "todo",
-      "inj": "Out",
+      "inj": "Questionable",
       "inj_type": "Hamstring"
      },
      {
@@ -497,7 +456,7 @@
       "nfl": "PHI",
       "pts": 0.0,
       "state": "todo",
-      "inj": "Out",
+      "inj": "Questionable",
       "inj_type": "Hamstring"
      }
     ]
@@ -505,11 +464,11 @@
   },
   {
    "a": "joshsandorra",
-   "a_winpct": 36,
+   "a_winpct": 34,
    "a_pts": 78.2,
    "b": "raymondfeltons",
-   "b_winpct": 64,
-   "b_pts": 88.0,
+   "b_winpct": 66,
+   "b_pts": 88.3,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -520,7 +479,7 @@
       "nfl": "CHI",
       "pts": 0.0,
       "state": "todo",
-      "inj": "Out",
+      "inj": "Questionable",
       "inj_type": "Hamstring"
      },
      {
@@ -551,7 +510,7 @@
       "pts": 0.0,
       "state": "todo",
       "inj": "Questionable",
-      "inj_type": null
+      "inj_type": "Ankle"
      },
      {
       "pid": "13279",
@@ -615,7 +574,7 @@
       "nfl": "CHI",
       "pts": 0.0,
       "state": "todo",
-      "inj": "Out",
+      "inj": "Questionable",
       "inj_type": "Hamstring"
      },
      {
@@ -626,7 +585,7 @@
       "pts": 0.0,
       "state": "todo",
       "inj": "Questionable",
-      "inj_type": null
+      "inj_type": "Ankle"
      },
      {
       "pid": "11646",
@@ -684,12 +643,12 @@
       "inj_type": null
      },
      {
-      "pid": "11610",
-      "name": "Malik Washington",
+      "pid": "12526",
+      "name": "Tetairoa McMillan",
       "pos": "WR",
-      "nfl": "MIA",
+      "nfl": "CAR",
       "pts": 0.0,
-      "state": "bye",
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -724,29 +683,29 @@
       "inj_type": null
      },
      {
-      "pid": "MIN",
-      "name": "Minnesota Vikings",
+      "pid": "NE",
+      "name": "New England Patriots",
       "pos": "DEF",
-      "nfl": "MIN",
+      "nfl": "NE",
       "pts": 0.0,
-      "state": "bye",
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
     "done": 0,
     "in_play": 0,
-    "to_play": 7,
+    "to_play": 9,
     "alerts": []
    }
   },
   {
    "a": "zachschumann",
-   "a_winpct": 72,
+   "a_winpct": 73,
    "a_pts": 85.9,
    "b": "arabdhab",
-   "b_winpct": 28,
-   "b_pts": 70.8,
+   "b_winpct": 27,
+   "b_pts": 70.6,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -791,6 +750,16 @@
       "inj_type": null
      },
      {
+      "pid": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "nfl": "JAX",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
       "pid": "3271",
       "name": "Tyler Higbee",
       "pos": "TE",
@@ -821,10 +790,10 @@
       "inj_type": null
      },
      {
-      "pid": "JAX",
-      "name": "Jacksonville Jaguars",
+      "pid": "SF",
+      "name": "San Francisco 49ers",
       "pos": "DEF",
-      "nfl": "JAX",
+      "nfl": "SF",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -833,7 +802,7 @@
     ],
     "done": 0,
     "in_play": 0,
-    "to_play": 8,
+    "to_play": 9,
     "alerts": [
      {
       "pid": "10229",
@@ -911,10 +880,10 @@
       "inj_type": null
      },
      {
-      "pid": "9500",
-      "name": "Josh Downs",
-      "pos": "WR",
-      "nfl": "IND",
+      "pid": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "nfl": "GB",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -950,7 +919,7 @@
   {
    "a": "Ulyssesbo",
    "a_winpct": 21,
-   "a_pts": 62.4,
+   "a_pts": 62.5,
    "b": "KamarasNuts",
    "b_winpct": 79,
    "b_pts": 80.7,
@@ -958,10 +927,10 @@
     "live": 0,
     "lineup": [
      {
-      "pid": "4046",
-      "name": "Patrick Mahomes",
+      "pid": "11566",
+      "name": "Jayden Daniels",
       "pos": "QB",
-      "nfl": "KC",
+      "nfl": "WAS",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -1067,10 +1036,10 @@
       "inj_type": null
      },
      {
-      "pid": "12533",
-      "name": "Jacory Croskey-Merritt",
+      "pid": "8151",
+      "name": "Kenneth Walker",
       "pos": "RB",
-      "nfl": "WAS",
+      "nfl": "KC",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -1117,13 +1086,13 @@
       "inj_type": null
      },
      {
-      "pid": "13298",
-      "name": "KC Concepcion",
-      "pos": "WR",
-      "nfl": "CLE",
+      "pid": "12533",
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "nfl": "WAS",
       "pts": 0.0,
       "state": "todo",
-      "inj": "Out",
+      "inj": null,
       "inj_type": null
      },
      {
@@ -1150,27 +1119,16 @@
     "done": 0,
     "in_play": 0,
     "to_play": 8,
-    "alerts": [
-     {
-      "pid": "13298",
-      "name": "KC Concepcion",
-      "pos": "WR",
-      "nfl": "CLE",
-      "pts": 0.0,
-      "state": "todo",
-      "inj": "Out",
-      "inj_type": null
-     }
-    ]
+    "alerts": []
    }
   },
   {
    "a": "ak81",
-   "a_winpct": 55,
-   "a_pts": 91.7,
+   "a_winpct": 54,
+   "a_pts": 91.5,
    "b": "uaintgotjuicehoeido",
-   "b_winpct": 45,
-   "b_pts": 88.1,
+   "b_winpct": 46,
+   "b_pts": 88.5,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -1274,10 +1232,10 @@
     "live": 0,
     "lineup": [
      {
-      "pid": "9758",
-      "name": "C.J. Stroud",
+      "pid": "12545",
+      "name": "Tyler Shough",
       "pos": "QB",
-      "nfl": "HOU",
+      "nfl": "NO",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -1314,12 +1272,12 @@
       "inj_type": null
      },
      {
-      "pid": "8148",
-      "name": "Jameson Williams",
+      "pid": "5846",
+      "name": "DK Metcalf",
       "pos": "WR",
-      "nfl": "DET",
+      "nfl": "PIT",
       "pts": 0.0,
-      "state": "bye",
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1334,10 +1292,10 @@
       "inj_type": null
      },
      {
-      "pid": "5846",
-      "name": "DK Metcalf",
-      "pos": "WR",
-      "nfl": "PIT",
+      "pid": "1466",
+      "name": "Travis Kelce",
+      "pos": "TE",
+      "nfl": "KC",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -1366,17 +1324,17 @@
     ],
     "done": 0,
     "in_play": 0,
-    "to_play": 8,
+    "to_play": 9,
     "alerts": []
    }
   },
   {
    "a": "kisiluv",
    "a_winpct": 53,
-   "a_pts": 71.4,
+   "a_pts": 71.3,
    "b": "Gujju8",
    "b_winpct": 47,
-   "b_pts": 69.3,
+   "b_pts": 69.6,
    "a_side": {
     "live": 0,
     "lineup": [
@@ -1655,34 +1613,26 @@
   {
    "team": "PHI",
    "player": "DeVonta Smith",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "PHI VS JAX",
    "owner": "ryancrabbe"
-  },
-  {
-   "team": "PHI",
-   "player": "Saquon Barkley",
-   "status": "Out",
-   "type": "Hamstring",
-   "game": "PHI VS JAX",
-   "owner": "ryancrabbe"
-  },
-  {
-   "team": "CHI",
-   "player": "Kyle Monangai",
-   "status": "Out",
-   "type": "Toe",
-   "game": "CHI @ GB",
-   "owner": "arabdhab"
   },
   {
    "team": "CHI",
    "player": "Caleb Williams",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "CHI @ GB",
    "owner": "joshsandorra"
+  },
+  {
+   "team": "CHI",
+   "player": "Kyle Monangai",
+   "status": "Questionable",
+   "type": "Toe",
+   "game": "CHI @ GB",
+   "owner": "arabdhab"
   },
   {
    "team": "HOU",
@@ -1695,23 +1645,15 @@
   {
    "team": "MIA",
    "player": "Caleb Douglas",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Ankle",
    "game": "CIN @ MIA",
    "owner": "Ulyssesbo"
   },
   {
-   "team": "NE",
-   "player": "A.J. Brown",
-   "status": "Injured Reserve",
-   "type": "Ankle",
-   "game": "LV @ NE",
-   "owner": "J2Money"
-  },
-  {
    "team": "MIN",
    "player": "Jordan Addison",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "MIN @ NO",
    "owner": "J2Money"
@@ -1727,7 +1669,7 @@
   {
    "team": "NYJ",
    "player": "Breece Hall",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Quadriceps",
    "game": "CLE @ NYJ",
    "owner": "KamarasNuts"
@@ -1751,26 +1693,42 @@
   {
    "team": "WSH",
    "player": "Stefon Diggs",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "NYG @ WSH",
    "owner": "ak81"
   },
   {
-   "team": "LAC",
-   "player": "Tre' Harris",
-   "status": "Doubtful",
-   "type": "Hamstring",
+   "team": "DEN",
+   "player": "Jonah Coleman",
+   "status": "Injured Reserve",
+   "type": "Ankle",
    "game": "DEN @ LAC",
-   "owner": "J2Money"
+   "owner": "KamarasNuts"
   },
   {
-   "team": "SF",
-   "player": "Christian Kirk",
-   "status": "Injured Reserve",
-   "type": "Calf",
+   "team": "SEA",
+   "player": "Zach Charbonnet",
+   "status": "Out",
+   "type": "Knee - ACL",
    "game": "SF @ SEA",
-   "owner": "uaintgotjuicehoeido"
+   "owner": "joshsandorra"
+  },
+  {
+   "team": "SEA",
+   "player": "Jaxon Smith-Njigba",
+   "status": "Questionable",
+   "type": "Ankle",
+   "game": "SF @ SEA",
+   "owner": "joshsandorra"
+  },
+  {
+   "team": "BAL",
+   "player": "Lamar Jackson",
+   "status": "Questionable",
+   "type": "Ankle",
+   "game": "BAL @ ATL",
+   "owner": "raymondfeltons"
   },
   {
    "team": "BAL",
@@ -1781,25 +1739,17 @@
    "owner": "KamarasNuts"
   },
   {
-   "team": "BAL",
-   "player": "Lamar Jackson",
-   "status": "Out",
-   "type": "Ankle",
-   "game": "BAL @ ATL",
-   "owner": "raymondfeltons"
-  },
-  {
-   "team": "DAL",
-   "player": "Drew Shelton",
-   "status": "Out",
-   "type": "Hamstring",
-   "game": "TB @ DAL",
-   "owner": null
+   "team": "BUF",
+   "player": "DJ Moore",
+   "status": "Questionable",
+   "type": "Shoulder - AC Joint",
+   "game": "BUF @ LAR",
+   "owner": "zachschumann"
   },
   {
    "team": "DAL",
    "player": "DeMarvion Overshown",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "TB @ DAL",
    "owner": null
@@ -1807,8 +1757,16 @@
   {
    "team": "DAL",
    "player": "Joey Porter Jr.",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Illness",
+   "game": "TB @ DAL",
+   "owner": null
+  },
+  {
+   "team": "DAL",
+   "player": "Drew Shelton",
+   "status": "Questionable",
+   "type": "Hamstring",
    "game": "TB @ DAL",
    "owner": null
   }
@@ -1817,23 +1775,23 @@
   "lines": {
    "DEN": {
     "opp": "SEA",
-    "spread": 3.0,
+    "spread": 2.5,
     "total": 40.5,
-    "implied": 18.8,
-    "mult": 0.852,
-    "rb_mult": 0.852,
-    "wr_mult": 0.852,
+    "implied": 19.0,
+    "mult": 0.864,
+    "rb_mult": 0.864,
+    "wr_mult": 0.864,
     "home": true,
     "kickoff": "2026-10-16T00:15Z"
    },
    "SEA": {
     "opp": "DEN",
-    "spread": -3.0,
+    "spread": -2.5,
     "total": 40.5,
-    "implied": 21.8,
-    "mult": 0.989,
-    "rb_mult": 0.989,
-    "wr_mult": 0.989,
+    "implied": 21.5,
+    "mult": 0.977,
+    "rb_mult": 0.977,
+    "wr_mult": 0.977,
     "home": false,
     "kickoff": "2026-10-16T00:15Z"
    },
@@ -1884,8 +1842,8 @@
    "CLE": {
     "opp": "BAL",
     "spread": 4.5,
-    "total": 40.5,
-    "implied": 18.0,
+    "total": 41.5,
+    "implied": 18.5,
     "mult": 0.85,
     "rb_mult": 0.85,
     "wr_mult": 0.85,
@@ -1895,11 +1853,11 @@
    "BAL": {
     "opp": "CLE",
     "spread": -4.5,
-    "total": 40.5,
-    "implied": 22.5,
-    "mult": 1.023,
-    "rb_mult": 1.023,
-    "wr_mult": 1.023,
+    "total": 41.5,
+    "implied": 23.0,
+    "mult": 1.045,
+    "rb_mult": 1.045,
+    "wr_mult": 1.045,
     "home": false,
     "kickoff": "2026-10-18T17:00Z"
    },
@@ -1949,75 +1907,75 @@
    },
    "NYG": {
     "opp": "NO",
-    "spread": -1.5,
-    "total": 45.5,
-    "implied": 23.5,
-    "mult": 1.068,
-    "rb_mult": 1.068,
-    "wr_mult": 1.068,
-    "home": true,
-    "kickoff": "2026-10-18T17:00Z"
-   },
-   "NO": {
-    "opp": "NYG",
     "spread": 1.5,
     "total": 45.5,
     "implied": 22.0,
     "mult": 1.0,
     "rb_mult": 1.0,
     "wr_mult": 1.0,
+    "home": true,
+    "kickoff": "2026-10-18T17:00Z"
+   },
+   "NO": {
+    "opp": "NYG",
+    "spread": -1.5,
+    "total": 45.5,
+    "implied": 23.5,
+    "mult": 1.068,
+    "rb_mult": 1.068,
+    "wr_mult": 1.068,
     "home": false,
     "kickoff": "2026-10-18T17:00Z"
    },
    "PHI": {
     "opp": "CAR",
     "spread": -1.5,
-    "total": 41.5,
-    "implied": 21.5,
-    "mult": 0.977,
-    "rb_mult": 0.977,
-    "wr_mult": 0.977,
+    "total": 40.5,
+    "implied": 21.0,
+    "mult": 0.955,
+    "rb_mult": 0.955,
+    "wr_mult": 0.955,
     "home": true,
     "kickoff": "2026-10-18T17:00Z"
    },
    "CAR": {
     "opp": "PHI",
     "spread": 1.5,
-    "total": 41.5,
-    "implied": 20.0,
-    "mult": 0.909,
-    "rb_mult": 0.909,
-    "wr_mult": 0.909,
+    "total": 40.5,
+    "implied": 19.5,
+    "mult": 0.886,
+    "rb_mult": 0.886,
+    "wr_mult": 0.886,
     "home": false,
     "kickoff": "2026-10-18T17:00Z"
    },
    "TB": {
     "opp": "PIT",
-    "spread": 3.0,
-    "total": 40.5,
-    "implied": 18.8,
-    "mult": 0.852,
-    "rb_mult": 0.852,
-    "wr_mult": 0.852,
+    "spread": 2.5,
+    "total": 39.5,
+    "implied": 18.5,
+    "mult": 0.85,
+    "rb_mult": 0.85,
+    "wr_mult": 0.85,
     "home": true,
     "kickoff": "2026-10-18T17:00Z"
    },
    "PIT": {
     "opp": "TB",
-    "spread": -3.0,
-    "total": 40.5,
-    "implied": 21.8,
-    "mult": 0.989,
-    "rb_mult": 0.989,
-    "wr_mult": 0.989,
+    "spread": -2.5,
+    "total": 39.5,
+    "implied": 21.0,
+    "mult": 0.955,
+    "rb_mult": 0.955,
+    "wr_mult": 0.955,
     "home": false,
     "kickoff": "2026-10-18T17:00Z"
    },
    "LAR": {
     "opp": "ARI",
-    "spread": -13.5,
-    "total": 52.5,
-    "implied": 33.0,
+    "spread": -12.5,
+    "total": 51.5,
+    "implied": 32.0,
     "mult": 1.15,
     "rb_mult": 1.15,
     "wr_mult": 1.1,
@@ -2026,8 +1984,8 @@
    },
    "ARI": {
     "opp": "LAR",
-    "spread": 13.5,
-    "total": 52.5,
+    "spread": 12.5,
+    "total": 51.5,
     "implied": 19.5,
     "mult": 0.886,
     "rb_mult": 0.85,
@@ -2059,20 +2017,20 @@
    },
    "LV": {
     "opp": "BUF",
-    "spread": 6.0,
+    "spread": 5.5,
     "total": 53.5,
-    "implied": 23.8,
-    "mult": 1.08,
-    "rb_mult": 1.08,
-    "wr_mult": 1.08,
+    "implied": 24.0,
+    "mult": 1.091,
+    "rb_mult": 1.091,
+    "wr_mult": 1.091,
     "home": true,
     "kickoff": "2026-10-18T20:25Z"
    },
    "BUF": {
     "opp": "LV",
-    "spread": -6.0,
+    "spread": -5.5,
     "total": 53.5,
-    "implied": 29.8,
+    "implied": 29.5,
     "mult": 1.15,
     "rb_mult": 1.15,
     "wr_mult": 1.15,
@@ -2556,47 +2514,6 @@
  },
  "highlights": [
   {
-   "game": "CIN @ MIA",
-   "kind": "recap",
-   "headline": "Cincinnati Bengals vs. Miami Dolphins: Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160546/game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/5c258c18-663e-4a1b-97d7-fbc511670c3a/5c258c18-663e-4a1b-97d7-fbc511670c3a.jpg",
-   "players": [
-    "Cincinnati Bengals"
-   ],
-   "owners": [
-    "KamarasNuts"
-   ]
-  },
-  {
-   "game": "CLE @ NYJ",
-   "kind": "recap",
-   "headline": "Cleveland Browns vs. New York Jets Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160890/cleveland-browns-vs-new-york-jets-game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/3663796f-b2b8-4ebf-9fc8-50a6cf036d99/3663796f-b2b8-4ebf-9fc8-50a6cf036d99.jpg",
-   "players": [
-    "Cleveland Browns",
-    "New York Jets"
-   ],
-   "owners": [
-    "arabdhab",
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "DEN @ LAC",
-   "kind": "recap",
-   "headline": "Denver Broncos vs. Los Angeles Chargers: Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162176/game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/6dc325ce-5cb5-45d2-9a33-7c08138786f3/6dc325ce-5cb5-45d2-9a33-7c08138786f3.jpg",
-   "players": [
-    "Denver Broncos"
-   ],
-   "owners": [
-    "ryancrabbe"
-   ]
-  },
-  {
    "game": "DET @ ARI",
    "kind": "recap",
    "headline": "Detroit Lions vs. Arizona Cardinals: Game Highlights",
@@ -2606,59 +2523,11 @@
    "owners": []
   },
   {
-   "game": "HOU @ TEN",
-   "kind": "recap",
-   "headline": "Houston Texans vs. Tennessee Titans: Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160298/game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/85ba2459-6dcb-40a3-bf7e-bc456522ac0e/85ba2459-6dcb-40a3-bf7e-bc456522ac0e.jpg",
-   "players": [
-    "Houston Texans"
-   ],
-   "owners": [
-    "uaintgotjuicehoeido"
-   ]
-  },
-  {
-   "game": "MIN @ NO",
-   "kind": "recap",
-   "headline": "Minnesota Vikings vs. New Orleans Saints: Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160262/game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/a6b10713-a761-4ddf-882d-32e041e334d7/a6b10713-a761-4ddf-882d-32e041e334d7.jpg",
-   "players": [
-    "Minnesota Vikings"
-   ],
-   "owners": [
-    "raymondfeltons"
-   ]
-  },
-  {
-   "game": "NYG @ WSH",
-   "kind": "recap",
-   "headline": "New York Giants vs. Washington Commanders: Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160835/game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/81a4e433-8f3b-459d-b683-bc2dba5dfe00/81a4e433-8f3b-459d-b683-bc2dba5dfe00.jpg",
-   "players": [
-    "Washington Commanders"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
    "game": "BAL @ ATL",
    "kind": "play",
    "headline": "Ravens storm back, defeat Falcons 30-23 in OT",
    "video_url": "https://www.espn.com/video/clip/_/id/50163825/ravens-storm-back-defeat-falcons-30-23-ot",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1012/3fdb6a53-cc5b-42a6-bb18-5dada789362d/3fdb6a53-cc5b-42a6-bb18-5dada789362d.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "BAL @ ATL",
-   "kind": "play",
-   "headline": "Jessie Bates III takes fumble recovery 36 yards to the house",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162900/jessie-bates-iii-takes-fumble-recovery-36-yards-house",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/a9258b6b992f44a2a10767cedd9311b81436/a9258b6b992f44a2a10767cedd9311b81436.jpg",
    "players": [],
    "owners": []
   },
@@ -2703,6 +2572,15 @@
    "headline": "Tyler Huntley's QB sneak gives Ravens a lead in OT",
    "video_url": "https://www.espn.com/video/clip/_/id/50163796/tyler-huntley-qb-sneak-gives-ravens-lead-ot",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/13933e98573a49f5929f63876ed97b5f2/13933e98573a49f5929f63876ed97b5f2.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "BUF @ LAR",
+   "kind": "play",
+   "headline": "Bills win OT thriller over the Rams to move to 4-1",
+   "video_url": "https://www.espn.com/video/clip/_/id/50171089/bills-win-ot-thriller-rams-move-4-1",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1013/32e77eaf-f4a0-4edf-a089-08fd6114e3e5/32e77eaf-f4a0-4edf-a089-08fd6114e3e5.jpg",
    "players": [],
    "owners": []
   },
@@ -2837,9 +2715,9 @@
   {
    "game": "BUF @ LAR",
    "kind": "play",
-   "headline": "Josh Allen: 'Feels good' to be on winning side of OT",
-   "video_url": "https://www.espn.com/video/clip/_/id/50171162/feels-good-winning-side-ot",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_000831381_3695113/ss_20261013_000831381_3695113.jpg",
+   "headline": "'Viva los Bills!' Josh Allen works on Spanish after Bills beat Rams",
+   "video_url": "https://www.espn.com/video/clip/_/id/50175886/viva-los-bills-josh-allen-works-spanish-bills-beat-rams",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_Josh_Allen2/dm_261013_Josh_Allen2.jpg",
    "players": [
     "Josh Allen"
    ],
@@ -2859,73 +2737,8 @@
   {
    "game": "CHI @ GB",
    "kind": "play",
-   "headline": "Jordan Love heaves it to Christian Watson for a Packers TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158899/jordan-love-heaves-christian-watson-packers-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/5e0a8f66-9325-4bce-a795-00383ec6ec3b/5e0a8f66-9325-4bce-a795-00383ec6ec3b.jpg",
-   "players": [
-    "Christian Watson"
-   ],
-   "owners": [
-    "ryancrabbe"
-   ]
-  },
-  {
-   "game": "CHI @ GB",
-   "kind": "play",
-   "headline": "MarShawn Lloyd trucks a defender to score TD for Packers",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159012/marshawn-lloyd-trucks-defender-score-td-packers",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/9d486e3c-e3f3-4e10-ae23-ac9a1f6e23d8/9d486e3c-e3f3-4e10-ae23-ac9a1f6e23d8.jpg",
-   "players": [
-    "MarShawn Lloyd"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "CHI @ GB",
-   "kind": "play",
-   "headline": "D'Andre Swift barrels in for a Bears TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159347/dandre-swift-barrels-bears-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/a518100b-d79e-49ea-b652-a844e62fb149/a518100b-d79e-49ea-b652-a844e62fb149.jpg",
-   "players": [
-    "D'Andre Swift"
-   ],
-   "owners": [
-    "J2Money"
-   ]
-  },
-  {
-   "game": "CHI @ GB",
-   "kind": "play",
-   "headline": "Micah Parsons in awe of Christian Watson's incredible TD catch",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159636/micah-parsons-awe-christian-watson-incredible-td-catch",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/40c150d16a4f46b09fb7a4d85377ff8a984/40c150d16a4f46b09fb7a4d85377ff8a984.jpg",
-   "players": [
-    "Christian Watson"
-   ],
-   "owners": [
-    "ryancrabbe"
-   ]
-  },
-  {
-   "game": "CHI @ GB",
-   "kind": "play",
-   "headline": "MarShawn Lloyd waltzes in for another Packers TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159880/marshawn-lloyd-waltzes-another-packers-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/1294c97f-4f7a-413f-9383-64d15bace25f/1294c97f-4f7a-413f-9383-64d15bace25f.jpg",
-   "players": [
-    "MarShawn Lloyd"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "CHI @ GB",
-   "kind": "play",
-   "headline": "Packers pick off Case Keenum in the endzone",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160380/packers-pick-case-keenum-endzone",
+   "headline": "Packers pick off Case Keenum in the end zone",
+   "video_url": "https://www.espn.com/video/clip/_/id/50160380/packers-pick-case-keenum-end-zone",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/c9debc4d-f547-469a-ac52-428e524a0692/c9debc4d-f547-469a-ac52-428e524a0692.jpg",
    "players": [],
    "owners": []
@@ -2933,714 +2746,29 @@
   {
    "game": "CIN @ MIA",
    "kind": "play",
-   "headline": "Joe Burrow connects with Mike Gesicki for a Bengals TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158833/joe-burrow-connects-mike-gesicki-bengals-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/debd85d7-ea9d-478f-b787-5c3d7e9e9518/debd85d7-ea9d-478f-b787-5c3d7e9e9518.jpg",
-   "players": [
-    "Mike Gesicki",
-    "Joe Burrow"
-   ],
-   "owners": [
-    "Gujju8",
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "CIN @ MIA",
-   "kind": "play",
-   "headline": "Ollie Gordon II rushes in for a Dolphins TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159016/ollie-gordon-ii-rushes-dolphins-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/17352f82-5fda-46bf-a129-5d89750a1520/17352f82-5fda-46bf-a129-5d89750a1520.jpg",
-   "players": [
-    "Ollie Gordon"
-   ],
-   "owners": [
-    "uaintgotjuicehoeido"
-   ]
-  },
-  {
-   "game": "CIN @ MIA",
-   "kind": "play",
-   "headline": "Samaje Perine gives Bengals lead with TD catch",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159268/samaje-perine-gives-bengals-lead-td-catch",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/7abf7eea-0bc0-41cb-871b-eb47f3662fea/7abf7eea-0bc0-41cb-871b-eb47f3662fea.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "CIN @ MIA",
-   "kind": "play",
-   "headline": "Tanner Hudson makes TD grab to extend Bengals lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159522/tanner-hudson-makes-td-grab-extend-bengals-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/8cc3ac3e-1573-484e-a854-29cd920763c0/8cc3ac3e-1573-484e-a854-29cd920763c0.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "CIN @ MIA",
-   "kind": "play",
-   "headline": "Ja'Marr Chase makes remarkable 45-yard TD catch",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159852/jamarr-chase-makes-remarkable-45-yard-td-catch",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/79031381eacf4837aff8e54f1184ef611024/79031381eacf4837aff8e54f1184ef611024.jpg",
-   "players": [
-    "Ja'Marr Chase"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "CIN @ MIA",
-   "kind": "play",
-   "headline": "Kevin Coleman Jr. makes TD catch for the Dolphins",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160067/kevin-coleman-jr-makes-td-catch-dolphins",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/7e277335-1262-47ed-bb49-313bb3a74772/7e277335-1262-47ed-bb49-313bb3a74772.jpg",
+   "headline": "Bengals not thrilled with play after win over Dolphins",
+   "video_url": "https://www.espn.com/video/clip/_/id/50163515/bengals-not-thrilled-play-win-dolphins",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Bengals_beat_Dolphins_IA/dm_261011_Bengals_beat_Dolphins_IA.jpg",
    "players": [],
    "owners": []
   },
   {
    "game": "CLE @ NYJ",
    "kind": "play",
-   "headline": "Garrett Wilson spins a defender for a Jets TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158863/garrett-wilson-spins-defender-jets-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/4426a44e-3f07-48ec-8b30-8471b4ba5f59/4426a44e-3f07-48ec-8b30-8471b4ba5f59.jpg",
-   "players": [
-    "Garrett Wilson"
-   ],
-   "owners": [
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "CLE @ NYJ",
-   "kind": "play",
-   "headline": "Browns WR KC Concepcion ruled out after brutal hit",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159326/browns-wr-kc-concepcion-ruled-brutal-hit",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/b40e3e53-763b-440e-8388-33f2cface199/b40e3e53-763b-440e-8388-33f2cface199.jpg",
-   "players": [
-    "KC Concepcion"
-   ],
-   "owners": [
-    "KamarasNuts"
-   ]
-  },
-  {
-   "game": "CLE @ NYJ",
-   "kind": "play",
-   "headline": "Deshaun Watson finds Denzel Boston for go-ahead Browns TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160112/deshaun-watson-finds-denzel-boston-go-ahead-browns-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/fa11e4c3-1c2b-4291-b8f6-b3d99ab3a128/fa11e4c3-1c2b-4291-b8f6-b3d99ab3a128.jpg",
-   "players": [
-    "Denzel Boston"
-   ],
-   "owners": [
-    "ak81"
-   ]
-  },
-  {
-   "game": "CLE @ NYJ",
-   "kind": "play",
-   "headline": "Browns' botched snap leads to Jets go-ahead TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160234/browns-botched-snap-leads-jets-go-ahead-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/1296c7bd-7c4d-45f2-9019-d1f83fd5d66c/1296c7bd-7c4d-45f2-9019-d1f83fd5d66c.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "CLE @ NYJ",
-   "kind": "play",
-   "headline": "Jets defense stops Browns on 4th down to seal win",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160578/jets-defense-stops-browns-4th-seal-win",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/50a3b6d7-50eb-44ab-b41a-cb511641c3eb/50a3b6d7-50eb-44ab-b41a-cb511641c3eb.jpg",
+   "headline": "Why the Browns struggled on offense vs. the Jets",
+   "video_url": "https://www.espn.com/video/clip/_/id/50163446/why-browns-struggled-offense-vs-jets",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Browns_lose_to_Jets_IA/dm_261011_Browns_lose_to_Jets_IA.jpg",
    "players": [],
    "owners": []
   },
   {
    "game": "DEN @ LAC",
    "kind": "play",
-   "headline": "J.K. Dobbins finds an opening for a Broncos TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160622/jk-dobbins-finds-opening-broncos-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/e0a1bb3b822841d98509f949866ababf1150/e0a1bb3b822841d98509f949866ababf1150.jpg",
-   "players": [
-    "J.K. Dobbins"
-   ],
-   "owners": [
-    "uaintgotjuicehoeido"
-   ]
-  },
-  {
-   "game": "DEN @ LAC",
-   "kind": "play",
-   "headline": "A Bo Nix fumble sets up a 42-yard TD run for Kimani Vidal",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161576/a-bo-nix-fumble-sets-42-yard-td-run-kimani-vidal",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/4f41baf853bc4bf294ee1ffd58d25c6f1125/4f41baf853bc4bf294ee1ffd58d25c6f1125.jpg",
-   "players": [
-    "Bo Nix"
-   ],
-   "owners": [
-    "raymondfeltons"
-   ]
-  },
-  {
-   "game": "DEN @ LAC",
-   "kind": "play",
-   "headline": "Justin Herbert spots Hayden Rucci all alone for a Chargers TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161625/justin-herbert-spots-hayden-rucci-all-alone-chargers-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/edeb3e17-7118-4cc6-8fc6-ce8025909da1/edeb3e17-7118-4cc6-8fc6-ce8025909da1.jpg",
+   "headline": "Broncos defense shines in win over Chargers",
+   "video_url": "https://www.espn.com/video/clip/_/id/50163664/broncos-defense-shines-win-chargers",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Broncos_beat_Chargers_IA/dm_261011_Broncos_beat_Chargers_IA.jpg",
    "players": [],
    "owners": []
-  },
-  {
-   "game": "DEN @ LAC",
-   "kind": "play",
-   "headline": "Bo Nix connects with Courtland Sutton for a tying TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161783/bo-nix-connects-courtland-sutton-tying-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/f3451cab6eb5403ea746d30d390f33621144/f3451cab6eb5403ea746d30d390f33621144.jpg",
-   "players": [
-    "Courtland Sutton",
-    "Bo Nix"
-   ],
-   "owners": [
-    "ak81",
-    "raymondfeltons"
-   ]
-  },
-  {
-   "game": "DEN @ LAC",
-   "kind": "play",
-   "headline": "Broncos dial up the pressure on Justin Herbert for a sack to seal the game",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162149/broncos-dial-pressure-justin-herbert-sack-seal-game",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/74839f8f-6dd2-491d-b0fe-ef76139a7e52/74839f8f-6dd2-491d-b0fe-ef76139a7e52.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jahmyr Gibbs plows across the goal line for a Lions TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161487/jahmyr-gibbs-plows-goal-line-lions-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/b4870a454c7745548e3a53c7a3b74e3d1201/b4870a454c7745548e3a53c7a3b74e3d1201.jpg",
-   "players": [
-    "Jahmyr Gibbs"
-   ],
-   "owners": [
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jared Goff dimes a wide-open Sam LaPorta to give the Lions a lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161493/jared-goff-dimes-wide-open-sam-laporta-give-lions-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/ef8444ecb82240ca9cff54afcc7fc53d1204/ef8444ecb82240ca9cff54afcc7fc53d1204.jpg",
-   "players": [
-    "Sam LaPorta",
-    "Jared Goff"
-   ],
-   "owners": [
-    "ak81",
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jamo makes an impressive grab to pad the Lions' lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161512/jamo-makes-impressive-grab-pad-lions-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/63fedea59fe0465c977621a548a038471206/63fedea59fe0465c977621a548a038471206.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jared Goff launches a beauty to Jamo for his 2nd receiving TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161622/jared-goff-launches-beauty-jamo-2nd-receiving-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/06c615f5f90341a89207faefd72ad35a1207/06c615f5f90341a89207faefd72ad35a1207.jpg",
-   "players": [
-    "Jared Goff"
-   ],
-   "owners": [
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jacoby Brissett fires a seed to Teagan Quitoriano for his 2nd receiving TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161774/jacoby-brissett-fires-seed-teagan-quitoriano-2nd-receiving-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/31dfb88e6b9e41968246990592437abe1208/31dfb88e6b9e41968246990592437abe1208.jpg",
-   "players": [
-    "Jacoby Brissett"
-   ],
-   "owners": [
-    "joshsandorra"
-   ]
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jared Goff goes full on superman for a Lions TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161779/jared-goff-goes-full-superman-lions-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/2e17e7bd-2d66-4c07-be46-cc56baca66fe/2e17e7bd-2d66-4c07-be46-cc56baca66fe.jpg",
-   "players": [
-    "Jared Goff"
-   ],
-   "owners": [
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Jahmyr Gibbs reverses field for his 2nd rushing TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162088/jahmyr-gibbs-reverses-field-2nd-rushing-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/5930d02cec794997b234001e2a20a37f1210/5930d02cec794997b234001e2a20a37f1210.jpg",
-   "players": [
-    "Jahmyr Gibbs"
-   ],
-   "owners": [
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "DET @ ARI",
-   "kind": "play",
-   "headline": "Trey McBride makes unbelievable juggling grab for a Cardinals TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162151/trey-mcbride-makes-unbelievable-juggling-grab-cardinals-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/89579c853ff4488a85ed7680e7318ba01212/89579c853ff4488a85ed7680e7318ba01212.jpg",
-   "players": [
-    "Trey McBride"
-   ],
-   "owners": [
-    "uaintgotjuicehoeido"
-   ]
-  },
-  {
-   "game": "HOU @ TEN",
-   "kind": "play",
-   "headline": "Cam Ward picked off by the Texans",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159196/cam-ward-picked-texans",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/f65884bc-6fc4-427b-846b-d4c1cfe4de4e/f65884bc-6fc4-427b-846b-d4c1cfe4de4e.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "HOU @ TEN",
-   "kind": "play",
-   "headline": "C.J. Stroud calls his own number to pad the Texans' lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159671/cj-stroud-calls-own-number-pad-texans-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/111bd05c-0d8c-4c94-80c6-3d5bec433e8f/111bd05c-0d8c-4c94-80c6-3d5bec433e8f.jpg",
-   "players": [
-    "C.J. Stroud"
-   ],
-   "owners": [
-    "uaintgotjuicehoeido"
-   ]
-  },
-  {
-   "game": "HOU @ TEN",
-   "kind": "play",
-   "headline": "C.J. Stroud hits Jaylin Noel for a 9-yard touchdown to stretch the Texans\u2019 lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159814/cj-stroud-hits-jaylin-noel-9-yard-touchdown-stretch-texans-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/b4d236aa-7c30-4914-a4f8-0a463ead0f17/b4d236aa-7c30-4914-a4f8-0a463ead0f17.jpg",
-   "players": [
-    "C.J. Stroud"
-   ],
-   "owners": [
-    "uaintgotjuicehoeido"
-   ]
-  },
-  {
-   "game": "IND @ PIT",
-   "kind": "play",
-   "headline": "Aaron Rodgers' dump-off pass leads to 80-yard TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158830/aaron-rodgers-dump-pass-leads-80-yard-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/32e8085f-1079-452e-a2cb-3be61de4e687/32e8085f-1079-452e-a2cb-3be61de4e687.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "IND @ PIT",
-   "kind": "play",
-   "headline": "Aaron Rodgers tosses 2nd TD of the 1st half",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159150/aaron-rodgers-tosses-2nd-td-1st-half",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/a7485a04-da48-4101-b34d-9c590cc836a4/a7485a04-da48-4101-b34d-9c590cc836a4.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "IND @ PIT",
-   "kind": "play",
-   "headline": "Tyler Warren punches it in for the Colts",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159298/tyler-warren-punches-the-colts",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/71a08f09-9832-4223-9d62-ccbb4bedf885/71a08f09-9832-4223-9d62-ccbb4bedf885.jpg",
-   "players": [
-    "Tyler Warren"
-   ],
-   "owners": [
-    "ryancrabbe"
-   ]
-  },
-  {
-   "game": "IND @ PIT",
-   "kind": "play",
-   "headline": "Jaylen Warren bursts free for 50-yard TD run for Pittsburgh",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159669/jaylen-warren-bursts-free-50-yard-td-run-pittsburgh",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/ea891b55-eb3d-4e6e-905f-8f5445c1af36/ea891b55-eb3d-4e6e-905f-8f5445c1af36.jpg",
-   "players": [
-    "Jaylen Warren"
-   ],
-   "owners": [
-    "kisiluv"
-   ]
-  },
-  {
-   "game": "IND @ PIT",
-   "kind": "play",
-   "headline": "Aaron Rodgers' 3rd TD pass of the game extends Pittsburgh's lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160126/aaron-rodgers-3rd-td-pass-game-extends-pittsburgh-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/646376ec-27d6-4aa6-90e3-dcd8eb8667f3/646376ec-27d6-4aa6-90e3-dcd8eb8667f3.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "IND @ PIT",
-   "kind": "play",
-   "headline": "Steelers defense seals win after stopping Colts on 4th down",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160456/steelers-defense-seals-win-stopping-colts-4th-down",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/0e583e3f-9ca5-475b-a63c-f1c80371c32d/0e583e3f-9ca5-475b-a63c-f1c80371c32d.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Drake Maye lofts a 35-yard TD pass to DeMario Douglas",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158821/drake-maye-lofts-35-yard-td-pass-demario-douglas",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/d97dd4ef-403b-4a51-8a16-3cbd9b69810a/d97dd4ef-403b-4a51-8a16-3cbd9b69810a.jpg",
-   "players": [
-    "Drake Maye"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Cousins finds Bowers in the end zone to bring Raiders level",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158860/cousins-finds-bowers-end-zone-bring-raiders-level",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/73da6760-c975-4853-a1df-de08da49e488/73da6760-c975-4853-a1df-de08da49e488.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Rhamondre Stevenson goes up the middle to restore Pats' lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159049/rhamondre-stevenson-goes-middle-restore-pats-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/b60d8f6b-61a6-417d-80f7-0b85f0a8b268/b60d8f6b-61a6-417d-80f7-0b85f0a8b268.jpg",
-   "players": [
-    "Rhamondre Stevenson"
-   ],
-   "owners": [
-    "zachschumann"
-   ]
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Drake Maye links up with Hunter Henry to pad Patriots' lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159450/drake-maye-links-hunter-henry-pad-patriots-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/663fb507-a341-4da5-a12c-22f95e26dc2c/663fb507-a341-4da5-a12c-22f95e26dc2c.jpg",
-   "players": [
-    "Drake Maye"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Drake Maye flings his third TD pass of game",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159607/drake-maye-flings-third-td-pass-game",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/e2e850be-6ddc-48ee-a597-c6326366bf0e/e2e850be-6ddc-48ee-a597-c6326366bf0e.jpg",
-   "players": [
-    "Drake Maye"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Drake Maye runs in his first TD of the season as Patriots pour it on",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159884/drake-maye-runs-first-td-season-patriots-pour-on",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/3e7be517-a363-45ac-9731-7863a27bebc6/3e7be517-a363-45ac-9731-7863a27bebc6.jpg",
-   "players": [
-    "Drake Maye"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Drake Maye throws his 4th TD pass of the game",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160301/drake-maye-throws-4th-td-pass-game",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/61727d39-031b-4e67-800c-d5cc52a1e60f/61727d39-031b-4e67-800c-d5cc52a1e60f.jpg",
-   "players": [
-    "Drake Maye"
-   ],
-   "owners": [
-    "arabdhab"
-   ]
-  },
-  {
-   "game": "LV @ NE",
-   "kind": "play",
-   "headline": "Fernando Mendoza's run comes up short as 1st NFL drive ends on downs",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160483/fernando-mendoza-run-comes-short-1st-nfl-drive-ends-downs",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/f95d61f4-3621-4fdd-8fd3-e21e6718ab3c/f95d61f4-3621-4fdd-8fd3-e21e6718ab3c.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "MIN @ NO",
-   "kind": "play",
-   "headline": "Kendre Miller scores Saints rushing TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159163/kendre-miller-scores-saints-rushing-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/faacb26015f141b68becd47bcbd01ec0934/faacb26015f141b68becd47bcbd01ec0934.jpg",
-   "players": [
-    "Kendre Miller"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
-   "game": "MIN @ NO",
-   "kind": "play",
-   "headline": "Justin Jefferson makes incredible TD catch surrounded by Saints",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159525/justin-jefferson-makes-incredible-td-catch-surrounded-saints",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/e88a916272ea4e51905532f074070fb2936/e88a916272ea4e51905532f074070fb2936.jpg",
-   "players": [
-    "Justin Jefferson"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
-   "game": "MIN @ NO",
-   "kind": "play",
-   "headline": "Saints force fumble and return it for a Touchdown",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159711/saints-force-fumble-return-touchdown",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/80ede4a4eccf4620a9b2df131e235b73938/80ede4a4eccf4620a9b2df131e235b73938.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "MIN @ NO",
-   "kind": "play",
-   "headline": "Aaron Jones Sr. barrels over a defender to put Vikings back on top",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159848/aaron-jones-sr-barrels-defender-put-vikings-back-top",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/35d43faff8a143af82fa603be9a6ba29941/35d43faff8a143af82fa603be9a6ba29941.jpg",
-   "players": [
-    "Aaron Jones"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
-   "game": "NYG @ WSH",
-   "kind": "play",
-   "headline": "Jayden Daniels takes off for a 38-yard touchdown to extend the Commanders' lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50159697/jayden-daniels-takes-38-yard-touchdown-extend-commanders-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/5872c15e-e5d6-41cb-ae2b-e69b564967f0/5872c15e-e5d6-41cb-ae2b-e69b564967f0.jpg",
-   "players": [
-    "Jayden Daniels"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
-   "game": "NYG @ WSH",
-   "kind": "play",
-   "headline": "Jayden Daniels scrambles in for his 2nd touchdown of the day",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160121/jayden-daniels-scrambles-2nd-touchdown-day",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/b26388aa-5e55-426f-8f7d-6073bacd4cb4/b26388aa-5e55-426f-8f7d-6073bacd4cb4.jpg",
-   "players": [
-    "Jayden Daniels"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
-   "game": "NYG @ WSH",
-   "kind": "play",
-   "headline": "Giants, Commanders botch late-game sequences as game ends in tie",
-   "video_url": "https://www.espn.com/video/clip/_/id/50160778/giants-commanders-botch-late-game-sequences-game-ends-tie",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/5a35175c1f304edfb95362f177ab0bc41021/5a35175c1f304edfb95362f177ab0bc41021.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "PI on Travis Hunter leads to a Will Shipley TD for the Eagles",
-   "video_url": "https://www.espn.com/video/clip/_/id/50157155/pi-travis-hunter-leads-shipley-td-eagles",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/0838c127-eb0b-4032-a4b9-c29f6dc3e6a9/0838c127-eb0b-4032-a4b9-c29f6dc3e6a9.jpg",
-   "players": [
-    "Will Shipley"
-   ],
-   "owners": [
-    "ryancrabbe"
-   ]
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "Jalen Hurts hits Darius Cooper for a 62-yard Eagles TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50157323/jalen-hurts-hits-darius-cooper-62-yard-eagles-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/896e88af-2671-49dd-84e4-6c065741472f/896e88af-2671-49dd-84e4-6c065741472f.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "Sirianni, Big Dom fired up after Eagles' goal-line stop before halftime",
-   "video_url": "https://www.espn.com/video/clip/_/id/50157697/sirianni-big-dom-fired-eagles-goal-line-stop-half",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/a7798af0-ab71-4dea-949f-9a14e2b7116c/a7798af0-ab71-4dea-949f-9a14e2b7116c.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "Quinyon Mitchell picks off Trevor Lawrence for 1st regular-season INT",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158260/quinyon-mitchell-picks-trevor-lawrence-1st-regular-season-int",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/2c71c972-3bb7-4364-acec-4f3365616123/2c71c972-3bb7-4364-acec-4f3365616123.jpg",
-   "players": [
-    "Trevor Lawrence"
-   ],
-   "owners": [
-    "Gujju8"
-   ]
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "Parker Washington incredible grab to give Jaguars 4th-quarter lead",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158538/parker-washington-incredible-grab-give-jaguars-4th-quarter-lead",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/47d8a75f-9b15-47c9-932f-493ea150c985/47d8a75f-9b15-47c9-932f-493ea150c985.jpg",
-   "players": [
-    "Parker Washington"
-   ],
-   "owners": [
-    "Gujju8"
-   ]
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "Eagles come up with clutch 4th-down stop late in game",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158561/eagles-come-clutch-4th-stop-late-game",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/98266fc0-9304-4e30-99da-0fdfb5ca08e7/98266fc0-9304-4e30-99da-0fdfb5ca08e7.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "PHI VS JAX",
-   "kind": "play",
-   "headline": "Jags' big return sets up winning 57-yard FG to stun Eagles as time expires",
-   "video_url": "https://www.espn.com/video/clip/_/id/50158832/jags-big-return-sets-winning-57-yard-fg-stun-eagles-expires",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/fcc326ec71d3485c8b5009ed83d591e5938/fcc326ec71d3485c8b5009ed83d591e5938.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "49ers move to 5-0 after thrilling win over the Seahawks",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162505/49ers-move-5-0-thrilling-win-seahawks",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1012/46f2b01e-2aa2-4e0b-ab42-2182996ba697/46f2b01e-2aa2-4e0b-ab42-2182996ba697.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "Dre Greenlaw is ejected after head-butting Ernest Jones IV",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161435/dre-greenlaw-ejected-head-butting-ernest-jones-iv",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/93fc85e099044672a3dca3ad02779fe71341/93fc85e099044672a3dca3ad02779fe71341.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "Gracen Halton pounces on the fumble in the end zone for a 49ers TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161542/gracen-halton-pounces-fumble-end-zone-49ers-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/171c02bd-a664-4a63-a8a9-dcb620ac0d36/171c02bd-a664-4a63-a8a9-dcb620ac0d36.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "Purdy's INT opens the door for a Jaxon Smith-Njigba TD",
-   "video_url": "https://www.espn.com/video/clip/_/id/50161804/purdy-int-opens-door-jaxon-smith-njigba-td",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/1df78559-686a-4c3d-b3d1-a5e5c5f3d224/1df78559-686a-4c3d-b3d1-a5e5c5f3d224.jpg",
-   "players": [
-    "Jaxon Smith-Njigba"
-   ],
-   "owners": [
-    "joshsandorra"
-   ]
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "Mike Evans checks back of Trevon Diggs' jersey after trash-talk exchange",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162117/mike-evans-checks-back-trevon-diggs-jersey-trash-talk-exchange",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/17f51612-164b-4817-8f81-4df8f3608255/17f51612-164b-4817-8f81-4df8f3608255.jpg",
-   "players": [
-    "Mike Evans"
-   ],
-   "owners": [
-    "Ulyssesbo"
-   ]
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "Cooper Kupp is ruled short on controversial final play for Seahawks",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162379/cooper-kupp-ruled-short-controversial-final-play-seahawks",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/e780e3480bca4aa3a9ba6e52c9237c621207/e780e3480bca4aa3a9ba6e52c9237c621207.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "SF @ SEA",
-   "kind": "play",
-   "headline": "Jaxon Smith-Njigba drops critical fourth-quarter pass for Seahawks",
-   "video_url": "https://www.espn.com/video/clip/_/id/50162383/jaxon-smith-njigba-drops-critical-fourth-quarter-pass-seahawks",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/e31a598a85b049f4b4eeebb801540d751342/e31a598a85b049f4b4eeebb801540d751342.jpg",
-   "players": [
-    "Jaxon Smith-Njigba"
-   ],
-   "owners": [
-    "joshsandorra"
-   ]
   }
  ],
  "recaps": [
@@ -3975,6 +3103,32 @@
  "waivers": {
   "as_of_week": 6,
   "moves": [
+   {
+    "team": "zachschumann",
+    "added": [],
+    "dropped": [
+     {
+      "name": "Michael Mayer",
+      "pos": "TE"
+     }
+    ],
+    "faab": 0,
+    "type": "free_agent",
+    "created": 1791928593416
+   },
+   {
+    "team": "arabdhab",
+    "added": [],
+    "dropped": [
+     {
+      "name": "Jake Bates",
+      "pos": "K"
+     }
+    ],
+    "faab": 0,
+    "type": "free_agent",
+    "created": 1791902567243
+   },
    {
     "team": "zachschumann",
     "added": [
@@ -4918,42 +4072,6 @@
     "faab": 10,
     "type": "waiver",
     "created": 1790740738065
-   },
-   {
-    "team": "uaintgotjuicehoeido",
-    "added": [
-     {
-      "name": "Ollie Gordon",
-      "pos": "RB"
-     }
-    ],
-    "dropped": [
-     {
-      "name": "AJ Dillon",
-      "pos": "RB"
-     }
-    ],
-    "faab": 44,
-    "type": "waiver",
-    "created": 1790740113136
-   },
-   {
-    "team": "joshsandorra",
-    "added": [
-     {
-      "name": "Chris Bell",
-      "pos": "WR"
-     }
-    ],
-    "dropped": [
-     {
-      "name": "Oronde Gadsden",
-      "pos": "TE"
-     }
-    ],
-    "faab": 3,
-    "type": "waiver",
-    "created": 1790737892874
    }
   ],
   "faab_left": {
@@ -4979,10 +4097,22 @@
    "nfl_team": "GB",
    "pid": "5850",
    "current_status": "NA",
-   "expected_games_missed": 7.0,
+   "expected_games_missed": 7.1,
    "return_week": 12,
    "note": "Pleaded no contest Sept 10 (criminal case resolved). Remains on Commissioner's Exempt List (paid, can't play/practice); NFL confirms no timetable for discipline. Standard domestic-violence-case suspension is 6 games, could be shorter or longer.",
    "source": "NBC Sports (PFT), NFL.com"
+  },
+  {
+   "name": "David Montgomery",
+   "team": "Ulyssesbo",
+   "pos": "RB",
+   "nfl_team": "HOU",
+   "pid": "5892",
+   "current_status": "Out",
+   "expected_games_missed": 4.7,
+   "return_week": null,
+   "note": null,
+   "source": null
   },
   {
    "name": "DJ Moore",
@@ -5009,6 +4139,18 @@
    "source": "RotoBaller, NBC Sports (PFT), Saints injury report"
   },
   {
+   "name": "TreVeyon Henderson",
+   "team": "kisiluv",
+   "pos": "RB",
+   "nfl_team": "NE",
+   "pid": "12529",
+   "current_status": "Out",
+   "expected_games_missed": 3.8,
+   "return_week": 9,
+   "note": "Right high-ankle sprain, hurt Week 5 vs LV; MRI Monday 10/12. Schefter: expected to miss multiple weeks, no surgery, not reported on IR. No firm timeline - Week 9 (three missed games) is a midpoint estimate, unconfirmed. Rhamondre Stevenson leads the backfield meanwhile.",
+   "source": "Adam Schefter (ESPN) via RotoWire, Pats Pulpit"
+  },
+  {
    "name": "Deebo Samuel",
    "team": "ak81",
    "pos": "WR",
@@ -5019,18 +4161,6 @@
    "return_week": 9,
    "note": "Right hamstring strain, hurt Week 5 vs SEA. Shanahan: strained it 'pretty good', will miss 'at least a couple weeks'; MRI confirmed a multi-week absence. Out Week 6 vs WAS and Week 7 at ATL; 49ers bye is Week 8, so Week 9 is the earliest realistic return.",
    "source": "Kyle Shanahan via RotoWire, FantasyPros"
-  },
-  {
-   "name": "TreVeyon Henderson",
-   "team": "kisiluv",
-   "pos": "RB",
-   "nfl_team": "NE",
-   "pid": "12529",
-   "current_status": "Out",
-   "expected_games_missed": 3.7,
-   "return_week": 9,
-   "note": "Right high-ankle sprain, hurt Week 5 vs LV; MRI Monday 10/12. Schefter: expected to miss multiple weeks, no surgery, not reported on IR. No firm timeline - Week 9 (three missed games) is a midpoint estimate, unconfirmed. Rhamondre Stevenson leads the backfield meanwhile.",
-   "source": "Adam Schefter (ESPN) via RotoWire, Pats Pulpit"
   },
   {
    "name": "Jordyn Tyson",
@@ -5081,11 +4211,11 @@
    "source": "Rapoport (NFL Network)"
   },
   {
-   "name": "George Kittle",
-   "team": "raymondfeltons",
-   "pos": "TE",
-   "nfl_team": "SF",
-   "pid": "4217",
+   "name": "MarShawn Lloyd",
+   "team": "arabdhab",
+   "pos": "RB",
+   "nfl_team": "GB",
+   "pid": "11581",
    "current_status": null,
    "expected_games_missed": 2.5,
    "return_week": null,
@@ -5093,11 +4223,11 @@
    "source": null
   },
   {
-   "name": "MarShawn Lloyd",
-   "team": "arabdhab",
-   "pos": "RB",
-   "nfl_team": "GB",
-   "pid": "11581",
+   "name": "George Kittle",
+   "team": "raymondfeltons",
+   "pos": "TE",
+   "nfl_team": "SF",
+   "pid": "4217",
    "current_status": null,
    "expected_games_missed": 2.5,
    "return_week": null,
@@ -5165,11 +4295,11 @@
    "source": null
   },
   {
-   "name": "David Montgomery",
-   "team": "Ulyssesbo",
-   "pos": "RB",
-   "nfl_team": "HOU",
-   "pid": "5892",
+   "name": "Jordan Addison",
+   "team": "J2Money",
+   "pos": "WR",
+   "nfl_team": "MIN",
+   "pid": "9756",
    "current_status": "Out",
    "expected_games_missed": 2.1,
    "return_week": null,
@@ -5196,18 +4326,6 @@
    "pid": "4034",
    "current_status": null,
    "expected_games_missed": 2.1,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
-   "name": "Kenyon Sadiq",
-   "team": "J2Money",
-   "pos": "TE",
-   "nfl_team": "NYJ",
-   "pid": "13330",
-   "current_status": "Out",
-   "expected_games_missed": 2.0,
    "return_week": null,
    "note": null,
    "source": null
@@ -5240,206 +4358,206 @@
    {
     "team": "ak81",
     "playoff_pct": {
-     "baseline": 89.9,
-     "high_chaos": 88.7,
-     "healthy_world": 90.8,
-     "regression_case": 90.7
+     "baseline": 89.8,
+     "high_chaos": 89.8,
+     "healthy_world": 90.6,
+     "regression_case": 91.9
     },
     "title_pct": {
-     "baseline": 20.7,
-     "high_chaos": 19.9,
-     "healthy_world": 20.8,
-     "regression_case": 21.1
+     "baseline": 20.8,
+     "high_chaos": 20.4,
+     "healthy_world": 20.5,
+     "regression_case": 21.8
     },
     "playoff_spread": 2.1,
-    "title_spread": 1.2
+    "title_spread": 1.4
    },
    {
     "team": "kisiluv",
     "playoff_pct": {
-     "baseline": 75.5,
-     "high_chaos": 70.4,
-     "healthy_world": 75.9,
-     "regression_case": 75.4
+     "baseline": 79.0,
+     "high_chaos": 73.9,
+     "healthy_world": 80.1,
+     "regression_case": 79.7
     },
     "title_pct": {
-     "baseline": 19.6,
-     "high_chaos": 16.8,
-     "healthy_world": 19.9,
-     "regression_case": 20.7
+     "baseline": 21.4,
+     "high_chaos": 17.6,
+     "healthy_world": 21.9,
+     "regression_case": 22.5
     },
-    "playoff_spread": 5.5,
-    "title_spread": 3.9
+    "playoff_spread": 6.2,
+    "title_spread": 4.9
    },
    {
     "team": "ryancrabbe",
     "playoff_pct": {
-     "baseline": 71.7,
-     "high_chaos": 74.5,
-     "healthy_world": 70.8,
-     "regression_case": 76.3
+     "baseline": 75.1,
+     "high_chaos": 76.5,
+     "healthy_world": 74.7,
+     "regression_case": 77.8
     },
     "title_pct": {
-     "baseline": 9.2,
-     "high_chaos": 10.7,
-     "healthy_world": 8.7,
-     "regression_case": 10.6
+     "baseline": 9.9,
+     "high_chaos": 11.6,
+     "healthy_world": 9.6,
+     "regression_case": 11.1
     },
-    "playoff_spread": 5.5,
+    "playoff_spread": 3.1,
     "title_spread": 2.0
    },
    {
     "team": "uaintgotjuicehoeido",
     "playoff_pct": {
-     "baseline": 61.6,
-     "high_chaos": 61.3,
-     "healthy_world": 64.2,
-     "regression_case": 37.0
+     "baseline": 69.1,
+     "high_chaos": 66.1,
+     "healthy_world": 68.9,
+     "regression_case": 40.8
     },
     "title_pct": {
-     "baseline": 10.4,
-     "high_chaos": 10.4,
-     "healthy_world": 10.7,
+     "baseline": 12.3,
+     "high_chaos": 12.0,
+     "healthy_world": 12.5,
      "regression_case": 3.4
     },
-    "playoff_spread": 27.2,
-    "title_spread": 7.3
+    "playoff_spread": 28.3,
+    "title_spread": 9.1
    },
    {
     "team": "joshsandorra",
     "playoff_pct": {
-     "baseline": 53.1,
-     "high_chaos": 55.1,
-     "healthy_world": 51.8,
-     "regression_case": 53.4
+     "baseline": 56.5,
+     "high_chaos": 57.9,
+     "healthy_world": 56.5,
+     "regression_case": 57.0
     },
     "title_pct": {
-     "baseline": 5.6,
-     "high_chaos": 6.6,
-     "healthy_world": 5.5,
-     "regression_case": 5.7
+     "baseline": 6.0,
+     "high_chaos": 7.2,
+     "healthy_world": 6.1,
+     "regression_case": 6.5
     },
-    "playoff_spread": 3.3,
-    "title_spread": 1.1
+    "playoff_spread": 1.4,
+    "title_spread": 1.2
    },
    {
     "team": "Gujju8",
     "playoff_pct": {
-     "baseline": 52.3,
-     "high_chaos": 54.2,
-     "healthy_world": 52.2,
-     "regression_case": 55.4
+     "baseline": 55.7,
+     "high_chaos": 57.2,
+     "healthy_world": 55.2,
+     "regression_case": 58.9
     },
     "title_pct": {
-     "baseline": 6.1,
-     "high_chaos": 7.5,
-     "healthy_world": 6.6,
-     "regression_case": 7.4
+     "baseline": 7.0,
+     "high_chaos": 7.6,
+     "healthy_world": 6.8,
+     "regression_case": 8.0
     },
-    "playoff_spread": 3.2,
-    "title_spread": 1.4
-   },
-   {
-    "team": "arabdhab",
-    "playoff_pct": {
-     "baseline": 50.8,
-     "high_chaos": 48.5,
-     "healthy_world": 50.1,
-     "regression_case": 54.6
-    },
-    "title_pct": {
-     "baseline": 8.2,
-     "high_chaos": 7.7,
-     "healthy_world": 8.3,
-     "regression_case": 9.0
-    },
-    "playoff_spread": 6.1,
-    "title_spread": 1.3
+    "playoff_spread": 3.7,
+    "title_spread": 1.2
    },
    {
     "team": "zachschumann",
     "playoff_pct": {
-     "baseline": 49.0,
-     "high_chaos": 46.2,
-     "healthy_world": 48.9,
-     "regression_case": 52.2
+     "baseline": 48.9,
+     "high_chaos": 47.3,
+     "healthy_world": 50.5,
+     "regression_case": 54.0
     },
     "title_pct": {
-     "baseline": 9.2,
-     "high_chaos": 8.6,
-     "healthy_world": 9.0,
-     "regression_case": 10.1
+     "baseline": 9.0,
+     "high_chaos": 8.2,
+     "healthy_world": 9.3,
+     "regression_case": 10.2
     },
-    "playoff_spread": 6.0,
-    "title_spread": 1.5
+    "playoff_spread": 6.7,
+    "title_spread": 2.0
    },
    {
     "team": "raymondfeltons",
     "playoff_pct": {
-     "baseline": 42.1,
-     "high_chaos": 42.5,
-     "healthy_world": 45.6,
-     "regression_case": 44.6
+     "baseline": 45.0,
+     "high_chaos": 44.0,
+     "healthy_world": 48.7,
+     "regression_case": 47.0
     },
     "title_pct": {
-     "baseline": 5.8,
-     "high_chaos": 5.9,
-     "healthy_world": 6.3,
-     "regression_case": 5.9
+     "baseline": 6.3,
+     "high_chaos": 6.2,
+     "healthy_world": 6.4,
+     "regression_case": 7.2
     },
-    "playoff_spread": 3.5,
-    "title_spread": 0.5
+    "playoff_spread": 4.7,
+    "title_spread": 1.0
    },
    {
     "team": "KamarasNuts",
     "playoff_pct": {
-     "baseline": 37.5,
-     "high_chaos": 37.3,
-     "healthy_world": 36.5,
-     "regression_case": 41.7
+     "baseline": 38.5,
+     "high_chaos": 38.4,
+     "healthy_world": 38.7,
+     "regression_case": 43.2
     },
     "title_pct": {
-     "baseline": 4.3,
-     "high_chaos": 4.5,
-     "healthy_world": 3.5,
-     "regression_case": 4.9
+     "baseline": 4.2,
+     "high_chaos": 4.9,
+     "healthy_world": 4.3,
+     "regression_case": 5.5
     },
-    "playoff_spread": 5.2,
-    "title_spread": 1.4
+    "playoff_spread": 4.8,
+    "title_spread": 1.3
+   },
+   {
+    "team": "arabdhab",
+    "playoff_pct": {
+     "baseline": 26.2,
+     "high_chaos": 28.1,
+     "healthy_world": 23.6,
+     "regression_case": 29.9
+    },
+    "title_pct": {
+     "baseline": 2.1,
+     "high_chaos": 2.7,
+     "healthy_world": 1.9,
+     "regression_case": 2.6
+    },
+    "playoff_spread": 6.3,
+    "title_spread": 0.8
    },
    {
     "team": "Ulyssesbo",
     "playoff_pct": {
-     "baseline": 14.5,
-     "high_chaos": 18.1,
-     "healthy_world": 11.8,
-     "regression_case": 16.5
+     "baseline": 13.7,
+     "high_chaos": 16.9,
+     "healthy_world": 10.5,
+     "regression_case": 17.1
     },
     "title_pct": {
-     "baseline": 0.8,
+     "baseline": 0.9,
      "high_chaos": 1.3,
-     "healthy_world": 0.7,
-     "regression_case": 1.0
+     "healthy_world": 0.6,
+     "regression_case": 1.1
     },
-    "playoff_spread": 6.3,
-    "title_spread": 0.6
+    "playoff_spread": 6.6,
+    "title_spread": 0.7
    },
    {
     "team": "J2Money",
     "playoff_pct": {
-     "baseline": 2.0,
-     "high_chaos": 3.3,
-     "healthy_world": 1.5,
-     "regression_case": 2.2
+     "baseline": 2.5,
+     "high_chaos": 3.8,
+     "healthy_world": 1.9,
+     "regression_case": 2.6
     },
     "title_pct": {
      "baseline": 0.1,
-     "high_chaos": 0.2,
+     "high_chaos": 0.3,
      "healthy_world": 0.1,
-     "regression_case": 0.2
+     "regression_case": 0.1
     },
-    "playoff_spread": 1.8,
-    "title_spread": 0.1
+    "playoff_spread": 1.9,
+    "title_spread": 0.2
    }
   ]
  },
@@ -5450,8 +4568,8 @@
      "team": "ryancrabbe",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 71.7,
-     "title_pct": 9.2,
+     "playoff_pct": 75.1,
+     "title_pct": 9.9,
      "actual_w": 4,
      "actual_l": 1
     },
@@ -5459,8 +4577,8 @@
      "team": "uaintgotjuicehoeido",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 61.6,
-     "title_pct": 10.4,
+     "playoff_pct": 69.1,
+     "title_pct": 12.3,
      "actual_w": 3,
      "actual_l": 2
     },
@@ -5468,8 +4586,8 @@
      "team": "Gujju8",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 52.3,
-     "title_pct": 6.1,
+     "playoff_pct": 55.7,
+     "title_pct": 7.0,
      "actual_w": 3,
      "actual_l": 2
     },
@@ -5477,8 +4595,8 @@
      "team": "arabdhab",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 50.8,
-     "title_pct": 8.2,
+     "playoff_pct": 26.2,
+     "title_pct": 2.1,
      "actual_w": 2,
      "actual_l": 3
     }
@@ -5508,8 +4626,8 @@
      "team": "joshsandorra",
      "pod_w": 3,
      "pod_l": 0,
-     "playoff_pct": 53.1,
-     "title_pct": 5.6,
+     "playoff_pct": 56.5,
+     "title_pct": 6.0,
      "actual_w": 3,
      "actual_l": 2
     },
@@ -5517,8 +4635,8 @@
      "team": "Ulyssesbo",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 14.5,
-     "title_pct": 0.8,
+     "playoff_pct": 13.7,
+     "title_pct": 0.9,
      "actual_w": 2,
      "actual_l": 3
     },
@@ -5526,8 +4644,8 @@
      "team": "zachschumann",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 49.0,
-     "title_pct": 9.2,
+     "playoff_pct": 48.9,
+     "title_pct": 9.0,
      "actual_w": 2,
      "actual_l": 3
     },
@@ -5535,7 +4653,7 @@
      "team": "J2Money",
      "pod_w": 0,
      "pod_l": 3,
-     "playoff_pct": 2.0,
+     "playoff_pct": 2.5,
      "title_pct": 0.1,
      "actual_w": 1,
      "actual_l": 4
@@ -5566,8 +4684,8 @@
      "team": "ak81",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 89.9,
-     "title_pct": 20.7,
+     "playoff_pct": 89.8,
+     "title_pct": 20.8,
      "actual_w": 4,
      "actual_l": 1
     },
@@ -5575,8 +4693,8 @@
      "team": "KamarasNuts",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 37.5,
-     "title_pct": 4.3,
+     "playoff_pct": 38.5,
+     "title_pct": 4.2,
      "actual_w": 2,
      "actual_l": 3
     },
@@ -5584,8 +4702,8 @@
      "team": "kisiluv",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 75.5,
-     "title_pct": 19.6,
+     "playoff_pct": 79.0,
+     "title_pct": 21.4,
      "actual_w": 2,
      "actual_l": 3
     },
@@ -5593,8 +4711,8 @@
      "team": "raymondfeltons",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 42.1,
-     "title_pct": 5.8,
+     "playoff_pct": 45.0,
+     "title_pct": 6.3,
      "actual_w": 2,
      "actual_l": 3
     }
