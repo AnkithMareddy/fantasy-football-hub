@@ -4,8 +4,8 @@
  "week": 7,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-10-23T05:49:14Z",
- "live_fetched_at": "2026-10-23T05:47:26Z",
+ "generated_at": "2026-10-23T06:21:05Z",
+ "live_fetched_at": "2026-10-23T06:09:36Z",
  "live_games": {
   "final": [
    "CHI",
@@ -2844,6 +2844,24 @@
   "as_of_week": 7,
   "moves": [
    {
+    "team": "ak81",
+    "added": [
+     {
+      "name": "Kirk Cousins",
+      "pos": "QB"
+     }
+    ],
+    "dropped": [
+     {
+      "name": "Kyler Murray",
+      "pos": "QB"
+     }
+    ],
+    "faab": 0,
+    "type": "waiver",
+    "created": 1792721905889
+   },
+   {
     "team": "J2Money",
     "added": [],
     "dropped": [
@@ -3814,19 +3832,6 @@
     "faab": 0,
     "type": "free_agent",
     "created": 1791928593416
-   },
-   {
-    "team": "arabdhab",
-    "added": [
-     {
-      "name": "Nick Folk",
-      "pos": "K"
-     }
-    ],
-    "dropped": [],
-    "faab": 0,
-    "type": "waiver",
-    "created": 1791926550031
    }
   ],
   "faab_left": {
