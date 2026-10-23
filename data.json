@@ -4,8 +4,8 @@
  "week": 7,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-10-23T15:15:20Z",
- "live_fetched_at": "2026-10-23T15:05:12Z",
+ "generated_at": "2026-10-23T17:46:03Z",
+ "live_fetched_at": "2026-10-23T17:44:12Z",
  "live_games": {
   "final": [
    "CHI",
@@ -596,6 +596,16 @@
     "live": 0,
     "lineup": [
      {
+      "pid": "1166",
+      "name": "Kirk Cousins",
+      "pos": "QB",
+      "nfl": "LV",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
       "pid": "6813",
       "name": "Jonathan Taylor",
       "pos": "RB",
@@ -678,7 +688,7 @@
     ],
     "done": 0,
     "in_play": 0,
-    "to_play": 8,
+    "to_play": 9,
     "alerts": [
      {
       "pid": "11584",
@@ -754,10 +764,10 @@
       "inj_type": null
      },
      {
-      "pid": "1479",
-      "name": "Keenan Allen",
+      "pid": "11624",
+      "name": "Xavier Worthy",
       "pos": "WR",
-      "nfl": "IND",
+      "nfl": "KC",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -768,6 +778,16 @@
       "name": "Brock Bowers",
       "pos": "TE",
       "nfl": "LV",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "1479",
+      "name": "Keenan Allen",
+      "pos": "WR",
+      "nfl": "IND",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -796,7 +816,7 @@
     ],
     "done": 1,
     "in_play": 0,
-    "to_play": 7,
+    "to_play": 8,
     "alerts": []
    },
    "b_side": {
@@ -1436,13 +1456,13 @@
       "inj_type": null
      },
      {
-      "pid": "12514",
-      "name": "Emeka Egbuka",
+      "pid": "13293",
+      "name": "Ja'Kobi Lane",
       "pos": "WR",
-      "nfl": "TB",
+      "nfl": "BAL",
       "pts": 0.0,
       "state": "todo",
-      "inj": "Questionable",
+      "inj": null,
       "inj_type": null
      },
      {
@@ -1505,16 +1525,6 @@
       "name": "Breece Hall",
       "pos": "RB",
       "nfl": "NYJ",
-      "pts": 0.0,
-      "state": "todo",
-      "inj": "Questionable",
-      "inj_type": null
-     },
-     {
-      "pid": "12514",
-      "name": "Emeka Egbuka",
-      "pos": "WR",
-      "nfl": "TB",
       "pts": 0.0,
       "state": "todo",
       "inj": "Questionable",
