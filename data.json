@@ -4,8 +4,8 @@
  "week": 7,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-10-23T04:40:57Z",
- "live_fetched_at": "2026-10-23T04:39:09Z",
+ "generated_at": "2026-10-23T05:01:20Z",
+ "live_fetched_at": "2026-10-23T04:50:57Z",
  "live_games": {
   "final": [
    "CHI",
@@ -2074,7 +2074,8 @@
    3,
    4,
    5,
-   6
+   6,
+   7
   ],
   "teams": [
    {
@@ -2196,16 +2197,16 @@
    },
    {
     "team": "NE",
-    "plays": 388,
-    "pass_rate": 0.518,
-    "early_down_pass_rate": 0.46,
-    "redzone_pass_rate": 0.63,
-    "redzone_plays": 54,
-    "xpass_residual": -0.07,
-    "epa_per_play_off": 0.036,
-    "epa_per_play_def": -0.014,
-    "shotgun_rate": 0.536,
-    "no_huddle_rate": 0.005
+    "plays": 438,
+    "pass_rate": 0.534,
+    "early_down_pass_rate": 0.482,
+    "redzone_pass_rate": 0.603,
+    "redzone_plays": 58,
+    "xpass_residual": -0.064,
+    "epa_per_play_off": 0.05,
+    "epa_per_play_def": 0.016,
+    "shotgun_rate": 0.566,
+    "no_huddle_rate": 0.007
    },
    {
     "team": "HOU",
@@ -2234,6 +2235,19 @@
     "no_huddle_rate": 0.117
    },
    {
+    "team": "CHI",
+    "plays": 505,
+    "pass_rate": 0.513,
+    "early_down_pass_rate": 0.473,
+    "redzone_pass_rate": 0.409,
+    "redzone_plays": 115,
+    "xpass_residual": -0.05,
+    "epa_per_play_off": 0.017,
+    "epa_per_play_def": -0.014,
+    "shotgun_rate": 0.525,
+    "no_huddle_rate": 0.048
+   },
+   {
     "team": "LV",
     "plays": 389,
     "pass_rate": 0.596,
@@ -2245,19 +2259,6 @@
     "epa_per_play_def": 0.032,
     "shotgun_rate": 0.555,
     "no_huddle_rate": 0.072
-   },
-   {
-    "team": "CHI",
-    "plays": 439,
-    "pass_rate": 0.508,
-    "early_down_pass_rate": 0.473,
-    "redzone_pass_rate": 0.402,
-    "redzone_plays": 107,
-    "xpass_residual": -0.055,
-    "epa_per_play_off": -0.006,
-    "epa_per_play_def": -0.041,
-    "shotgun_rate": 0.522,
-    "no_huddle_rate": 0.055
    },
    {
     "team": "GB",
