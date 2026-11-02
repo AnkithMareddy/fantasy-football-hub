@@ -4,8 +4,8 @@
  "week": 8,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-11-02T13:07:40Z",
- "live_fetched_at": "2026-11-02T13:00:14Z",
+ "generated_at": "2026-11-02T22:08:26Z",
+ "live_fetched_at": "2026-11-02T22:00:13Z",
  "live_games": {
   "final": [
    "ARI",
@@ -992,7 +992,7 @@
       "pts": 22.8,
       "state": "final",
       "inj": "Questionable",
-      "inj_type": "Ribs"
+      "inj_type": null
      },
      {
       "pid": "5022",
@@ -1047,7 +1047,7 @@
       "pts": 22.8,
       "state": "final",
       "inj": "Questionable",
-      "inj_type": "Ribs"
+      "inj_type": null
      }
     ]
    },
@@ -1707,12 +1707,20 @@
    "owner": "raymondfeltons"
   },
   {
-   "team": "ARI",
-   "player": "Michael Wilson",
-   "status": "Questionable",
-   "type": "Ribs",
-   "game": "ARI @ DAL",
-   "owner": "Ulyssesbo"
+   "team": "TEN",
+   "player": "Tyjae Spears",
+   "status": "Out",
+   "type": "Knee",
+   "game": "TEN @ CIN",
+   "owner": "zachschumann"
+  },
+  {
+   "team": "TEN",
+   "player": "Carnell Tate",
+   "status": "Out",
+   "type": "Shoulder",
+   "game": "TEN @ CIN",
+   "owner": "joshsandorra"
   },
   {
    "team": "ARI",
@@ -1731,12 +1739,36 @@
    "owner": "uaintgotjuicehoeido"
   },
   {
-   "team": "NE",
-   "player": "Hunter Henry",
-   "status": "Questionable",
+   "team": "NYJ",
+   "player": "Breece Hall",
+   "status": "Out",
+   "type": "Quadriceps",
+   "game": "LV @ NYJ",
+   "owner": "KamarasNuts"
+  },
+  {
+   "team": "TB",
+   "player": "Emeka Egbuka",
+   "status": "Out",
    "type": "Foot",
-   "game": "NE @ MIA",
-   "owner": "raymondfeltons"
+   "game": "ATL @ TB",
+   "owner": "KamarasNuts"
+  },
+  {
+   "team": "ATL",
+   "player": "Brian Robinson Jr.",
+   "status": "Out",
+   "type": "Hamstring",
+   "game": "ATL @ TB",
+   "owner": "zachschumann"
+  },
+  {
+   "team": "DEN",
+   "player": "RJ Harvey",
+   "status": "Injured Reserve",
+   "type": "Knee",
+   "game": "KC @ DEN",
+   "owner": "ak81"
   },
   {
    "team": "NE",
@@ -1745,6 +1777,22 @@
    "type": "Illness",
    "game": "NE @ MIA",
    "owner": "kisiluv"
+  },
+  {
+   "team": "NE",
+   "player": "A.J. Brown",
+   "status": "Out",
+   "type": "Ankle",
+   "game": "NE @ MIA",
+   "owner": "J2Money"
+  },
+  {
+   "team": "NE",
+   "player": "Hunter Henry",
+   "status": "Questionable",
+   "type": "Foot",
+   "game": "NE @ MIA",
+   "owner": "raymondfeltons"
   },
   {
    "team": "PHI",
@@ -1772,74 +1820,26 @@
   },
   {
    "team": "CAR",
+   "player": "Xavier Legette",
+   "status": "Injured Reserve",
+   "type": "Knee",
+   "game": "CAR @ GB",
+   "owner": null
+  },
+  {
+   "team": "CAR",
+   "player": "Jonathon Brooks",
+   "status": "Injured Reserve",
+   "type": "Abdomen",
+   "game": "CAR @ GB",
+   "owner": null
+  },
+  {
+   "team": "CAR",
    "player": "Corey Bullock",
    "status": "Questionable",
    "type": "Quadriceps",
    "game": "CAR @ GB",
-   "owner": null
-  },
-  {
-   "team": "CAR",
-   "player": "Will Lee III",
-   "status": "Questionable",
-   "type": "Hamstring",
-   "game": "CAR @ GB",
-   "owner": null
-  },
-  {
-   "team": "CAR",
-   "player": "Akayleb Evans",
-   "status": "Injured Reserve",
-   "type": "Triceps",
-   "game": "CAR @ GB",
-   "owner": null
-  },
-  {
-   "team": "CAR",
-   "player": "Bobby Brown III",
-   "status": "Out",
-   "type": "Hand",
-   "game": "CAR @ GB",
-   "owner": null
-  },
-  {
-   "team": "BUF",
-   "player": "C.J. Gardner-Johnson",
-   "status": "Suspension",
-   "type": "Suspension",
-   "game": "BAL @ BUF",
-   "owner": null
-  },
-  {
-   "team": "BUF",
-   "player": "Joshua Palmer",
-   "status": "Questionable",
-   "type": "Hamstring",
-   "game": "BAL @ BUF",
-   "owner": null
-  },
-  {
-   "team": "BUF",
-   "player": "Dee Alford",
-   "status": "Out",
-   "type": "Ankle",
-   "game": "BAL @ BUF",
-   "owner": null
-  },
-  {
-   "team": "BUF",
-   "player": "Greg Gaines",
-   "status": "Out",
-   "type": "Calf",
-   "game": "BAL @ BUF",
-   "owner": null
-  },
-  {
-   "team": "BAL",
-   "player": "Tyler Huntley",
-   "status": "Questionable",
-   "type": "Toe",
-   "game": "BAL @ BUF",
    "owner": null
   }
  ],
@@ -2327,21 +2327,6 @@
    ]
   },
   {
-   "game": "CLE @ PIT",
-   "kind": "recap",
-   "headline": "Pittsburgh Steelers vs. Cleveland Browns Game Highlights",
-   "video_url": "https://www.espn.com/video/clip/_/id/50351556/pittsburgh-steelers-vs-cleveland-browns-game-highlights",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/edb66ea3-ddb6-450a-b62a-7deaced0aa25/edb66ea3-ddb6-450a-b62a-7deaced0aa25.jpg",
-   "players": [
-    "Pittsburgh Steelers",
-    "Cleveland Browns"
-   ],
-   "owners": [
-    "arabdhab",
-    "joshsandorra"
-   ]
-  },
-  {
    "game": "LAC @ LAR",
    "kind": "recap",
    "headline": "Los Angeles Chargers vs. Los Angeles Rams: Game Highlights",
@@ -2586,6 +2571,15 @@
    "owners": [
     "uaintgotjuicehoeido"
    ]
+  },
+  {
+   "game": "CLE @ PIT",
+   "kind": "play",
+   "headline": "Steelers take over after Deshaun Watson's fumble",
+   "video_url": "https://www.espn.com/video/clip/_/id/50351603/steelers-take-deshaun-watson-fumble",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/cfda3074-3205-41d2-9386-f6fd3b0bb182/cfda3074-3205-41d2-9386-f6fd3b0bb182.jpg",
+   "players": [],
+   "owners": []
   },
   {
    "game": "IND @ JAX",
