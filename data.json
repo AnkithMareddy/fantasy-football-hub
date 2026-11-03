@@ -4,8 +4,8 @@
  "week": 9,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-11-03T06:01:59Z",
- "live_fetched_at": "2026-11-03T06:00:17Z",
+ "generated_at": "2026-11-03T13:08:29Z",
+ "live_fetched_at": "2026-11-03T13:00:13Z",
  "live_games": {
   "final": [],
   "live": []
@@ -614,10 +614,10 @@
     "live": 0,
     "lineup": [
      {
-      "pid": "1166",
-      "name": "Kirk Cousins",
+      "pid": "8183",
+      "name": "Brock Purdy",
       "pos": "QB",
-      "nfl": "LV",
+      "nfl": "SF",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -634,24 +634,24 @@
       "inj_type": null
      },
      {
-      "pid": "12507",
-      "name": "Omarion Hampton",
+      "pid": "8155",
+      "name": "Breece Hall",
       "pos": "RB",
-      "nfl": "LAC",
+      "nfl": "NYJ",
       "pts": 0.0,
       "state": "todo",
-      "inj": null,
-      "inj_type": null
+      "inj": "Out",
+      "inj_type": "Quadriceps"
      },
      {
-      "pid": "13293",
-      "name": "Ja'Kobi Lane",
+      "pid": "12514",
+      "name": "Emeka Egbuka",
       "pos": "WR",
-      "nfl": "BAL",
+      "nfl": "TB",
       "pts": 0.0,
       "state": "todo",
-      "inj": null,
-      "inj_type": null
+      "inj": "Out",
+      "inj_type": "Foot"
      },
      {
       "pid": "13298",
@@ -707,7 +707,28 @@
     "done": 0,
     "in_play": 0,
     "to_play": 9,
-    "alerts": []
+    "alerts": [
+     {
+      "pid": "8155",
+      "name": "Breece Hall",
+      "pos": "RB",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Out",
+      "inj_type": "Quadriceps"
+     },
+     {
+      "pid": "12514",
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "nfl": "TB",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Out",
+      "inj_type": "Foot"
+     }
+    ]
    }
   },
   {
@@ -1069,23 +1090,23 @@
     "live": 0,
     "lineup": [
      {
-      "pid": "5849",
-      "name": "Kyler Murray",
+      "pid": "9758",
+      "name": "C.J. Stroud",
       "pos": "QB",
-      "nfl": "MIN",
-      "pts": 0.0,
-      "state": "todo",
-      "inj": "Questionable",
-      "inj_type": "Hamstring"
-     },
-     {
-      "pid": "6806",
-      "name": "J.K. Dobbins",
-      "pos": "RB",
-      "nfl": "DEN",
+      "nfl": "HOU",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "4034",
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "nfl": "SF",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
       "inj_type": null
      },
      {
@@ -1099,22 +1120,22 @@
       "inj_type": null
      },
      {
-      "pid": "8148",
-      "name": "Jameson Williams",
+      "pid": "8144",
+      "name": "Chris Olave",
       "pos": "WR",
-      "nfl": "DET",
+      "nfl": "NO",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "5846",
-      "name": "DK Metcalf",
+      "pid": "8148",
+      "name": "Jameson Williams",
       "pos": "WR",
-      "nfl": "PIT",
+      "nfl": "DET",
       "pts": 0.0,
-      "state": "bye",
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1149,10 +1170,10 @@
       "inj_type": null
      },
      {
-      "pid": "WAS",
-      "name": "Washington Commanders",
+      "pid": "HOU",
+      "name": "Houston Texans",
       "pos": "DEF",
-      "nfl": "WAS",
+      "nfl": "HOU",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -1161,17 +1182,17 @@
     ],
     "done": 0,
     "in_play": 0,
-    "to_play": 8,
+    "to_play": 9,
     "alerts": [
      {
-      "pid": "5849",
-      "name": "Kyler Murray",
-      "pos": "QB",
-      "nfl": "MIN",
+      "pid": "4034",
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "nfl": "SF",
       "pts": 0.0,
       "state": "todo",
       "inj": "Questionable",
-      "inj_type": "Hamstring"
+      "inj_type": null
      }
     ]
    }
@@ -1307,10 +1328,10 @@
     "live": 0,
     "lineup": [
      {
-      "pid": "11564",
-      "name": "Drake Maye",
+      "pid": "6770",
+      "name": "Joe Burrow",
       "pos": "QB",
-      "nfl": "NE",
+      "nfl": "CIN",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
@@ -1688,12 +1709,6 @@
    "owner": "arabdhab"
   },
   {
-   "name": "Patrick Mahomes",
-   "team": "KC",
-   "pts": 25.4,
-   "owner": "Ulyssesbo"
-  },
-  {
    "name": "Brock Bowers",
    "team": "LV",
    "pts": 24.7,
@@ -1704,6 +1719,12 @@
    "team": "DET",
    "pts": 23.8,
    "owner": "kisiluv"
+  },
+  {
+   "name": "Adonai Mitchell",
+   "team": "NYJ",
+   "pts": 23.7,
+   "owner": null
   }
  ],
  "injuries": [
@@ -1774,7 +1795,7 @@
   {
    "team": "ATL",
    "player": "Brian Robinson Jr.",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "ATL @ TB",
    "owner": "zachschumann"
@@ -1794,22 +1815,6 @@
    "type": "Arm",
    "game": "LAC @ LAR",
    "owner": "J2Money"
-  },
-  {
-   "team": "LAR",
-   "player": "Terrance Ferguson",
-   "status": "Injured Reserve",
-   "type": "Ankle",
-   "game": "LAC @ LAR",
-   "owner": "KamarasNuts"
-  },
-  {
-   "team": "DEN",
-   "player": "RJ Harvey",
-   "status": "Injured Reserve",
-   "type": "Knee",
-   "game": "KC @ DEN",
-   "owner": "ak81"
   },
   {
    "team": "NE",
@@ -1838,18 +1843,10 @@
   {
    "team": "PHI",
    "player": "DeVonta Smith",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Hamstring",
    "game": "PHI @ WSH",
    "owner": "ryancrabbe"
-  },
-  {
-   "team": "GB",
-   "player": "Micah Parsons",
-   "status": "Out",
-   "type": "Knee - ACL",
-   "game": "CAR @ GB",
-   "owner": null
   },
   {
    "team": "GB",
@@ -1860,10 +1857,34 @@
    "owner": null
   },
   {
+   "team": "GB",
+   "player": "Zaire Franklin",
+   "status": "Out",
+   "type": "Shin",
+   "game": "CAR @ GB",
+   "owner": null
+  },
+  {
+   "team": "GB",
+   "player": "Travis Glover",
+   "status": "Out",
+   "type": "Knee",
+   "game": "CAR @ GB",
+   "owner": null
+  },
+  {
+   "team": "GB",
+   "player": "Micah Parsons",
+   "status": "Out",
+   "type": "Knee - ACL",
+   "game": "CAR @ GB",
+   "owner": null
+  },
+  {
    "team": "CAR",
-   "player": "Will Lee III",
+   "player": "Torricelli Simpkins III",
    "status": "Questionable",
-   "type": "Hamstring",
+   "type": "Ankle",
    "game": "CAR @ GB",
    "owner": null
   }
@@ -2181,22 +2202,22 @@
    "MIN": {
     "opp": "BUF",
     "spread": 3.5,
-    "total": 46.5,
-    "implied": 21.5,
-    "mult": 0.977,
-    "rb_mult": 0.977,
-    "wr_mult": 0.977,
+    "total": 45.5,
+    "implied": 21.0,
+    "mult": 0.955,
+    "rb_mult": 0.955,
+    "wr_mult": 0.955,
     "home": true,
     "kickoff": "2026-11-10T01:15Z"
    },
    "BUF": {
     "opp": "MIN",
     "spread": -3.5,
-    "total": 46.5,
-    "implied": 25.0,
-    "mult": 1.136,
-    "rb_mult": 1.136,
-    "wr_mult": 1.136,
+    "total": 45.5,
+    "implied": 24.5,
+    "mult": 1.114,
+    "rb_mult": 1.114,
+    "wr_mult": 1.114,
     "home": false,
     "kickoff": "2026-11-10T01:15Z"
    }
@@ -2893,15 +2914,6 @@
   {
    "game": "CHI @ SEA",
    "kind": "play",
-   "headline": "Jeffery Simmons record 1st sack with Bears",
-   "video_url": "https://www.espn.com/video/clip/_/id/50363802/jeffery-simmons-record-1st-sack-bears",
-   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/7d5f53d7adfd487798dbd6304073b30a1323/7d5f53d7adfd487798dbd6304073b30a1323.jpg",
-   "players": [],
-   "owners": []
-  },
-  {
-   "game": "CHI @ SEA",
-   "kind": "play",
    "headline": "Sam Darnold launches a beauty to a wide-open JSN for a TD",
    "video_url": "https://www.espn.com/video/clip/_/id/50363885/sam-darnold-launches-beauty-wide-open-jsn-td",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/b5ed609ed5b24055a9cea689b046ba711321/b5ed609ed5b24055a9cea689b046ba711321.jpg",
@@ -2954,6 +2966,19 @@
    "headline": "D'Andre Swift finds the corner for his 2nd TD of the game",
    "video_url": "https://www.espn.com/video/clip/_/id/50364968/dandre-swift-finds-corner-2nd-td-game",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/bbe99ef23a744e7abebef4124f3ff99e1402/bbe99ef23a744e7abebef4124f3ff99e1402.jpg",
+   "players": [
+    "D'Andre Swift"
+   ],
+   "owners": [
+    "J2Money"
+   ]
+  },
+  {
+   "game": "CHI @ SEA",
+   "kind": "play",
+   "headline": "D'Andre Swift breaks the plane for his 3rd TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/50365027/dandre-swift-breaks-plane-3rd-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/098f4ef3008c4883aec15d49fd46f0e31405/098f4ef3008c4883aec15d49fd46f0e31405.jpg",
    "players": [
     "D'Andre Swift"
    ],
