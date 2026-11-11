@@ -4,8 +4,8 @@
  "week": 10,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-11-11T08:31:27Z",
- "live_fetched_at": "2026-11-11T08:30:06Z",
+ "generated_at": "2026-11-11T13:06:43Z",
+ "live_fetched_at": "2026-11-11T13:00:15Z",
  "live_games": {
   "final": [],
   "live": []
@@ -2049,7 +2049,7 @@
     "epa_per_play_off": -0.032,
     "epa_per_play_def": 0.023,
     "shotgun_rate": 0.717,
-    "no_huddle_rate": 0.09
+    "no_huddle_rate": 0.088
    },
    {
     "team": "NO",
