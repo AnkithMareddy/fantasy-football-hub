@@ -1,40 +1,13 @@
 {
  "league": "ShowMeYourTDs",
  "season": 2026,
- "week": 10,
+ "week": 11,
  "sims": 10000,
  "user_team": "uaintgotjuicehoeido",
- "generated_at": "2026-11-16T22:08:28Z",
- "live_fetched_at": "2026-11-16T22:00:14Z",
+ "generated_at": "2026-11-17T13:07:43Z",
+ "live_fetched_at": "2026-11-17T13:00:09Z",
  "live_games": {
-  "final": [
-   "ARI",
-   "ATL",
-   "BUF",
-   "CAR",
-   "CIN",
-   "CLE",
-   "DAL",
-   "DET",
-   "GB",
-   "HOU",
-   "IND",
-   "JAX",
-   "KC",
-   "LAR",
-   "LV",
-   "MIA",
-   "MIN",
-   "NE",
-   "NO",
-   "NYG",
-   "NYJ",
-   "PIT",
-   "SEA",
-   "SF",
-   "TEN",
-   "WAS"
-  ],
+  "final": [],
   "live": []
  },
  "week_final": false,
@@ -108,197 +81,197 @@
    "proj_w": 11.2,
    "proj_l": 2.8,
    "playoff_pct": 100.0,
-   "bye_pct": 97.5,
-   "title_pct": 24.3,
+   "bye_pct": 97.0,
+   "title_pct": 24.0,
    "is_user": false,
-   "actual_w": 8,
+   "actual_w": 9,
    "actual_l": 1,
-   "pf": 995.8,
+   "pf": 1107.5,
    "faab": 22
   },
   {
    "team": "kisiluv",
    "rank": 2,
-   "proj_w": 8.5,
-   "proj_l": 5.5,
-   "playoff_pct": 93.5,
-   "bye_pct": 47.1,
+   "proj_w": 8.6,
+   "proj_l": 5.4,
+   "playoff_pct": 95.3,
+   "bye_pct": 50.4,
    "title_pct": 26.4,
    "is_user": false,
-   "actual_w": 5,
+   "actual_w": 6,
    "actual_l": 4,
-   "pf": 1034.3,
+   "pf": 1154.3,
    "faab": 44
   },
   {
    "team": "uaintgotjuicehoeido",
    "rank": 3,
-   "proj_w": 8.2,
-   "proj_l": 5.8,
-   "playoff_pct": 81.8,
-   "bye_pct": 20.2,
-   "title_pct": 10.4,
+   "proj_w": 8.4,
+   "proj_l": 5.6,
+   "playoff_pct": 87.7,
+   "bye_pct": 24.1,
+   "title_pct": 11.2,
    "is_user": true,
-   "actual_w": 5,
+   "actual_w": 6,
    "actual_l": 4,
-   "pf": 930.0,
-   "faab": 35
+   "pf": 1058.6,
+   "faab": 33
   },
   {
    "team": "ak81",
    "rank": 4,
-   "proj_w": 7.4,
-   "proj_l": 6.6,
-   "playoff_pct": 69.8,
-   "bye_pct": 11.4,
-   "title_pct": 10.8,
+   "proj_w": 7.5,
+   "proj_l": 6.5,
+   "playoff_pct": 73.5,
+   "bye_pct": 10.6,
+   "title_pct": 10.9,
    "is_user": false,
    "actual_w": 5,
-   "actual_l": 4,
-   "pf": 997.3,
+   "actual_l": 5,
+   "pf": 1105.6,
    "faab": 85
   },
   {
    "team": "Gujju8",
    "rank": 5,
-   "proj_w": 6.9,
-   "proj_l": 7.1,
-   "playoff_pct": 61.2,
-   "bye_pct": 8.2,
-   "title_pct": 7.7,
+   "proj_w": 7.0,
+   "proj_l": 7.0,
+   "playoff_pct": 67.0,
+   "bye_pct": 8.9,
+   "title_pct": 8.3,
    "is_user": false,
-   "actual_w": 4,
+   "actual_w": 5,
    "actual_l": 5,
-   "pf": 983.4,
+   "pf": 1152.0,
    "faab": 42
   },
   {
    "team": "arabdhab",
    "rank": 6,
-   "proj_w": 6.9,
-   "proj_l": 7.1,
-   "playoff_pct": 55.7,
-   "bye_pct": 5.7,
+   "proj_w": 6.8,
+   "proj_l": 7.2,
+   "playoff_pct": 53.8,
+   "bye_pct": 4.1,
    "title_pct": 6.0,
    "is_user": false,
-   "actual_w": 4,
+   "actual_w": 5,
    "actual_l": 5,
-   "pf": 950.4,
+   "pf": 1125.1,
    "faab": 36
   },
   {
    "team": "joshsandorra",
    "rank": 7,
-   "proj_w": 7.5,
-   "proj_l": 6.5,
-   "playoff_pct": 53.6,
-   "bye_pct": 6.0,
-   "title_pct": 2.9,
+   "proj_w": 7.3,
+   "proj_l": 6.7,
+   "playoff_pct": 46.8,
+   "bye_pct": 3.1,
+   "title_pct": 3.2,
    "is_user": false,
    "actual_w": 6,
-   "actual_l": 3,
-   "pf": 951.3,
+   "actual_l": 4,
+   "pf": 1022.0,
    "faab": 59
   },
   {
    "team": "zachschumann",
    "rank": 8,
-   "proj_w": 7.0,
-   "proj_l": 7.0,
-   "playoff_pct": 48.4,
-   "bye_pct": 2.5,
-   "title_pct": 7.9,
+   "proj_w": 6.9,
+   "proj_l": 7.1,
+   "playoff_pct": 45.5,
+   "bye_pct": 1.1,
+   "title_pct": 7.1,
    "is_user": false,
-   "actual_w": 4,
+   "actual_w": 5,
    "actual_l": 5,
-   "pf": 974.4,
-   "faab": 9
+   "pf": 1074.6,
+   "faab": 11
   },
   {
    "team": "raymondfeltons",
    "rank": 9,
-   "proj_w": 6.3,
-   "proj_l": 7.7,
-   "playoff_pct": 27.0,
-   "bye_pct": 1.3,
-   "title_pct": 2.8,
+   "proj_w": 6.1,
+   "proj_l": 7.9,
+   "playoff_pct": 21.2,
+   "bye_pct": 0.6,
+   "title_pct": 2.0,
    "is_user": false,
    "actual_w": 5,
-   "actual_l": 4,
-   "pf": 1048.3,
+   "actual_l": 5,
+   "pf": 1133.0,
    "faab": 38
   },
   {
    "team": "KamarasNuts",
    "rank": 10,
-   "proj_w": 6.1,
-   "proj_l": 7.9,
-   "playoff_pct": 9.1,
+   "proj_w": 6.0,
+   "proj_l": 8.0,
+   "playoff_pct": 9.3,
    "bye_pct": 0.0,
-   "title_pct": 0.7,
+   "title_pct": 0.9,
    "is_user": false,
    "actual_w": 4,
-   "actual_l": 5,
-   "pf": 877.1,
+   "actual_l": 6,
+   "pf": 979.0,
    "faab": 0
   },
   {
    "team": "J2Money",
    "rank": 11,
-   "proj_w": 3.8,
-   "proj_l": 10.2,
+   "proj_w": 4.0,
+   "proj_l": 10.0,
    "playoff_pct": 0.0,
    "bye_pct": 0.0,
    "title_pct": 0.0,
    "is_user": false,
    "actual_w": 2,
-   "actual_l": 7,
-   "pf": 881.8,
+   "actual_l": 8,
+   "pf": 953.4,
    "faab": 31
   },
   {
    "team": "Ulyssesbo",
    "rank": 12,
-   "proj_w": 4.1,
-   "proj_l": 9.9,
+   "proj_w": 4.0,
+   "proj_l": 10.0,
    "playoff_pct": 0.0,
    "bye_pct": 0.0,
    "title_pct": 0.0,
    "is_user": false,
    "actual_w": 2,
-   "actual_l": 7,
-   "pf": 748.5,
+   "actual_l": 8,
+   "pf": 837.3,
    "faab": 16
   }
  ],
  "matchups": [
   {
    "a": "J2Money",
-   "a_winpct": 0,
-   "a_pts": 71.7,
-   "b": "kisiluv",
-   "b_winpct": 100,
-   "b_pts": 120.0,
+   "a_winpct": 39,
+   "a_pts": 63.7,
+   "b": "KamarasNuts",
+   "b_winpct": 61,
+   "b_pts": 70.1,
    "a_side": {
-    "live": 71.66,
+    "live": 0,
     "lineup": [
      {
-      "pid": "421",
-      "name": "Matthew Stafford",
+      "pid": "11565",
+      "name": "J.J. McCarthy",
       "pos": "QB",
-      "nfl": "LAR",
-      "pts": 19.76,
-      "state": "final",
+      "nfl": "NYG",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "8132",
-      "name": "Tyler Allgeier",
+      "pid": "6790",
+      "name": "D'Andre Swift",
       "pos": "RB",
-      "nfl": "ARI",
-      "pts": 1.4,
-      "state": "final",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -307,8 +280,8 @@
       "name": "James Cook III",
       "pos": "RB",
       "nfl": "BUF",
-      "pts": 21.7,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -317,19 +290,19 @@
       "name": "Malik Nabers",
       "pos": "WR",
       "nfl": "NYG",
-      "pts": 4.9,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "5859",
-      "name": "A.J. Brown",
+      "pid": "11834",
+      "name": "Devaughn Vele",
       "pos": "WR",
-      "nfl": "NE",
-      "pts": 3.7,
-      "state": "final",
-      "inj": "Out",
+      "nfl": "NO",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
       "inj_type": null
      },
      {
@@ -337,28 +310,28 @@
       "name": "Hunter Henry",
       "pos": "TE",
       "nfl": "NE",
-      "pts": 3.2,
-      "state": "final",
+      "pts": 0.0,
+      "state": "bye",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "9756",
-      "name": "Jordan Addison",
-      "pos": "WR",
+      "pid": "8408",
+      "name": "Jordan Mason",
+      "pos": "RB",
       "nfl": "MIN",
       "pts": 0.0,
-      "state": "final",
-      "inj": "Out",
-      "inj_type": "Thumb"
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
      },
      {
       "pid": "11786",
       "name": "Cam Little",
       "pos": "K",
       "nfl": "JAX",
-      "pts": 19.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -367,166 +340,145 @@
       "name": "San Francisco 49ers",
       "pos": "DEF",
       "nfl": "SF",
-      "pts": -2.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
-    "alerts": [
-     {
-      "pid": "5859",
-      "name": "A.J. Brown",
-      "pos": "WR",
-      "nfl": "NE",
-      "pts": 3.7,
-      "state": "final",
-      "inj": "Out",
-      "inj_type": null
-     },
-     {
-      "pid": "9756",
-      "name": "Jordan Addison",
-      "pos": "WR",
-      "nfl": "MIN",
-      "pts": 0.0,
-      "state": "final",
-      "inj": "Out",
-      "inj_type": "Thumb"
-     }
-    ]
+    "to_play": 8,
+    "alerts": []
    },
    "b_side": {
-    "live": 120.02,
+    "live": 0,
     "lineup": [
      {
-      "pid": "3163",
-      "name": "Jared Goff",
+      "pid": "1166",
+      "name": "Kirk Cousins",
       "pos": "QB",
-      "nfl": "DET",
-      "pts": 20.42,
-      "state": "final",
+      "nfl": "MIN",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "9221",
-      "name": "Jahmyr Gibbs",
+      "pid": "8151",
+      "name": "Kenneth Walker III",
       "pos": "RB",
-      "nfl": "DET",
-      "pts": 40.7,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8228",
-      "name": "Jaylen Warren",
-      "pos": "RB",
-      "nfl": "PIT",
-      "pts": 6.6,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "12501",
-      "name": "Matthew Golden",
-      "pos": "WR",
-      "nfl": "GB",
-      "pts": 9.5,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8112",
-      "name": "Drake London",
-      "pos": "WR",
-      "nfl": "ATL",
-      "pts": 13.9,
-      "state": "final",
+      "nfl": "KC",
+      "pts": 0.0,
+      "state": "todo",
       "inj": "Questionable",
-      "inj_type": null
+      "inj_type": "Groin"
      },
      {
-      "pid": "10236",
-      "name": "Dalton Kincaid",
-      "pos": "TE",
-      "nfl": "BUF",
-      "pts": 6.8,
-      "state": "final",
+      "pid": "8155",
+      "name": "Breece Hall",
+      "pos": "RB",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "8146",
-      "name": "Garrett Wilson",
+      "pid": "12514",
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "nfl": "TB",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11625",
+      "name": "Adonai Mitchell",
       "pos": "WR",
       "nfl": "NYJ",
-      "pts": 12.1,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "7839",
-      "name": "Evan McPherson",
+      "pid": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "nfl": "CAR",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "13345",
+      "name": "Jonah Coleman",
+      "pos": "RB",
+      "nfl": "DEN",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6083",
+      "name": "Matt Gay",
       "pos": "K",
-      "nfl": "CIN",
-      "pts": 7.0,
-      "state": "final",
+      "nfl": "LV",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "JAX",
-      "name": "Jacksonville Jaguars",
+      "pid": "KC",
+      "name": "Kansas City Chiefs",
       "pos": "DEF",
-      "nfl": "JAX",
-      "pts": 3.0,
-      "state": "final",
+      "nfl": "KC",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
+    "to_play": 9,
     "alerts": [
      {
-      "pid": "8112",
-      "name": "Drake London",
-      "pos": "WR",
-      "nfl": "ATL",
-      "pts": 13.9,
-      "state": "final",
+      "pid": "8151",
+      "name": "Kenneth Walker III",
+      "pos": "RB",
+      "nfl": "KC",
+      "pts": 0.0,
+      "state": "todo",
       "inj": "Questionable",
-      "inj_type": null
+      "inj_type": "Groin"
      }
     ]
    }
   },
   {
    "a": "joshsandorra",
-   "a_winpct": 0,
-   "a_pts": 70.7,
-   "b": "arabdhab",
-   "b_winpct": 100,
-   "b_pts": 174.8,
+   "a_winpct": 24,
+   "a_pts": 61.6,
+   "b": "kisiluv",
+   "b_winpct": 76,
+   "b_pts": 77.5,
    "a_side": {
-    "live": 70.7,
+    "live": 0,
     "lineup": [
      {
-      "pid": "9228",
-      "name": "Bryce Young",
+      "pid": "11560",
+      "name": "Caleb Williams",
       "pos": "QB",
-      "nfl": "CAR",
-      "pts": 8.1,
-      "state": "final",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -535,28 +487,18 @@
       "name": "Bhayshul Tuten",
       "pos": "RB",
       "nfl": "JAX",
-      "pts": 18.8,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "9753",
-      "name": "Zach Charbonnet",
+      "pid": "12527",
+      "name": "Ashton Jeanty",
       "pos": "RB",
-      "nfl": "SEA",
-      "pts": 9.4,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "9488",
-      "name": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "nfl": "SEA",
-      "pts": 27.1,
-      "state": "final",
+      "nfl": "LV",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -565,18 +507,28 @@
       "name": "Jalen Coker",
       "pos": "WR",
       "nfl": "CAR",
-      "pts": 0.3,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "9479",
-      "name": "Darnell Washington",
+      "pid": "13276",
+      "name": "Omar Cooper Jr.",
+      "pos": "WR",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": "Ankle"
+     },
+     {
+      "pid": "12517",
+      "name": "Colston Loveland",
       "pos": "TE",
-      "nfl": "PIT",
-      "pts": 1.0,
-      "state": "final",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -585,18 +537,18 @@
       "name": "Woody Marks",
       "pos": "RB",
       "nfl": "HOU",
-      "pts": 7.0,
-      "state": "final",
-      "inj": "Out",
-      "inj_type": null
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Doubtful",
+      "inj_type": "Concussion"
      },
      {
       "pid": "7042",
       "name": "Tyler Bass",
       "pos": "K",
       "nfl": "BUF",
-      "pts": 7.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -605,165 +557,165 @@
       "name": "Pittsburgh Steelers",
       "pos": "DEF",
       "nfl": "PIT",
-      "pts": -8.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
+    "to_play": 9,
     "alerts": [
+     {
+      "pid": "13276",
+      "name": "Omar Cooper Jr.",
+      "pos": "WR",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": "Ankle"
+     },
      {
       "pid": "12474",
       "name": "Woody Marks",
       "pos": "RB",
       "nfl": "HOU",
-      "pts": 7.0,
-      "state": "final",
-      "inj": "Out",
-      "inj_type": null
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Doubtful",
+      "inj_type": "Concussion"
      }
     ]
    },
    "b_side": {
-    "live": 174.76,
+    "live": 0,
     "lineup": [
      {
-      "pid": "6770",
-      "name": "Joe Burrow",
+      "pid": "3163",
+      "name": "Jared Goff",
       "pos": "QB",
-      "nfl": "CIN",
-      "pts": 33.16,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8150",
-      "name": "Kyren Williams",
-      "pos": "RB",
-      "nfl": "LAR",
-      "pts": 4.2,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "7594",
-      "name": "Chuba Hubbard",
-      "pos": "RB",
-      "nfl": "CAR",
-      "pts": 31.7,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8137",
-      "name": "George Pickens",
-      "pos": "WR",
-      "nfl": "DAL",
-      "pts": 38.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "7564",
-      "name": "Ja'Marr Chase",
-      "pos": "WR",
-      "nfl": "CIN",
-      "pts": 28.6,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "nfl": "LAR",
-      "pts": 9.2,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "13286",
-      "name": "Jadarian Price",
-      "pos": "RB",
-      "nfl": "SEA",
-      "pts": 10.9,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "11539",
-      "name": "Jake Bates",
-      "pos": "K",
       "nfl": "DET",
-      "pts": 5.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "IND",
-      "name": "Indianapolis Colts",
+      "pid": "9221",
+      "name": "Jahmyr Gibbs",
+      "pos": "RB",
+      "nfl": "DET",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8228",
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "nfl": "PIT",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "nfl": "WAS",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8146",
+      "name": "Garrett Wilson",
+      "pos": "WR",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "10236",
+      "name": "Dalton Kincaid",
+      "pos": "TE",
+      "nfl": "BUF",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11576",
+      "name": "Braelon Allen",
+      "pos": "RB",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "nfl": "CIN",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "JAX",
+      "name": "Jacksonville Jaguars",
       "pos": "DEF",
-      "nfl": "IND",
-      "pts": 14.0,
-      "state": "final",
+      "nfl": "JAX",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
+    "to_play": 9,
     "alerts": []
    }
   },
   {
    "a": "zachschumann",
-   "a_winpct": 97,
-   "a_pts": 100.1,
-   "b": "raymondfeltons",
-   "b_winpct": 3,
-   "b_pts": 81.2,
+   "a_winpct": 17,
+   "a_pts": 57.8,
+   "b": "uaintgotjuicehoeido",
+   "b_winpct": 83,
+   "b_pts": 80.1,
    "a_side": {
-    "live": 100.12,
+    "live": 0,
     "lineup": [
      {
       "pid": "3294",
       "name": "Dak Prescott",
       "pos": "QB",
       "nfl": "DAL",
-      "pts": 34.42,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "9509",
-      "name": "Bijan Robinson",
+      "pid": "13424",
+      "name": "Seth McGowan",
       "pos": "RB",
-      "nfl": "ATL",
-      "pts": 15.7,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "7611",
-      "name": "Rhamondre Stevenson",
-      "pos": "RB",
-      "nfl": "NE",
-      "pts": 1.0,
-      "state": "final",
+      "nfl": "IND",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -772,8 +724,8 @@
       "name": "DJ Moore",
       "pos": "WR",
       "nfl": "BUF",
-      "pts": 17.4,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -782,8 +734,8 @@
       "name": "Rashee Rice",
       "pos": "WR",
       "nfl": "KC",
-      "pts": 10.7,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -792,8 +744,8 @@
       "name": "Brock Bowers",
       "pos": "TE",
       "nfl": "LV",
-      "pts": 2.8,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": "Questionable",
       "inj_type": "Ankle"
      },
@@ -802,8 +754,8 @@
       "name": "Tee Higgins",
       "pos": "WR",
       "nfl": "CIN",
-      "pts": 9.1,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -812,8 +764,8 @@
       "name": "Chris Boswell",
       "pos": "K",
       "nfl": "PIT",
-      "pts": 5.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -822,166 +774,145 @@
       "name": "Green Bay Packers",
       "pos": "DEF",
       "nfl": "GB",
-      "pts": 4.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "bye",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
+    "to_play": 7,
     "alerts": [
      {
       "pid": "11604",
       "name": "Brock Bowers",
       "pos": "TE",
       "nfl": "LV",
-      "pts": 2.8,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": "Questionable",
       "inj_type": "Ankle"
      }
     ]
    },
    "b_side": {
-    "live": 68.28,
+    "live": 0,
     "lineup": [
      {
-      "pid": "12545",
-      "name": "Tyler Shough",
+      "pid": "9758",
+      "name": "C.J. Stroud",
       "pos": "QB",
-      "nfl": "NO",
-      "pts": 9.98,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "3198",
-      "name": "Derrick Henry",
-      "pos": "RB",
-      "nfl": "BAL",
+      "nfl": "HOU",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "7588",
-      "name": "Javonte Williams",
+      "pid": "4034",
+      "name": "Christian McCaffrey",
       "pos": "RB",
-      "nfl": "DAL",
-      "pts": 7.2,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8126",
-      "name": "Wan'Dale Robinson",
-      "pos": "WR",
-      "nfl": "TEN",
-      "pts": 2.5,
-      "state": "final",
-      "inj": "Questionable",
-      "inj_type": "Ankle"
-     },
-     {
-      "pid": "12526",
-      "name": "Tetairoa McMillan",
-      "pos": "WR",
-      "nfl": "CAR",
-      "pts": 5.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "4217",
-      "name": "George Kittle",
-      "pos": "TE",
       "nfl": "SF",
-      "pts": 10.4,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "12504",
-      "name": "Kaleb Johnson",
+      "pid": "12495",
+      "name": "Ollie Gordon II",
       "pos": "RB",
-      "nfl": "GB",
-      "pts": 4.2,
-      "state": "final",
+      "nfl": "MIA",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "12185",
-      "name": "Spencer Shrader",
+      "pid": "8144",
+      "name": "Chris Olave",
+      "pos": "WR",
+      "nfl": "NO",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8148",
+      "name": "Jameson Williams",
+      "pos": "WR",
+      "nfl": "DET",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8130",
+      "name": "Trey McBride",
+      "pos": "TE",
+      "nfl": "ARI",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12481",
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "nfl": "NYG",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "2747",
+      "name": "Jason Myers",
       "pos": "K",
-      "nfl": "IND",
-      "pts": 8.0,
-      "state": "final",
+      "nfl": "SEA",
+      "pts": 0.0,
+      "state": "bye",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "MIN",
-      "name": "Minnesota Vikings",
+      "pid": "HOU",
+      "name": "Houston Texans",
       "pos": "DEF",
-      "nfl": "MIN",
-      "pts": 21.0,
-      "state": "final",
+      "nfl": "HOU",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 8,
+    "done": 0,
     "in_play": 0,
-    "to_play": 1,
-    "alerts": [
-     {
-      "pid": "8126",
-      "name": "Wan'Dale Robinson",
-      "pos": "WR",
-      "nfl": "TEN",
-      "pts": 2.5,
-      "state": "final",
-      "inj": "Questionable",
-      "inj_type": "Ankle"
-     }
-    ]
+    "to_play": 8,
+    "alerts": []
    }
   },
   {
    "a": "Ulyssesbo",
-   "a_winpct": 0,
-   "a_pts": 88.8,
-   "b": "Gujju8",
-   "b_winpct": 100,
-   "b_pts": 169.5,
+   "a_winpct": 49,
+   "a_pts": 72.6,
+   "b": "arabdhab",
+   "b_winpct": 51,
+   "b_pts": 73.2,
    "a_side": {
-    "live": 88.76,
+    "live": 0,
     "lineup": [
      {
       "pid": "11566",
       "name": "Jayden Daniels",
       "pos": "QB",
       "nfl": "WAS",
-      "pts": 20.76,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8136",
-      "name": "Rachaad White",
-      "pos": "RB",
-      "nfl": "WAS",
-      "pts": 5.7,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -990,18 +921,8 @@
       "name": "Aaron Jones Sr.",
       "pos": "RB",
       "nfl": "MIN",
-      "pts": 12.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "6794",
-      "name": "Justin Jefferson",
-      "pos": "WR",
-      "nfl": "MIN",
-      "pts": 11.9,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1010,28 +931,8 @@
       "name": "Caleb Douglas",
       "pos": "WR",
       "nfl": "MIA",
-      "pts": 8.6,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "7002",
-      "name": "Juwan Johnson",
-      "pos": "TE",
-      "nfl": "NO",
-      "pts": 3.8,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "13297",
-      "name": "Reggie Virgil",
-      "pos": "WR",
-      "nfl": "ARI",
       "pts": 0.0,
-      "state": "final",
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1040,8 +941,8 @@
       "name": "Will Reichard",
       "pos": "K",
       "nfl": "MIN",
-      "pts": 12.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1050,27 +951,275 @@
       "name": "Miami Dolphins",
       "pos": "DEF",
       "nfl": "MIA",
-      "pts": 14.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
+    "to_play": 5,
     "alerts": []
    },
    "b_side": {
-    "live": 160.18,
+    "live": 0,
+    "lineup": [
+     {
+      "pid": "6770",
+      "name": "Joe Burrow",
+      "pos": "QB",
+      "nfl": "CIN",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7594",
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "nfl": "CAR",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12534",
+      "name": "Kyle Monangai",
+      "pos": "RB",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Out",
+      "inj_type": null
+     },
+     {
+      "pid": "8137",
+      "name": "George Pickens",
+      "pos": "WR",
+      "nfl": "DAL",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7564",
+      "name": "Ja'Marr Chase",
+      "pos": "WR",
+      "nfl": "CIN",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "8210",
+      "name": "Chig Okonkwo",
+      "pos": "TE",
+      "nfl": "WAS",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": null
+     },
+     {
+      "pid": "12519",
+      "name": "Luther Burden III",
+      "pos": "WR",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": null
+     },
+     {
+      "pid": "11539",
+      "name": "Jake Bates",
+      "pos": "K",
+      "nfl": "DET",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "BUF",
+      "name": "Buffalo Bills",
+      "pos": "DEF",
+      "nfl": "BUF",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 0,
+    "in_play": 0,
+    "to_play": 9,
+    "alerts": [
+     {
+      "pid": "12534",
+      "name": "Kyle Monangai",
+      "pos": "RB",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Out",
+      "inj_type": null
+     },
+     {
+      "pid": "8210",
+      "name": "Chig Okonkwo",
+      "pos": "TE",
+      "nfl": "WAS",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": null
+     },
+     {
+      "pid": "12519",
+      "name": "Luther Burden III",
+      "pos": "WR",
+      "nfl": "CHI",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": null
+     }
+    ]
+   }
+  },
+  {
+   "a": "ak81",
+   "a_winpct": 45,
+   "a_pts": 81.9,
+   "b": "Gujju8",
+   "b_winpct": 55,
+   "b_pts": 85.2,
+   "a_side": {
+    "live": 0,
+    "lineup": [
+     {
+      "pid": "4984",
+      "name": "Josh Allen",
+      "pos": "QB",
+      "nfl": "BUF",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "6813",
+      "name": "Jonathan Taylor",
+      "pos": "RB",
+      "nfl": "IND",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11584",
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "nfl": "TB",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "7569",
+      "name": "Nico Collins",
+      "pos": "WR",
+      "nfl": "HOU",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "11635",
+      "name": "Ladd McConkey",
+      "pos": "WR",
+      "nfl": "LAC",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": "Back"
+     },
+     {
+      "pid": "10859",
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "nfl": "DET",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "2449",
+      "name": "Stefon Diggs",
+      "pos": "WR",
+      "nfl": "WAS",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "3451",
+      "name": "Ka'imi Fairbairn",
+      "pos": "K",
+      "nfl": "HOU",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "SEA",
+      "name": "Seattle Seahawks",
+      "pos": "DEF",
+      "nfl": "SEA",
+      "pts": 0.0,
+      "state": "bye",
+      "inj": null,
+      "inj_type": null
+     }
+    ],
+    "done": 0,
+    "in_play": 0,
+    "to_play": 8,
+    "alerts": [
+     {
+      "pid": "11635",
+      "name": "Ladd McConkey",
+      "pos": "WR",
+      "nfl": "LAC",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": "Back"
+     }
+    ]
+   },
+   "b_side": {
+    "live": 0,
     "lineup": [
      {
       "pid": "7523",
       "name": "Trevor Lawrence",
       "pos": "QB",
       "nfl": "JAX",
-      "pts": 26.78,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1079,18 +1228,18 @@
       "name": "Chase Brown",
       "pos": "RB",
       "nfl": "CIN",
-      "pts": 24.3,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "11586",
-      "name": "Blake Corum",
+      "pid": "7543",
+      "name": "Travis Etienne Jr.",
       "pos": "RB",
-      "nfl": "LAR",
-      "pts": 19.4,
-      "state": "final",
+      "nfl": "NO",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1099,8 +1248,8 @@
       "name": "Amon-Ra St. Brown",
       "pos": "WR",
       "nfl": "DET",
-      "pts": 23.8,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1109,8 +1258,8 @@
       "name": "Parker Washington",
       "pos": "WR",
       "nfl": "JAX",
-      "pts": 24.7,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1119,8 +1268,8 @@
       "name": "Isaiah Likely",
       "pos": "TE",
       "nfl": "NYG",
-      "pts": 23.2,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1139,144 +1288,155 @@
       "name": "Dominic Zvada",
       "pos": "K",
       "nfl": "NYG",
-      "pts": 2.0,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "LAR",
-      "name": "Los Angeles Rams",
+      "pid": "NYJ",
+      "name": "New York Jets",
       "pos": "DEF",
-      "nfl": "LAR",
-      "pts": 16.0,
-      "state": "final",
+      "nfl": "NYJ",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 8,
+    "done": 0,
     "in_play": 0,
-    "to_play": 1,
+    "to_play": 9,
     "alerts": []
    }
   },
   {
-   "a": "ak81",
-   "a_winpct": 0,
-   "a_pts": 108.3,
+   "a": "raymondfeltons",
+   "a_winpct": 40,
+   "a_pts": 74.7,
    "b": "ryancrabbe",
-   "b_winpct": 100,
-   "b_pts": 111.7,
+   "b_winpct": 60,
+   "b_pts": 80.9,
    "a_side": {
-    "live": 108.34,
+    "live": 0,
     "lineup": [
      {
-      "pid": "4984",
-      "name": "Josh Allen",
+      "pid": "12545",
+      "name": "Tyler Shough",
       "pos": "QB",
-      "nfl": "BUF",
-      "pts": 22.34,
-      "state": "final",
+      "nfl": "NO",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "6813",
-      "name": "Jonathan Taylor",
+      "pid": "3198",
+      "name": "Derrick Henry",
       "pos": "RB",
-      "nfl": "IND",
-      "pts": 11.3,
-      "state": "final",
+      "nfl": "BAL",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "7021",
-      "name": "Rico Dowdle",
+      "pid": "7588",
+      "name": "Javonte Williams",
       "pos": "RB",
-      "nfl": "PIT",
-      "pts": 4.4,
-      "state": "final",
+      "nfl": "DAL",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "7569",
-      "name": "Nico Collins",
+      "pid": "8126",
+      "name": "Wan'Dale Robinson",
       "pos": "WR",
-      "nfl": "HOU",
-      "pts": 19.9,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
+      "nfl": "TEN",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": "Ankle"
      },
      {
-      "pid": "5947",
-      "name": "Jakobi Meyers",
+      "pid": "12526",
+      "name": "Tetairoa McMillan",
       "pos": "WR",
-      "nfl": "JAX",
-      "pts": 4.9,
-      "state": "final",
+      "nfl": "CAR",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "10859",
-      "name": "Sam LaPorta",
+      "pid": "4217",
+      "name": "George Kittle",
       "pos": "TE",
-      "nfl": "DET",
-      "pts": 2.1,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "5872",
-      "name": "Deebo Samuel Sr.",
-      "pos": "WR",
       "nfl": "SF",
-      "pts": 24.4,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "3451",
-      "name": "Ka'imi Fairbairn",
+      "pid": "12504",
+      "name": "Kaleb Johnson",
+      "pos": "RB",
+      "nfl": "GB",
+      "pts": 0.0,
+      "state": "bye",
+      "inj": null,
+      "inj_type": null
+     },
+     {
+      "pid": "12185",
+      "name": "Spencer Shrader",
       "pos": "K",
-      "nfl": "HOU",
-      "pts": 7.0,
-      "state": "final",
+      "nfl": "IND",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "SEA",
-      "name": "Seattle Seahawks",
+      "pid": "MIN",
+      "name": "Minnesota Vikings",
       "pos": "DEF",
-      "nfl": "SEA",
-      "pts": 12.0,
-      "state": "final",
+      "nfl": "MIN",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 9,
+    "done": 0,
     "in_play": 0,
-    "to_play": 0,
-    "alerts": []
+    "to_play": 8,
+    "alerts": [
+     {
+      "pid": "8126",
+      "name": "Wan'Dale Robinson",
+      "pos": "WR",
+      "nfl": "TEN",
+      "pts": 0.0,
+      "state": "todo",
+      "inj": "Questionable",
+      "inj_type": "Ankle"
+     }
+    ]
    },
    "b_side": {
-    "live": 111.7,
+    "live": 0,
     "lineup": [
      {
-      "pid": "6804",
-      "name": "Jordan Love",
+      "pid": "11563",
+      "name": "Bo Nix",
       "pos": "QB",
-      "nfl": "GB",
-      "pts": 10.8,
-      "state": "final",
+      "nfl": "DEN",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1285,8 +1445,8 @@
       "name": "Tony Pollard",
       "pos": "RB",
       "nfl": "TEN",
-      "pts": 19.9,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1295,8 +1455,8 @@
       "name": "Emmett Johnson",
       "pos": "RB",
       "nfl": "KC",
-      "pts": 32.1,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1305,18 +1465,18 @@
       "name": "CeeDee Lamb",
       "pos": "WR",
       "nfl": "DAL",
-      "pts": 16.7,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "8167",
-      "name": "Christian Watson",
+      "pid": "13294",
+      "name": "Makai Lemon",
       "pos": "WR",
-      "nfl": "GB",
-      "pts": 5.2,
-      "state": "final",
+      "nfl": "PHI",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1325,18 +1485,18 @@
       "name": "Tyler Warren",
       "pos": "TE",
       "nfl": "IND",
-      "pts": 1.4,
-      "state": "final",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "12512",
-      "name": "Quinshon Judkins",
+      "pid": "4866",
+      "name": "Saquon Barkley",
       "pos": "RB",
-      "nfl": "CLE",
-      "pts": 14.6,
-      "state": "final",
+      "nfl": "PHI",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      },
@@ -1345,221 +1505,25 @@
       "name": "Brandon Aubrey",
       "pos": "K",
       "nfl": "DAL",
-      "pts": 11.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     }
-    ],
-    "done": 8,
-    "in_play": 0,
-    "to_play": 0,
-    "alerts": []
-   }
-  },
-  {
-   "a": "KamarasNuts",
-   "a_winpct": 0,
-   "a_pts": 96.3,
-   "b": "uaintgotjuicehoeido",
-   "b_winpct": 100,
-   "b_pts": 128.6,
-   "a_side": {
-    "live": 84.86,
-    "lineup": [
-     {
-      "pid": "8183",
-      "name": "Brock Purdy",
-      "pos": "QB",
-      "nfl": "SF",
-      "pts": 31.66,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "12507",
-      "name": "Omarion Hampton",
-      "pos": "RB",
-      "nfl": "LAC",
       "pts": 0.0,
       "state": "todo",
       "inj": null,
       "inj_type": null
      },
      {
-      "pid": "8155",
-      "name": "Breece Hall",
-      "pos": "RB",
-      "nfl": "NYJ",
-      "pts": 12.8,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "13298",
-      "name": "KC Concepcion Jr.",
-      "pos": "WR",
-      "nfl": "CLE",
-      "pts": 10.2,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "nfl": "NYJ",
-      "pts": 7.4,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "9484",
-      "name": "Tucker Kraft",
-      "pos": "TE",
-      "nfl": "GB",
-      "pts": 2.4,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "nfl": "CAR",
-      "pts": 3.4,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "nfl": "LV",
-      "pts": 8.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "KC",
-      "name": "Kansas City Chiefs",
+      "pid": "DEN",
+      "name": "Denver Broncos",
       "pos": "DEF",
-      "nfl": "KC",
-      "pts": 9.0,
-      "state": "final",
+      "nfl": "DEN",
+      "pts": 0.0,
+      "state": "todo",
       "inj": null,
       "inj_type": null
      }
     ],
-    "done": 8,
+    "done": 0,
     "in_play": 0,
-    "to_play": 1,
-    "alerts": []
-   },
-   "b_side": {
-    "live": 128.64,
-    "lineup": [
-     {
-      "pid": "9758",
-      "name": "C.J. Stroud",
-      "pos": "QB",
-      "nfl": "HOU",
-      "pts": 20.44,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "4034",
-      "name": "Christian McCaffrey",
-      "pos": "RB",
-      "nfl": "SF",
-      "pts": 44.3,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "12495",
-      "name": "Ollie Gordon II",
-      "pos": "RB",
-      "nfl": "MIA",
-      "pts": 13.5,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8144",
-      "name": "Chris Olave",
-      "pos": "WR",
-      "nfl": "NO",
-      "pts": 4.5,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8148",
-      "name": "Jameson Williams",
-      "pos": "WR",
-      "nfl": "DET",
-      "pts": 7.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "8130",
-      "name": "Trey McBride",
-      "pos": "TE",
-      "nfl": "ARI",
-      "pts": 6.2,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "12481",
-      "name": "Cam Skattebo",
-      "pos": "RB",
-      "nfl": "NYG",
-      "pts": 25.7,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "nfl": "SEA",
-      "pts": 2.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     },
-     {
-      "pid": "HOU",
-      "name": "Houston Texans",
-      "pos": "DEF",
-      "nfl": "HOU",
-      "pts": 5.0,
-      "state": "final",
-      "inj": null,
-      "inj_type": null
-     }
-    ],
-    "done": 9,
-    "in_play": 0,
-    "to_play": 0,
+    "to_play": 9,
     "alerts": []
    }
   }
@@ -1658,18 +1622,18 @@
   {
    "team": "KC",
    "player": "Kenneth Walker III",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Groin",
    "game": "KC @ ATL",
    "owner": "KamarasNuts"
   },
   {
-   "team": "GB",
-   "player": "Josh Jacobs",
-   "status": "Out",
-   "type": "Finger",
-   "game": "MIN @ GB",
-   "owner": "raymondfeltons"
+   "team": "HOU",
+   "player": "Woody Marks",
+   "status": "Doubtful",
+   "type": "Concussion",
+   "game": "HOU @ CLE",
+   "owner": "joshsandorra"
   },
   {
    "team": "MIN",
@@ -1680,17 +1644,9 @@
    "owner": "J2Money"
   },
   {
-   "team": "MIN",
-   "player": "T.J. Hockenson",
-   "status": "Out",
-   "type": "Wrist",
-   "game": "MIN @ GB",
-   "owner": "J2Money"
-  },
-  {
    "team": "TEN",
    "player": "Carnell Tate",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Shoulder",
    "game": "JAX @ TEN",
    "owner": "joshsandorra"
@@ -1730,15 +1686,31 @@
   {
    "team": "SF",
    "player": "Mike Evans",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Achilles",
    "game": "SF @ DAL",
    "owner": "Ulyssesbo"
   },
   {
+   "team": "BAL",
+   "player": "Lamar Jackson",
+   "status": "Injured Reserve",
+   "type": "Thumb",
+   "game": "LAC @ BAL",
+   "owner": "raymondfeltons"
+  },
+  {
+   "team": "LAC",
+   "player": "Ladd McConkey",
+   "status": "Questionable",
+   "type": "Back",
+   "game": "LAC @ BAL",
+   "owner": "ak81"
+  },
+  {
    "team": "NYG",
    "player": "Malik Harrison",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Groin",
    "game": "WSH @ NYG",
    "owner": null
@@ -1778,7 +1750,7 @@
   {
    "team": "WSH",
    "player": "Colson Yankoff",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Knee",
    "game": "WSH @ NYG",
    "owner": null
@@ -1786,46 +1758,302 @@
   {
    "team": "WSH",
    "player": "Lucas Patrick",
-   "status": "Out",
+   "status": "Questionable",
    "type": "Concussion",
-   "game": "WSH @ NYG",
-   "owner": null
-  },
-  {
-   "team": "WSH",
-   "player": "Dyami Brown",
-   "status": "Injured Reserve",
-   "type": "Calf",
    "game": "WSH @ NYG",
    "owner": null
   }
  ],
  "market": {
   "lines": {
-   "BAL": {
-    "opp": "LAC",
-    "spread": -4.5,
-    "total": 39.5,
-    "implied": 22.0,
-    "mult": 1.0,
-    "rb_mult": 1.0,
-    "wr_mult": 1.0,
+   "HOU": {
+    "opp": "IND",
+    "spread": -12.5,
+    "total": 44.5,
+    "implied": 28.5,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.1,
     "home": true,
-    "kickoff": "2026-11-17T01:15Z"
+    "kickoff": "2026-11-20T01:15Z"
    },
-   "LAC": {
-    "opp": "BAL",
+   "IND": {
+    "opp": "HOU",
+    "spread": 12.5,
+    "total": 44.5,
+    "implied": 16.0,
+    "mult": 0.85,
+    "rb_mult": 0.85,
+    "wr_mult": 0.9,
+    "home": false,
+    "kickoff": "2026-11-20T01:15Z"
+   },
+   "BUF": {
+    "opp": "MIA",
+    "spread": -16.5,
+    "total": 45.5,
+    "implied": 31.0,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.1,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "MIA": {
+    "opp": "BUF",
+    "spread": 16.5,
+    "total": 45.5,
+    "implied": 14.5,
+    "mult": 0.85,
+    "rb_mult": 0.85,
+    "wr_mult": 0.9,
+    "home": false,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "CHI": {
+    "opp": "NO",
+    "spread": -11.5,
+    "total": 49.5,
+    "implied": 30.5,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.1,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "NO": {
+    "opp": "CHI",
+    "spread": 11.5,
+    "total": 49.5,
+    "implied": 19.0,
+    "mult": 0.864,
+    "rb_mult": 0.85,
+    "wr_mult": 0.914,
+    "home": false,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "DAL": {
+    "opp": "TEN",
+    "spread": -8.5,
+    "total": 54.5,
+    "implied": 31.5,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.1,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "TEN": {
+    "opp": "DAL",
+    "spread": 8.5,
+    "total": 54.5,
+    "implied": 23.0,
+    "mult": 1.045,
+    "rb_mult": 0.995,
+    "wr_mult": 1.095,
+    "home": false,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "DET": {
+    "opp": "TB",
+    "spread": -6.5,
+    "total": 46.5,
+    "implied": 26.5,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.15,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "TB": {
+    "opp": "DET",
+    "spread": 6.5,
+    "total": 46.5,
+    "implied": 20.0,
+    "mult": 0.909,
+    "rb_mult": 0.909,
+    "wr_mult": 0.909,
+    "home": false,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "KC": {
+    "opp": "ARI",
+    "spread": -16.5,
+    "total": 41.5,
+    "implied": 29.0,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.1,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "ARI": {
+    "opp": "KC",
+    "spread": 16.5,
+    "total": 41.5,
+    "implied": 12.5,
+    "mult": 0.85,
+    "rb_mult": 0.85,
+    "wr_mult": 0.9,
+    "home": false,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "PHI": {
+    "opp": "PIT",
     "spread": 4.5,
-    "total": 39.5,
-    "implied": 17.5,
+    "total": 38.5,
+    "implied": 17.0,
     "mult": 0.85,
     "rb_mult": 0.85,
     "wr_mult": 0.85,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "PIT": {
+    "opp": "PHI",
+    "spread": -4.5,
+    "total": 38.5,
+    "implied": 21.5,
+    "mult": 0.977,
+    "rb_mult": 0.977,
+    "wr_mult": 0.977,
     "home": false,
-    "kickoff": "2026-11-17T01:15Z"
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "CAR": {
+    "opp": "BAL",
+    "spread": -2.5,
+    "total": 43.5,
+    "implied": 23.0,
+    "mult": 1.045,
+    "rb_mult": 1.045,
+    "wr_mult": 1.045,
+    "home": true,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "BAL": {
+    "opp": "CAR",
+    "spread": 2.5,
+    "total": 43.5,
+    "implied": 20.5,
+    "mult": 0.932,
+    "rb_mult": 0.932,
+    "wr_mult": 0.932,
+    "home": false,
+    "kickoff": "2026-11-22T18:00Z"
+   },
+   "LAC": {
+    "opp": "NYJ",
+    "spread": -3.0,
+    "total": 40.5,
+    "implied": 21.8,
+    "mult": 0.989,
+    "rb_mult": 0.989,
+    "wr_mult": 0.989,
+    "home": true,
+    "kickoff": "2026-11-22T21:05Z"
+   },
+   "NYJ": {
+    "opp": "LAC",
+    "spread": 3.0,
+    "total": 40.5,
+    "implied": 18.8,
+    "mult": 0.852,
+    "rb_mult": 0.852,
+    "wr_mult": 0.852,
+    "home": false,
+    "kickoff": "2026-11-22T21:05Z"
+   },
+   "DEN": {
+    "opp": "LV",
+    "spread": -10.0,
+    "total": 40.5,
+    "implied": 25.2,
+    "mult": 1.148,
+    "rb_mult": 1.15,
+    "wr_mult": 1.098,
+    "home": true,
+    "kickoff": "2026-11-22T21:25Z"
+   },
+   "LV": {
+    "opp": "DEN",
+    "spread": 10.0,
+    "total": 40.5,
+    "implied": 15.2,
+    "mult": 0.85,
+    "rb_mult": 0.85,
+    "wr_mult": 0.9,
+    "home": false,
+    "kickoff": "2026-11-22T21:25Z"
+   },
+   "NYG": {
+    "opp": "JAX",
+    "spread": 6.0,
+    "total": 46.5,
+    "implied": 20.2,
+    "mult": 0.92,
+    "rb_mult": 0.92,
+    "wr_mult": 0.92,
+    "home": true,
+    "kickoff": "2026-11-22T21:25Z"
+   },
+   "JAX": {
+    "opp": "NYG",
+    "spread": -6.0,
+    "total": 46.5,
+    "implied": 26.2,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.15,
+    "home": false,
+    "kickoff": "2026-11-22T21:25Z"
+   },
+   "SF": {
+    "opp": "MIN",
+    "spread": -3.0,
+    "total": 46.5,
+    "implied": 24.8,
+    "mult": 1.125,
+    "rb_mult": 1.125,
+    "wr_mult": 1.125,
+    "home": true,
+    "kickoff": "2026-11-23T01:20Z"
+   },
+   "MIN": {
+    "opp": "SF",
+    "spread": 3.0,
+    "total": 46.5,
+    "implied": 21.8,
+    "mult": 0.989,
+    "rb_mult": 0.989,
+    "wr_mult": 0.989,
+    "home": false,
+    "kickoff": "2026-11-23T01:20Z"
+   },
+   "WAS": {
+    "opp": "CIN",
+    "spread": 6.5,
+    "total": 52.5,
+    "implied": 23.0,
+    "mult": 1.045,
+    "rb_mult": 1.045,
+    "wr_mult": 1.045,
+    "home": true,
+    "kickoff": "2026-11-24T01:15Z"
+   },
+   "CIN": {
+    "opp": "WAS",
+    "spread": -6.5,
+    "total": 52.5,
+    "implied": 29.5,
+    "mult": 1.15,
+    "rb_mult": 1.15,
+    "wr_mult": 1.15,
+    "home": false,
+    "kickoff": "2026-11-24T01:15Z"
    }
   },
-  "week": 10
+  "week": 11
  },
  "tendencies": {
   "season": 2026,
@@ -1849,9 +2077,9 @@
     "early_down_pass_rate": 0.48,
     "redzone_pass_rate": 0.473,
     "redzone_plays": 93,
-    "xpass_residual": -0.04,
-    "epa_per_play_off": 0.216,
-    "epa_per_play_def": -0.034,
+    "xpass_residual": -0.038,
+    "epa_per_play_off": 0.189,
+    "epa_per_play_def": -0.02,
     "shotgun_rate": 0.47,
     "no_huddle_rate": 0.031
    },
@@ -1862,9 +2090,9 @@
     "early_down_pass_rate": 0.612,
     "redzone_pass_rate": 0.568,
     "redzone_plays": 95,
-    "xpass_residual": 0.065,
-    "epa_per_play_off": 0.157,
-    "epa_per_play_def": 0.0,
+    "xpass_residual": 0.066,
+    "epa_per_play_off": 0.141,
+    "epa_per_play_def": -0.0,
     "shotgun_rate": 0.767,
     "no_huddle_rate": 0.047
    },
@@ -1875,9 +2103,9 @@
     "early_down_pass_rate": 0.479,
     "redzone_pass_rate": 0.49,
     "redzone_plays": 96,
-    "xpass_residual": -0.072,
-    "epa_per_play_off": 0.157,
-    "epa_per_play_def": -0.124,
+    "xpass_residual": -0.063,
+    "epa_per_play_off": 0.139,
+    "epa_per_play_def": -0.095,
     "shotgun_rate": 0.519,
     "no_huddle_rate": 0.037
    },
@@ -1888,9 +2116,9 @@
     "early_down_pass_rate": 0.439,
     "redzone_pass_rate": 0.406,
     "redzone_plays": 106,
-    "xpass_residual": -0.088,
-    "epa_per_play_off": 0.141,
-    "epa_per_play_def": -0.022,
+    "xpass_residual": -0.087,
+    "epa_per_play_off": 0.119,
+    "epa_per_play_def": -0.01,
     "shotgun_rate": 0.43,
     "no_huddle_rate": 0.04
    },
@@ -1902,8 +2130,8 @@
     "redzone_pass_rate": 0.515,
     "redzone_plays": 99,
     "xpass_residual": 0.013,
-    "epa_per_play_off": 0.126,
-    "epa_per_play_def": -0.099,
+    "epa_per_play_off": 0.114,
+    "epa_per_play_def": -0.08,
     "shotgun_rate": 0.593,
     "no_huddle_rate": 0.009
    },
@@ -1914,9 +2142,9 @@
     "early_down_pass_rate": 0.568,
     "redzone_pass_rate": 0.527,
     "redzone_plays": 129,
-    "xpass_residual": -0.035,
-    "epa_per_play_off": 0.107,
-    "epa_per_play_def": 0.13,
+    "xpass_residual": -0.036,
+    "epa_per_play_off": 0.093,
+    "epa_per_play_def": 0.114,
     "shotgun_rate": 0.644,
     "no_huddle_rate": 0.089
    },
@@ -1927,9 +2155,9 @@
     "early_down_pass_rate": 0.492,
     "redzone_pass_rate": 0.53,
     "redzone_plays": 117,
-    "xpass_residual": -0.048,
-    "epa_per_play_off": 0.104,
-    "epa_per_play_def": 0.028,
+    "xpass_residual": -0.045,
+    "epa_per_play_off": 0.092,
+    "epa_per_play_def": 0.03,
     "shotgun_rate": 0.454,
     "no_huddle_rate": 0.044
    },
@@ -1940,9 +2168,9 @@
     "early_down_pass_rate": 0.543,
     "redzone_pass_rate": 0.542,
     "redzone_plays": 118,
-    "xpass_residual": -0.027,
-    "epa_per_play_off": 0.045,
-    "epa_per_play_def": -0.142,
+    "xpass_residual": -0.024,
+    "epa_per_play_off": 0.052,
+    "epa_per_play_def": -0.112,
     "shotgun_rate": 0.481,
     "no_huddle_rate": 0.097
    },
@@ -1953,9 +2181,9 @@
     "early_down_pass_rate": 0.568,
     "redzone_pass_rate": 0.571,
     "redzone_plays": 84,
-    "xpass_residual": -0.033,
-    "epa_per_play_off": 0.038,
-    "epa_per_play_def": -0.001,
+    "xpass_residual": -0.03,
+    "epa_per_play_off": 0.041,
+    "epa_per_play_def": 0.002,
     "shotgun_rate": 0.696,
     "no_huddle_rate": 0.05
    },
@@ -1966,9 +2194,9 @@
     "early_down_pass_rate": 0.482,
     "redzone_pass_rate": 0.39,
     "redzone_plays": 141,
-    "xpass_residual": -0.04,
-    "epa_per_play_off": 0.011,
-    "epa_per_play_def": -0.058,
+    "xpass_residual": -0.039,
+    "epa_per_play_off": 0.016,
+    "epa_per_play_def": -0.031,
     "shotgun_rate": 0.532,
     "no_huddle_rate": 0.052
    },
@@ -1979,11 +2207,24 @@
     "early_down_pass_rate": 0.595,
     "redzone_pass_rate": 0.586,
     "redzone_plays": 99,
-    "xpass_residual": -0.003,
-    "epa_per_play_off": 0.007,
-    "epa_per_play_def": -0.01,
+    "xpass_residual": -0.001,
+    "epa_per_play_off": 0.012,
+    "epa_per_play_def": 0.005,
     "shotgun_rate": 0.641,
     "no_huddle_rate": 0.074
+   },
+   {
+    "team": "NE",
+    "plays": 614,
+    "pass_rate": 0.547,
+    "early_down_pass_rate": 0.501,
+    "redzone_pass_rate": 0.632,
+    "redzone_plays": 76,
+    "xpass_residual": -0.072,
+    "epa_per_play_off": 0.01,
+    "epa_per_play_def": 0.058,
+    "shotgun_rate": 0.591,
+    "no_huddle_rate": 0.01
    },
    {
     "team": "NYG",
@@ -1992,9 +2233,9 @@
     "early_down_pass_rate": 0.514,
     "redzone_pass_rate": 0.479,
     "redzone_plays": 73,
-    "xpass_residual": -0.069,
-    "epa_per_play_off": 0.005,
-    "epa_per_play_def": -0.032,
+    "xpass_residual": -0.071,
+    "epa_per_play_off": 0.01,
+    "epa_per_play_def": -0.009,
     "shotgun_rate": 0.629,
     "no_huddle_rate": 0.079
    },
@@ -2005,49 +2246,23 @@
     "early_down_pass_rate": 0.579,
     "redzone_pass_rate": 0.514,
     "redzone_plays": 105,
-    "xpass_residual": 0.022,
-    "epa_per_play_off": 0.004,
-    "epa_per_play_def": -0.063,
+    "xpass_residual": 0.025,
+    "epa_per_play_off": 0.008,
+    "epa_per_play_def": -0.042,
     "shotgun_rate": 0.679,
     "no_huddle_rate": 0.093
    },
    {
-    "team": "NE",
-    "plays": 614,
-    "pass_rate": 0.547,
-    "early_down_pass_rate": 0.501,
-    "redzone_pass_rate": 0.632,
-    "redzone_plays": 76,
-    "xpass_residual": -0.074,
-    "epa_per_play_off": 0.001,
-    "epa_per_play_def": 0.065,
-    "shotgun_rate": 0.591,
-    "no_huddle_rate": 0.01
-   },
-   {
-    "team": "NYJ",
-    "plays": 601,
-    "pass_rate": 0.577,
-    "early_down_pass_rate": 0.521,
-    "redzone_pass_rate": 0.563,
-    "redzone_plays": 87,
-    "xpass_residual": -0.06,
-    "epa_per_play_off": -0.02,
-    "epa_per_play_def": 0.05,
-    "shotgun_rate": 0.587,
-    "no_huddle_rate": 0.048
-   },
-   {
     "team": "BAL",
-    "plays": 537,
-    "pass_rate": 0.505,
-    "early_down_pass_rate": 0.444,
-    "redzone_pass_rate": 0.412,
-    "redzone_plays": 85,
-    "xpass_residual": -0.114,
-    "epa_per_play_off": -0.022,
-    "epa_per_play_def": 0.012,
-    "shotgun_rate": 0.59,
+    "plays": 603,
+    "pass_rate": 0.534,
+    "early_down_pass_rate": 0.484,
+    "redzone_pass_rate": 0.415,
+    "redzone_plays": 94,
+    "xpass_residual": -0.092,
+    "epa_per_play_off": -0.008,
+    "epa_per_play_def": 0.015,
+    "shotgun_rate": 0.594,
     "no_huddle_rate": 0.035
    },
    {
@@ -2058,8 +2273,8 @@
     "redzone_pass_rate": 0.541,
     "redzone_plays": 85,
     "xpass_residual": -0.037,
-    "epa_per_play_off": -0.022,
-    "epa_per_play_def": -0.014,
+    "epa_per_play_off": -0.012,
+    "epa_per_play_def": -0.002,
     "shotgun_rate": 0.643,
     "no_huddle_rate": 0.07
    },
@@ -2071,10 +2286,23 @@
     "redzone_pass_rate": 0.515,
     "redzone_plays": 68,
     "xpass_residual": -0.07,
-    "epa_per_play_off": -0.026,
-    "epa_per_play_def": 0.031,
+    "epa_per_play_off": -0.015,
+    "epa_per_play_def": 0.033,
     "shotgun_rate": 0.714,
     "no_huddle_rate": 0.097
+   },
+   {
+    "team": "NYJ",
+    "plays": 601,
+    "pass_rate": 0.577,
+    "early_down_pass_rate": 0.521,
+    "redzone_pass_rate": 0.563,
+    "redzone_plays": 87,
+    "xpass_residual": -0.06,
+    "epa_per_play_off": -0.018,
+    "epa_per_play_def": 0.052,
+    "shotgun_rate": 0.587,
+    "no_huddle_rate": 0.048
    },
    {
     "team": "SEA",
@@ -2083,9 +2311,9 @@
     "early_down_pass_rate": 0.468,
     "redzone_pass_rate": 0.483,
     "redzone_plays": 89,
-    "xpass_residual": -0.093,
-    "epa_per_play_off": -0.032,
-    "epa_per_play_def": -0.113,
+    "xpass_residual": -0.094,
+    "epa_per_play_off": -0.02,
+    "epa_per_play_def": -0.084,
     "shotgun_rate": 0.495,
     "no_huddle_rate": 0.04
    },
@@ -2096,9 +2324,9 @@
     "early_down_pass_rate": 0.582,
     "redzone_pass_rate": 0.642,
     "redzone_plays": 81,
-    "xpass_residual": -0.017,
-    "epa_per_play_off": -0.039,
-    "epa_per_play_def": -0.016,
+    "xpass_residual": -0.018,
+    "epa_per_play_off": -0.024,
+    "epa_per_play_def": -0.012,
     "shotgun_rate": 0.64,
     "no_huddle_rate": 0.072
    },
@@ -2109,9 +2337,9 @@
     "early_down_pass_rate": 0.554,
     "redzone_pass_rate": 0.549,
     "redzone_plays": 113,
-    "xpass_residual": -0.045,
-    "epa_per_play_off": -0.046,
-    "epa_per_play_def": 0.087,
+    "xpass_residual": -0.044,
+    "epa_per_play_off": -0.03,
+    "epa_per_play_def": 0.081,
     "shotgun_rate": 0.551,
     "no_huddle_rate": 0.085
    },
@@ -2122,24 +2350,11 @@
     "early_down_pass_rate": 0.57,
     "redzone_pass_rate": 0.505,
     "redzone_plays": 91,
-    "xpass_residual": -0.041,
-    "epa_per_play_off": -0.067,
-    "epa_per_play_def": 0.015,
+    "xpass_residual": -0.039,
+    "epa_per_play_off": -0.041,
+    "epa_per_play_def": 0.019,
     "shotgun_rate": 0.704,
     "no_huddle_rate": 0.143
-   },
-   {
-    "team": "ARI",
-    "plays": 642,
-    "pass_rate": 0.631,
-    "early_down_pass_rate": 0.582,
-    "redzone_pass_rate": 0.623,
-    "redzone_plays": 122,
-    "xpass_residual": -0.021,
-    "epa_per_play_off": -0.072,
-    "epa_per_play_def": 0.088,
-    "shotgun_rate": 0.603,
-    "no_huddle_rate": 0.098
    },
    {
     "team": "CLE",
@@ -2149,23 +2364,23 @@
     "redzone_pass_rate": 0.468,
     "redzone_plays": 77,
     "xpass_residual": -0.063,
-    "epa_per_play_off": -0.076,
-    "epa_per_play_def": -0.029,
+    "epa_per_play_off": -0.052,
+    "epa_per_play_def": -0.018,
     "shotgun_rate": 0.758,
     "no_huddle_rate": 0.042
    },
    {
-    "team": "TEN",
-    "plays": 510,
-    "pass_rate": 0.594,
-    "early_down_pass_rate": 0.548,
-    "redzone_pass_rate": 0.457,
-    "redzone_plays": 81,
-    "xpass_residual": -0.072,
-    "epa_per_play_off": -0.083,
-    "epa_per_play_def": 0.078,
-    "shotgun_rate": 0.72,
-    "no_huddle_rate": 0.231
+    "team": "ARI",
+    "plays": 642,
+    "pass_rate": 0.631,
+    "early_down_pass_rate": 0.582,
+    "redzone_pass_rate": 0.623,
+    "redzone_plays": 122,
+    "xpass_residual": -0.022,
+    "epa_per_play_off": -0.057,
+    "epa_per_play_def": 0.082,
+    "shotgun_rate": 0.603,
+    "no_huddle_rate": 0.098
    },
    {
     "team": "MIA",
@@ -2175,10 +2390,23 @@
     "redzone_pass_rate": 0.377,
     "redzone_plays": 77,
     "xpass_residual": -0.15,
-    "epa_per_play_off": -0.089,
-    "epa_per_play_def": 0.041,
+    "epa_per_play_off": -0.064,
+    "epa_per_play_def": 0.038,
     "shotgun_rate": 0.573,
     "no_huddle_rate": 0.033
+   },
+   {
+    "team": "TEN",
+    "plays": 510,
+    "pass_rate": 0.594,
+    "early_down_pass_rate": 0.548,
+    "redzone_pass_rate": 0.457,
+    "redzone_plays": 81,
+    "xpass_residual": -0.074,
+    "epa_per_play_off": -0.064,
+    "epa_per_play_def": 0.076,
+    "shotgun_rate": 0.72,
+    "no_huddle_rate": 0.231
    },
    {
     "team": "ATL",
@@ -2187,9 +2415,9 @@
     "early_down_pass_rate": 0.474,
     "redzone_pass_rate": 0.538,
     "redzone_plays": 91,
-    "xpass_residual": -0.1,
-    "epa_per_play_off": -0.102,
-    "epa_per_play_def": -0.004,
+    "xpass_residual": -0.102,
+    "epa_per_play_off": -0.079,
+    "epa_per_play_def": 0.007,
     "shotgun_rate": 0.554,
     "no_huddle_rate": 0.062
    },
@@ -2200,11 +2428,24 @@
     "early_down_pass_rate": 0.414,
     "redzone_pass_rate": 0.415,
     "redzone_plays": 94,
-    "xpass_residual": -0.157,
-    "epa_per_play_off": -0.109,
-    "epa_per_play_def": -0.169,
+    "xpass_residual": -0.155,
+    "epa_per_play_off": -0.083,
+    "epa_per_play_def": -0.127,
     "shotgun_rate": 0.63,
     "no_huddle_rate": 0.068
+   },
+   {
+    "team": "PHI",
+    "plays": 547,
+    "pass_rate": 0.609,
+    "early_down_pass_rate": 0.545,
+    "redzone_pass_rate": 0.328,
+    "redzone_plays": 64,
+    "xpass_residual": -0.067,
+    "epa_per_play_off": -0.105,
+    "epa_per_play_def": 0.059,
+    "shotgun_rate": 0.722,
+    "no_huddle_rate": 0.165
    },
    {
     "team": "IND",
@@ -2214,7 +2455,7 @@
     "redzone_pass_rate": 0.375,
     "redzone_plays": 80,
     "xpass_residual": -0.073,
-    "epa_per_play_off": -0.139,
+    "epa_per_play_off": -0.107,
     "epa_per_play_def": 0.025,
     "shotgun_rate": 0.619,
     "no_huddle_rate": 0.041
@@ -2226,37 +2467,24 @@
     "early_down_pass_rate": 0.459,
     "redzone_pass_rate": 0.585,
     "redzone_plays": 65,
-    "xpass_residual": -0.065,
-    "epa_per_play_off": -0.146,
-    "epa_per_play_def": -0.164,
+    "xpass_residual": -0.066,
+    "epa_per_play_off": -0.112,
+    "epa_per_play_def": -0.129,
     "shotgun_rate": 0.582,
     "no_huddle_rate": 0.061
    },
    {
-    "team": "PHI",
-    "plays": 547,
-    "pass_rate": 0.609,
-    "early_down_pass_rate": 0.545,
-    "redzone_pass_rate": 0.328,
-    "redzone_plays": 64,
-    "xpass_residual": -0.067,
-    "epa_per_play_off": -0.146,
-    "epa_per_play_def": 0.062,
-    "shotgun_rate": 0.722,
-    "no_huddle_rate": 0.165
-   },
-   {
     "team": "LAC",
-    "plays": 499,
-    "pass_rate": 0.551,
-    "early_down_pass_rate": 0.467,
-    "redzone_pass_rate": 0.5,
-    "redzone_plays": 60,
-    "xpass_residual": -0.147,
-    "epa_per_play_off": -0.244,
-    "epa_per_play_def": -0.02,
-    "shotgun_rate": 0.669,
-    "no_huddle_rate": 0.052
+    "plays": 553,
+    "pass_rate": 0.533,
+    "early_down_pass_rate": 0.455,
+    "redzone_pass_rate": 0.485,
+    "redzone_plays": 66,
+    "xpass_residual": -0.15,
+    "epa_per_play_off": -0.175,
+    "epa_per_play_def": -0.009,
+    "shotgun_rate": 0.673,
+    "no_huddle_rate": 0.049
    }
   ]
  },
@@ -2636,6 +2864,104 @@
    "headline": "Falcons execute perfect on-side kick",
    "video_url": "https://www.espn.com/video/clip/_/id/50493447/falcons-execute-perfect-side-kick",
    "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/a6f958b1-9965-4448-aecd-5319ad456b27/a6f958b1-9965-4448-aecd-5319ad456b27.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Chargers stun Ravens, pick up first win on MNF",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507744/chargers-stun-ravens-pick-first-win-mnf",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/4940034c263e4b06aab33d5d977dc0c91402/4940034c263e4b06aab33d5d977dc0c91402.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Justin Herbert shows off his elusiveness with a rushing TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/50506563/justin-herbert-shows-elusiveness-rushing-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/b8968a19477646249f0ec25dc285545f1268/b8968a19477646249f0ec25dc285545f1268.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Mark Andrews' amazing snag sets up a King Henry rushing TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/50506867/mark-andrews-amazing-snag-sets-king-henry-rushing-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/74ad0265b99e49bf87d4996ecf86a56a1286/74ad0265b99e49bf87d4996ecf86a56a1286.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Del'Shawn Phillips snags the INT after ball bounces off teammates helmet",
+   "video_url": "https://www.espn.com/video/clip/_/id/50506923/delshawn-phillips-snags-int-ball-bounces-teammates-helmet",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/f2df7f31866c4fef9fa0f8899251f03c1287/f2df7f31866c4fef9fa0f8899251f03c1287.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Omarion Hampton plows across the goal line for a Chargers TD",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507150/omarion-hampton-plows-goal-line-chargers-td",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/acdf85a9dd0544ea85805dbdfb17d37b1306/acdf85a9dd0544ea85805dbdfb17d37b1306.jpg",
+   "players": [
+    "Omarion Hampton"
+   ],
+   "owners": [
+    "KamarasNuts"
+   ]
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Derrick Henry's 2nd rushing TD pulls Ravens closer",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507656/derrick-henry-2nd-rushing-td-pulls-ravens-closer",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/4e4126066b224382bbef9b456ee2bf661429/4e4126066b224382bbef9b456ee2bf661429.jpg",
+   "players": [
+    "Derrick Henry"
+   ],
+   "owners": [
+    "raymondfeltons"
+   ]
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Chargers seal victory with late forced fumble by Tarheeb Still",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507738/chargers-seal-victory-late-forced-fumble-tarheeb-still",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/442727b06947454cad1e02d7078cf56c1422/442727b06947454cad1e02d7078cf56c1422.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Chargers stop Ravens' Hail Mary attempt to secure 1st win",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507793/chargers-stop-ravens-hail-mary-attempt-secure-1st-win",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/1cd4b23f75ed4cbfb0790f095f7072021423/1cd4b23f75ed4cbfb0790f095f7072021423.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Justice Hill breaks free for a big-time Ravens 1st down",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507817/justice-hill-breaks-free-big-ravens-1st-down",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/ff5010be88994a578b9d7401f67df07f1424/ff5010be88994a578b9d7401f67df07f1424.jpg",
+   "players": [],
+   "owners": []
+  },
+  {
+   "game": "LAC @ BAL",
+   "kind": "play",
+   "headline": "Rashod Bateman makes an amazing grab in traffic",
+   "video_url": "https://www.espn.com/video/clip/_/id/50507821/rashod-bateman-makes-amazing-grab-traffic",
+   "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/5623b86dcf6e4033a964c89780e2a0571425/5623b86dcf6e4033a964c89780e2a0571425.jpg",
    "players": [],
    "owners": []
   },
@@ -3187,191 +3513,196 @@
    "game": "PIT @ CIN",
    "headline": "Joe Burrow and Bengals dominate Steelers 38-18 to take AFC North lead alone",
    "link": "https://www.espn.com/nfl/recap?gameId=401873064"
+  },
+  {
+   "game": "LAC @ BAL",
+   "headline": "Chargers bully the Ravens at the line of scrimmage and earn their first win of the season, 23-20",
+   "link": "https://www.espn.com/nfl/recap?gameId=401873065"
   }
  ],
  "weekly_awards": {
-  "week": 9,
+  "week": 10,
   "best_team": {
-   "team": "ryancrabbe",
-   "actual": 134.98,
-   "max": 139.38,
-   "efficiency": 96.8,
-   "matchup_id": 4,
+   "team": "arabdhab",
+   "actual": 174.76,
+   "max": 183.86,
+   "efficiency": 95.1,
+   "matchup_id": 3,
    "result": "W"
   },
   "worst_team": {
-   "team": "Ulyssesbo",
-   "actual": 80.78,
-   "max": 84.48,
-   "efficiency": 95.6,
-   "matchup_id": 5,
+   "team": "joshsandorra",
+   "actual": 70.7,
+   "max": 73.9,
+   "efficiency": 95.7,
+   "matchup_id": 3,
    "result": "L"
   },
   "highest_pts_in_loss": {
-   "team": "arabdhab",
-   "actual": 114.64,
-   "max": 124.44,
-   "efficiency": 92.1,
-   "matchup_id": 6,
-   "result": "L"
-  },
-  "lowest_pts_in_win": {
    "team": "ak81",
-   "actual": 100.46,
-   "max": 110.16,
-   "efficiency": 91.2,
-   "matchup_id": 1,
-   "result": "W"
-  },
-  "most_efficient": {
-   "team": "kisiluv",
-   "actual": 93.1,
-   "max": 93.1,
-   "efficiency": 100.0,
+   "actual": 108.34,
+   "max": 120.74,
+   "efficiency": 89.7,
    "matchup_id": 4,
    "result": "L"
   },
-  "least_efficient": {
-   "team": "KamarasNuts",
-   "actual": 112.38,
-   "max": 129.18,
-   "efficiency": 87.0,
+  "lowest_pts_in_win": {
+   "team": "zachschumann",
+   "actual": 100.12,
+   "max": 117.22,
+   "efficiency": 85.4,
    "matchup_id": 2,
    "result": "W"
   },
+  "most_efficient": {
+   "team": "KamarasNuts",
+   "actual": 101.86,
+   "max": 101.86,
+   "efficiency": 100.0,
+   "matchup_id": 6,
+   "result": "L"
+  },
+  "least_efficient": {
+   "team": "Ulyssesbo",
+   "actual": 88.76,
+   "max": 109.12,
+   "efficiency": 81.3,
+   "matchup_id": 5,
+   "result": "L"
+  },
   "efficiency_rank": [
    {
-    "team": "kisiluv",
-    "actual": 93.1,
-    "max": 93.1,
+    "team": "KamarasNuts",
+    "actual": 101.86,
+    "max": 101.86,
     "efficiency": 100.0,
-    "matchup_id": 4,
+    "matchup_id": 6,
     "result": "L"
    },
    {
     "team": "Gujju8",
-    "actual": 108.08,
-    "max": 108.08,
-    "efficiency": 100.0,
-    "matchup_id": 3,
-    "result": "L"
+    "actual": 168.58,
+    "max": 172.78,
+    "efficiency": 97.6,
+    "matchup_id": 5,
+    "result": "W"
+   },
+   {
+    "team": "kisiluv",
+    "actual": 120.02,
+    "max": 123.72,
+    "efficiency": 97.0,
+    "matchup_id": 1,
+    "result": "W"
    },
    {
     "team": "ryancrabbe",
-    "actual": 134.98,
-    "max": 139.38,
-    "efficiency": 96.8,
+    "actual": 111.7,
+    "max": 115.3,
+    "efficiency": 96.9,
     "matchup_id": 4,
     "result": "W"
    },
    {
-    "team": "Ulyssesbo",
-    "actual": 80.78,
-    "max": 84.48,
-    "efficiency": 95.6,
-    "matchup_id": 5,
+    "team": "joshsandorra",
+    "actual": 70.7,
+    "max": 73.9,
+    "efficiency": 95.7,
+    "matchup_id": 3,
     "result": "L"
-   },
-   {
-    "team": "J2Money",
-    "actual": 97.42,
-    "max": 102.12,
-    "efficiency": 95.4,
-    "matchup_id": 1,
-    "result": "L"
-   },
-   {
-    "team": "raymondfeltons",
-    "actual": 117.58,
-    "max": 124.08,
-    "efficiency": 94.8,
-    "matchup_id": 6,
-    "result": "W"
-   },
-   {
-    "team": "uaintgotjuicehoeido",
-    "actual": 120.56,
-    "max": 130.96,
-    "efficiency": 92.1,
-    "matchup_id": 5,
-    "result": "W"
    },
    {
     "team": "arabdhab",
-    "actual": 114.64,
-    "max": 124.44,
-    "efficiency": 92.1,
-    "matchup_id": 6,
-    "result": "L"
-   },
-   {
-    "team": "zachschumann",
-    "actual": 126.5,
-    "max": 138.7,
-    "efficiency": 91.2,
+    "actual": 174.76,
+    "max": 183.86,
+    "efficiency": 95.1,
     "matchup_id": 3,
     "result": "W"
    },
    {
-    "team": "ak81",
-    "actual": 100.46,
-    "max": 110.16,
-    "efficiency": 91.2,
-    "matchup_id": 1,
+    "team": "uaintgotjuicehoeido",
+    "actual": 128.64,
+    "max": 138.54,
+    "efficiency": 92.9,
+    "matchup_id": 6,
     "result": "W"
    },
    {
-    "team": "joshsandorra",
-    "actual": 80.86,
-    "max": 90.36,
-    "efficiency": 89.5,
+    "team": "J2Money",
+    "actual": 71.66,
+    "max": 78.56,
+    "efficiency": 91.2,
+    "matchup_id": 1,
+    "result": "L"
+   },
+   {
+    "team": "ak81",
+    "actual": 108.34,
+    "max": 120.74,
+    "efficiency": 89.7,
+    "matchup_id": 4,
+    "result": "L"
+   },
+   {
+    "team": "zachschumann",
+    "actual": 100.12,
+    "max": 117.22,
+    "efficiency": 85.4,
+    "matchup_id": 2,
+    "result": "W"
+   },
+   {
+    "team": "raymondfeltons",
+    "actual": 84.78,
+    "max": 103.54,
+    "efficiency": 81.9,
     "matchup_id": 2,
     "result": "L"
    },
    {
-    "team": "KamarasNuts",
-    "actual": 112.38,
-    "max": 129.18,
-    "efficiency": 87.0,
-    "matchup_id": 2,
-    "result": "W"
+    "team": "Ulyssesbo",
+    "actual": 88.76,
+    "max": 109.12,
+    "efficiency": 81.3,
+    "matchup_id": 5,
+    "result": "L"
    }
   ],
   "players_of_week": {
    "QB": {
-    "team": "ryancrabbe",
-    "pid": "6804",
-    "name": "Jordan Love",
+    "team": "zachschumann",
+    "pid": "3294",
+    "name": "Dak Prescott",
     "pos": "QB",
-    "nfl": "GB",
-    "pts": 36.18,
+    "nfl": "DAL",
+    "pts": 34.42,
     "started": true
    },
    "RB": {
-    "team": "KamarasNuts",
-    "pid": "8151",
-    "name": "Kenneth Walker III",
+    "team": "uaintgotjuicehoeido",
+    "pid": "4034",
+    "name": "Christian McCaffrey",
     "pos": "RB",
-    "nfl": "KC",
-    "pts": 34.3,
+    "nfl": "SF",
+    "pts": 44.3,
     "started": true
    },
    "WR": {
-    "team": "ryancrabbe",
-    "pid": "6786",
-    "name": "CeeDee Lamb",
+    "team": "arabdhab",
+    "pid": "8137",
+    "name": "George Pickens",
     "pos": "WR",
     "nfl": "DAL",
-    "pts": 28.5,
+    "pts": 38.0,
     "started": true
    },
    "TE": {
-    "team": "zachschumann",
-    "pid": "11604",
-    "name": "Brock Bowers",
+    "team": "Gujju8",
+    "pid": "8131",
+    "name": "Isaiah Likely",
     "pos": "TE",
-    "nfl": "LV",
-    "pts": 18.8,
+    "nfl": "NYG",
+    "pts": 23.2,
     "started": true
    },
    "K": {
@@ -3380,27 +3711,27 @@
     "name": "Cam Little",
     "pos": "K",
     "nfl": "JAX",
-    "pts": 17.0,
+    "pts": 19.0,
     "started": true
    },
    "DEF": {
-    "team": "J2Money",
-    "pid": "SF",
-    "name": "San Francisco 49ers",
+    "team": "raymondfeltons",
+    "pid": "MIN",
+    "name": "Minnesota Vikings",
     "pos": "DEF",
-    "nfl": "SF",
-    "pts": 19.0,
+    "nfl": "MIN",
+    "pts": 21.0,
     "started": true
    }
   },
   "benchwarmers_of_week": {
    "QB": {
-    "team": "arabdhab",
-    "pid": "11564",
-    "name": "Drake Maye",
+    "team": "Ulyssesbo",
+    "pid": "4046",
+    "name": "Patrick Mahomes",
     "pos": "QB",
-    "nfl": "NE",
-    "pts": 18.26,
+    "nfl": "KC",
+    "pts": 35.42,
     "started": false
    },
    "RB": {
@@ -3409,41 +3740,54 @@
     "name": "Seth McGowan",
     "pos": "RB",
     "nfl": "IND",
-    "pts": 10.7,
+    "pts": 13.7,
     "started": false
    },
    "WR": {
-    "team": "KamarasNuts",
-    "pid": "13298",
-    "name": "KC Concepcion Jr.",
+    "team": "ak81",
+    "pid": "2449",
+    "name": "Stefon Diggs",
     "pos": "WR",
-    "nfl": "CLE",
-    "pts": 16.8,
+    "nfl": "WAS",
+    "pts": 17.3,
     "started": false
    },
    "TE": {
-    "team": "uaintgotjuicehoeido",
-    "pid": "1466",
-    "name": "Travis Kelce",
+    "team": "Gujju8",
+    "pid": "12506",
+    "name": "Harold Fannin Jr.",
     "pos": "TE",
-    "nfl": "KC",
-    "pts": 15.3,
+    "nfl": "CLE",
+    "pts": 12.6,
     "started": false
    },
    "DEF": {
-    "team": "Gujju8",
-    "pid": "LAR",
-    "name": "Los Angeles Rams",
+    "team": "arabdhab",
+    "pid": "BUF",
+    "name": "Buffalo Bills",
     "pos": "DEF",
-    "nfl": "LAR",
-    "pts": 11.0,
+    "nfl": "BUF",
+    "pts": 10.0,
     "started": false
    }
   }
  },
  "waivers": {
-  "as_of_week": 10,
+  "as_of_week": 11,
   "moves": [
+   {
+    "team": "Gujju8",
+    "added": [],
+    "dropped": [
+     {
+      "name": "Dominic Zvada",
+      "pos": "K"
+     }
+    ],
+    "faab": 0,
+    "type": "free_agent",
+    "created": 1794920767368
+   },
    {
     "team": "ryancrabbe",
     "added": [
@@ -4415,34 +4759,16 @@
     "faab": 0,
     "type": "waiver",
     "created": 1793757463077
-   },
-   {
-    "team": "kisiluv",
-    "added": [
-     {
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB"
-     }
-    ],
-    "dropped": [
-     {
-      "name": "New Orleans Saints",
-      "pos": "DEF"
-     }
-    ],
-    "faab": 9,
-    "type": "waiver",
-    "created": 1793731499783
    }
   ],
   "faab_left": {
    "Gujju8": 42,
    "kisiluv": 44,
    "raymondfeltons": 38,
-   "zachschumann": 9,
+   "zachschumann": 11,
    "joshsandorra": 59,
    "J2Money": 31,
-   "uaintgotjuicehoeido": 35,
+   "uaintgotjuicehoeido": 33,
    "arabdhab": 36,
    "Ulyssesbo": 16,
    "ak81": 85,
@@ -4458,7 +4784,7 @@
    "nfl_team": "MIN",
    "pid": "5844",
    "current_status": "Out",
-   "expected_games_missed": 4.1,
+   "expected_games_missed": 4.0,
    "return_week": null,
    "note": null,
    "source": null
@@ -4470,7 +4796,7 @@
    "nfl_team": "TEN",
    "pid": "13279",
    "current_status": "Out",
-   "expected_games_missed": 4.1,
+   "expected_games_missed": 4.0,
    "return_week": null,
    "note": null,
    "source": null
@@ -4482,7 +4808,7 @@
    "nfl_team": "DEN",
    "pid": "7526",
    "current_status": "Out",
-   "expected_games_missed": 4.1,
+   "expected_games_missed": 4.0,
    "return_week": null,
    "note": null,
    "source": null
@@ -4494,19 +4820,7 @@
    "nfl_team": "LAR",
    "pid": "9493",
    "current_status": "IR",
-   "expected_games_missed": 4.1,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "team": "KamarasNuts",
-   "pos": "RB",
-   "nfl_team": "WAS",
-   "pid": "12533",
-   "current_status": "IR",
-   "expected_games_missed": 4.1,
+   "expected_games_missed": 4.0,
    "return_week": null,
    "note": null,
    "source": null
@@ -4536,13 +4850,37 @@
    "source": null
   },
   {
+   "name": "Jacory Croskey-Merritt",
+   "team": "KamarasNuts",
+   "pos": "RB",
+   "nfl_team": "WAS",
+   "pid": "12533",
+   "current_status": "IR",
+   "expected_games_missed": 4.0,
+   "return_week": null,
+   "note": null,
+   "source": null
+  },
+  {
+   "name": "Drake Maye",
+   "team": "arabdhab",
+   "pos": "QB",
+   "nfl_team": "NE",
+   "pid": "11564",
+   "current_status": "Out",
+   "expected_games_missed": 4.0,
+   "return_week": null,
+   "note": null,
+   "source": null
+  },
+  {
    "name": "RJ Harvey",
    "team": "ak81",
    "pos": "RB",
    "nfl_team": "DEN",
    "pid": "12489",
    "current_status": "IR",
-   "expected_games_missed": 3.2,
+   "expected_games_missed": 2.2,
    "return_week": 13,
    "note": "Short-term IR 10/31 (knee, hurt in practice 10/29). Must miss four games: Weeks 8, 9, 11, 12 (DEN bye Week 10). Eligible Week 13 vs MIA.",
    "source": "AP via Washington Post/Fox Sports, NBC Sports (PFT), Yahoo (11/1)"
@@ -4554,34 +4892,10 @@
    "nfl_team": "BAL",
    "pid": "4881",
    "current_status": "IR",
-   "expected_games_missed": 3.1,
+   "expected_games_missed": 2.1,
    "return_week": 13,
    "note": "Right thumb injury on Baltimore's first offensive play of Week 8 vs BUF (first game back from the ankle). Minter: needs surgery and goes on IR, so he misses at least Weeks 9-12. Minter didn't know yet if it's season-ending; Week 13 is the earliest possible return.",
    "source": "Jesse Minter via ESPN, Yahoo Sports, BaltimoreRavens.com (11/1)"
-  },
-  {
-   "name": "A.J. Brown",
-   "team": "J2Money",
-   "pos": "WR",
-   "nfl_team": "NE",
-   "pid": "5859",
-   "current_status": "Out",
-   "expected_games_missed": 2.3,
-   "return_week": 12,
-   "note": "Knee flare-up on top of the ankle; has missed the last two games. Listed Questionable for Week 10 and expected to travel to Munich, but the beat reporting says he likely will not play and is expected to be held out through the Week 11 bye, returning Week 12 at LAC. The 11/10 Sleeper move from Out to Questionable is a designation change only. Unconfirmed.",
-   "source": "ESPN (Schefter, knee is the primary concern); ProFootballRumors (11/2026); Musketfire (Vrabel: likely will not make it); NFL.com 2026 Patriots schedule (Week 11 bye)"
-  },
-  {
-   "name": "Rhamondre Stevenson",
-   "team": "zachschumann",
-   "pos": "RB",
-   "nfl_team": "NE",
-   "pid": "7611",
-   "current_status": null,
-   "expected_games_missed": 2.3,
-   "return_week": 12,
-   "note": "Knee tendon injury suffered in the Week 9 loss to GB; ruled out for Week 10 at DET and reported as a multi-week absence. Patriots bye is Week 11, so Week 12 at LAC is the earliest possible game. Sleeper has him Doubtful. Unconfirmed.",
-   "source": "NBC Sports Week 10 injury report (11/10); NESN (11/10); NFL.com/Patriots.com 2026 schedule (Week 11 bye)"
   },
   {
    "name": "Josh Jacobs",
@@ -4596,25 +4910,13 @@
    "source": null
   },
   {
-   "name": "Zach Charbonnet",
-   "team": "joshsandorra",
-   "pos": "RB",
-   "nfl_team": "SEA",
-   "pid": "9753",
-   "current_status": null,
-   "expected_games_missed": 1.7,
-   "return_week": null,
-   "note": null,
-   "source": null
-  },
-  {
    "name": "Woody Marks",
    "team": "joshsandorra",
    "pos": "RB",
    "nfl_team": "HOU",
    "pid": "12474",
    "current_status": "Out",
-   "expected_games_missed": 1.5,
+   "expected_games_missed": 1.4,
    "return_week": null,
    "note": null,
    "source": null
@@ -4626,22 +4928,22 @@
    "nfl_team": "KC",
    "pid": "8151",
    "current_status": "Out",
-   "expected_games_missed": 1.5,
+   "expected_games_missed": 1.4,
    "return_week": null,
    "note": null,
    "source": null
   },
   {
-   "name": "Kyle Monangai",
-   "team": "arabdhab",
-   "pos": "RB",
-   "nfl_team": "CHI",
-   "pid": "12534",
+   "name": "A.J. Brown",
+   "team": "J2Money",
+   "pos": "WR",
+   "nfl_team": "NE",
+   "pid": "5859",
    "current_status": "Out",
-   "expected_games_missed": 1.5,
-   "return_week": 11,
-   "note": "Turf toe (plus thumb), out since Week 4; still Out for Week 9 (Sleeper status Out, 0 pts). Bears kept him off IR. Bears bye is Week 10, so Week 11 is the earliest possible game. Unconfirmed.",
-   "source": "Chicago Sun-Times (10/29), Sleeper status (11/9)"
+   "expected_games_missed": 1.3,
+   "return_week": 12,
+   "note": "Knee flare-up on top of the ankle; has missed the last two games. Listed Questionable for Week 10 and expected to travel to Munich, but the beat reporting says he likely will not play and is expected to be held out through the Week 11 bye, returning Week 12 at LAC. The 11/10 Sleeper move from Out to Questionable is a designation change only. Unconfirmed.",
+   "source": "ESPN (Schefter, knee is the primary concern); ProFootballRumors (11/2026); Musketfire (Vrabel: likely will not make it); NFL.com 2026 Patriots schedule (Week 11 bye)"
   },
   {
    "name": "Jordan Addison",
@@ -4650,22 +4952,22 @@
    "nfl_team": "MIN",
    "pid": "9756",
    "current_status": "Out",
-   "expected_games_missed": 1.4,
+   "expected_games_missed": 1.3,
    "return_week": null,
    "note": null,
    "source": null
   },
   {
-   "name": "Brock Bowers",
+   "name": "Rhamondre Stevenson",
    "team": "zachschumann",
-   "pos": "TE",
-   "nfl_team": "LV",
-   "pid": "11604",
-   "current_status": "Out",
-   "expected_games_missed": 1.4,
-   "return_week": null,
-   "note": null,
-   "source": null
+   "pos": "RB",
+   "nfl_team": "NE",
+   "pid": "7611",
+   "current_status": null,
+   "expected_games_missed": 1.3,
+   "return_week": 12,
+   "note": "Knee tendon injury suffered in the Week 9 loss to GB; ruled out for Week 10 at DET and reported as a multi-week absence. Patriots bye is Week 11, so Week 12 at LAC is the earliest possible game. Sleeper has him Doubtful. Unconfirmed.",
+   "source": "NBC Sports Week 10 injury report (11/10); NESN (11/10); NFL.com/Patriots.com 2026 schedule (Week 11 bye)"
   },
   {
    "name": "Mike Evans",
@@ -4674,7 +4976,7 @@
    "nfl_team": "SF",
    "pid": "2216",
    "current_status": "Out",
-   "expected_games_missed": 1.4,
+   "expected_games_missed": 1.3,
    "return_week": null,
    "note": null,
    "source": null
@@ -4686,7 +4988,31 @@
    "nfl_team": "LAC",
    "pid": "11635",
    "current_status": "Out",
-   "expected_games_missed": 1.4,
+   "expected_games_missed": 1.3,
+   "return_week": null,
+   "note": null,
+   "source": null
+  },
+  {
+   "name": "Omar Cooper Jr.",
+   "team": "joshsandorra",
+   "pos": "WR",
+   "nfl_team": "NYJ",
+   "pid": "13276",
+   "current_status": "Out",
+   "expected_games_missed": 1.2,
+   "return_week": null,
+   "note": null,
+   "source": null
+  },
+  {
+   "name": "Brock Bowers",
+   "team": "zachschumann",
+   "pos": "TE",
+   "nfl_team": "LV",
+   "pid": "11604",
+   "current_status": "Out",
+   "expected_games_missed": 1.2,
    "return_week": null,
    "note": null,
    "source": null
@@ -4725,166 +5051,166 @@
      "regression_case": 100.0
     },
     "title_pct": {
-     "baseline": 24.3,
-     "high_chaos": 24.7,
+     "baseline": 24.0,
+     "high_chaos": 24.9,
      "healthy_world": 24.1,
-     "regression_case": 24.5
+     "regression_case": 25.1
     },
     "playoff_spread": 0.0,
-    "title_spread": 0.6
+    "title_spread": 1.1
    },
    {
     "team": "kisiluv",
     "playoff_pct": {
-     "baseline": 93.5,
-     "high_chaos": 91.2,
-     "healthy_world": 94.8,
-     "regression_case": 93.3
+     "baseline": 95.3,
+     "high_chaos": 93.1,
+     "healthy_world": 96.6,
+     "regression_case": 94.9
     },
     "title_pct": {
      "baseline": 26.4,
-     "high_chaos": 24.1,
-     "healthy_world": 27.7,
-     "regression_case": 27.9
+     "high_chaos": 24.0,
+     "healthy_world": 28.1,
+     "regression_case": 28.0
     },
-    "playoff_spread": 3.6,
-    "title_spread": 3.8
+    "playoff_spread": 3.5,
+    "title_spread": 4.1
    },
    {
     "team": "uaintgotjuicehoeido",
     "playoff_pct": {
-     "baseline": 81.8,
-     "high_chaos": 79.1,
-     "healthy_world": 83.8,
-     "regression_case": 65.8
+     "baseline": 87.7,
+     "high_chaos": 84.9,
+     "healthy_world": 88.8,
+     "regression_case": 73.3
     },
     "title_pct": {
-     "baseline": 10.4,
-     "high_chaos": 10.9,
-     "healthy_world": 10.8,
-     "regression_case": 4.1
+     "baseline": 11.2,
+     "high_chaos": 11.7,
+     "healthy_world": 11.3,
+     "regression_case": 4.3
     },
-    "playoff_spread": 18.0,
-    "title_spread": 6.8
+    "playoff_spread": 15.5,
+    "title_spread": 7.4
    },
    {
     "team": "ak81",
     "playoff_pct": {
-     "baseline": 69.8,
-     "high_chaos": 67.1,
-     "healthy_world": 69.0,
-     "regression_case": 70.2
+     "baseline": 73.5,
+     "high_chaos": 70.7,
+     "healthy_world": 74.1,
+     "regression_case": 73.9
     },
     "title_pct": {
-     "baseline": 10.8,
-     "high_chaos": 9.8,
+     "baseline": 10.9,
+     "high_chaos": 10.3,
      "healthy_world": 10.2,
-     "regression_case": 11.0
+     "regression_case": 11.7
     },
-    "playoff_spread": 3.1,
-    "title_spread": 1.2
+    "playoff_spread": 3.4,
+    "title_spread": 1.5
    },
    {
     "team": "Gujju8",
     "playoff_pct": {
-     "baseline": 61.2,
-     "high_chaos": 60.0,
-     "healthy_world": 65.8,
-     "regression_case": 66.1
+     "baseline": 67.0,
+     "high_chaos": 65.7,
+     "healthy_world": 69.0,
+     "regression_case": 69.9
     },
     "title_pct": {
-     "baseline": 7.7,
-     "high_chaos": 7.7,
-     "healthy_world": 7.8,
-     "regression_case": 9.2
+     "baseline": 8.3,
+     "high_chaos": 8.3,
+     "healthy_world": 8.3,
+     "regression_case": 9.3
     },
-    "playoff_spread": 6.1,
-    "title_spread": 1.5
+    "playoff_spread": 4.2,
+    "title_spread": 1.0
    },
    {
     "team": "arabdhab",
     "playoff_pct": {
-     "baseline": 55.7,
-     "high_chaos": 56.9,
-     "healthy_world": 53.3,
-     "regression_case": 60.0
+     "baseline": 53.8,
+     "high_chaos": 53.1,
+     "healthy_world": 54.1,
+     "regression_case": 58.3
     },
     "title_pct": {
      "baseline": 6.0,
-     "high_chaos": 6.9,
-     "healthy_world": 6.1,
-     "regression_case": 6.9
+     "high_chaos": 6.2,
+     "healthy_world": 5.8,
+     "regression_case": 6.6
     },
-    "playoff_spread": 6.7,
-    "title_spread": 0.9
+    "playoff_spread": 5.2,
+    "title_spread": 0.8
    },
    {
     "team": "joshsandorra",
     "playoff_pct": {
-     "baseline": 53.6,
-     "high_chaos": 56.7,
-     "healthy_world": 52.7,
-     "regression_case": 53.4
+     "baseline": 46.8,
+     "high_chaos": 51.9,
+     "healthy_world": 44.6,
+     "regression_case": 47.2
     },
     "title_pct": {
-     "baseline": 2.9,
-     "high_chaos": 4.3,
-     "healthy_world": 2.9,
-     "regression_case": 3.5
+     "baseline": 3.2,
+     "high_chaos": 4.1,
+     "healthy_world": 2.5,
+     "regression_case": 3.0
     },
-    "playoff_spread": 4.0,
-    "title_spread": 1.4
+    "playoff_spread": 7.3,
+    "title_spread": 1.6
    },
    {
     "team": "zachschumann",
     "playoff_pct": {
-     "baseline": 48.4,
-     "high_chaos": 47.2,
-     "healthy_world": 45.9,
-     "regression_case": 53.8
+     "baseline": 45.5,
+     "high_chaos": 45.1,
+     "healthy_world": 44.0,
+     "regression_case": 51.9
     },
     "title_pct": {
-     "baseline": 7.9,
-     "high_chaos": 7.4,
-     "healthy_world": 7.1,
-     "regression_case": 8.9
+     "baseline": 7.1,
+     "high_chaos": 6.6,
+     "healthy_world": 6.9,
+     "regression_case": 8.6
     },
     "playoff_spread": 7.9,
-    "title_spread": 1.8
+    "title_spread": 2.0
    },
    {
     "team": "raymondfeltons",
     "playoff_pct": {
-     "baseline": 27.0,
-     "high_chaos": 32.0,
-     "healthy_world": 26.4,
-     "regression_case": 27.8
+     "baseline": 21.2,
+     "high_chaos": 26.1,
+     "healthy_world": 20.4,
+     "regression_case": 21.0
     },
     "title_pct": {
-     "baseline": 2.8,
-     "high_chaos": 3.3,
-     "healthy_world": 2.6,
-     "regression_case": 3.0
+     "baseline": 2.0,
+     "high_chaos": 2.9,
+     "healthy_world": 2.1,
+     "regression_case": 2.5
     },
-    "playoff_spread": 5.6,
-    "title_spread": 0.7
+    "playoff_spread": 5.7,
+    "title_spread": 0.9
    },
    {
     "team": "KamarasNuts",
     "playoff_pct": {
-     "baseline": 9.1,
-     "high_chaos": 9.9,
-     "healthy_world": 8.4,
-     "regression_case": 9.6
+     "baseline": 9.3,
+     "high_chaos": 9.4,
+     "healthy_world": 8.3,
+     "regression_case": 9.5
     },
     "title_pct": {
-     "baseline": 0.7,
-     "high_chaos": 0.8,
+     "baseline": 0.9,
+     "high_chaos": 1.0,
      "healthy_world": 0.8,
-     "regression_case": 1.1
+     "regression_case": 0.9
     },
-    "playoff_spread": 1.5,
-    "title_spread": 0.4
+    "playoff_spread": 1.2,
+    "title_spread": 0.2
    },
    {
     "team": "J2Money",
@@ -4930,35 +5256,35 @@
      "pod_w": 2,
      "pod_l": 1,
      "playoff_pct": 100.0,
-     "title_pct": 24.3,
-     "actual_w": 8,
+     "title_pct": 24.0,
+     "actual_w": 9,
      "actual_l": 1
     },
     {
      "team": "uaintgotjuicehoeido",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 81.8,
-     "title_pct": 10.4,
-     "actual_w": 5,
+     "playoff_pct": 87.7,
+     "title_pct": 11.2,
+     "actual_w": 6,
      "actual_l": 4
     },
     {
      "team": "Gujju8",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 61.2,
-     "title_pct": 7.7,
-     "actual_w": 4,
+     "playoff_pct": 67.0,
+     "title_pct": 8.3,
+     "actual_w": 5,
      "actual_l": 5
     },
     {
      "team": "arabdhab",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 55.7,
+     "playoff_pct": 53.8,
      "title_pct": 6.0,
-     "actual_w": 4,
+     "actual_w": 5,
      "actual_l": 5
     }
    ],
@@ -4987,10 +5313,10 @@
      "team": "joshsandorra",
      "pod_w": 3,
      "pod_l": 0,
-     "playoff_pct": 53.6,
-     "title_pct": 2.9,
+     "playoff_pct": 46.8,
+     "title_pct": 3.2,
      "actual_w": 6,
-     "actual_l": 3
+     "actual_l": 4
     },
     {
      "team": "Ulyssesbo",
@@ -4999,15 +5325,15 @@
      "playoff_pct": 0.0,
      "title_pct": 0.0,
      "actual_w": 2,
-     "actual_l": 7
+     "actual_l": 8
     },
     {
      "team": "zachschumann",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 48.4,
-     "title_pct": 7.9,
-     "actual_w": 4,
+     "playoff_pct": 45.5,
+     "title_pct": 7.1,
+     "actual_w": 5,
      "actual_l": 5
     },
     {
@@ -5017,7 +5343,7 @@
      "playoff_pct": 0.0,
      "title_pct": 0.0,
      "actual_w": 2,
-     "actual_l": 7
+     "actual_l": 8
     }
    ],
    "leader": "joshsandorra",
@@ -5045,37 +5371,37 @@
      "team": "ak81",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 69.8,
-     "title_pct": 10.8,
+     "playoff_pct": 73.5,
+     "title_pct": 10.9,
      "actual_w": 5,
-     "actual_l": 4
+     "actual_l": 5
     },
     {
      "team": "KamarasNuts",
      "pod_w": 2,
      "pod_l": 1,
-     "playoff_pct": 9.1,
-     "title_pct": 0.7,
+     "playoff_pct": 9.3,
+     "title_pct": 0.9,
      "actual_w": 4,
-     "actual_l": 5
+     "actual_l": 6
     },
     {
      "team": "kisiluv",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 93.5,
+     "playoff_pct": 95.3,
      "title_pct": 26.4,
-     "actual_w": 5,
+     "actual_w": 6,
      "actual_l": 4
     },
     {
      "team": "raymondfeltons",
      "pod_w": 1,
      "pod_l": 2,
-     "playoff_pct": 27.0,
-     "title_pct": 2.8,
+     "playoff_pct": 21.2,
+     "title_pct": 2.0,
      "actual_w": 5,
-     "actual_l": 4
+     "actual_l": 5
     }
    ],
    "leader": "ak81",
